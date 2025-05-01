@@ -410,6 +410,17 @@ class MyHashTable
         // code ends
     }
 
+    // Add this method to collect all keys in the hash table
+    void keys(MyVector<KeyType>& out_keys) const
+    {
+        out_keys.resize(0);
+        for (size_t i = 0; i < hash_table.size(); ++i) {
+            for (auto it = hash_table[i]->begin(); it != hash_table[i]->end(); ++it) {
+                out_keys.push_back((*it).key);
+            }
+        }
+    }
+
 };
 
 
