@@ -173,7 +173,14 @@ class MyGraph
     VertexIDType addVertex(const VertexDataType& v_data)
     {
         // code begins
-
+        Vertex* v = new Vertex(v_data);
+        v->id = current_vertex_ID;
+        v->tag = 0;
+        vertex_set.push_back(v);
+        vertex_map.insert(HashedObj<VertexIDType, size_t>(current_vertex_ID, num_vertices));
+        adj_list.push_back(new MyLinkedList<EdgeIDType>());
+        ++num_vertices;
+        return current_vertex_ID++;
         // code ends
     }
 
@@ -184,7 +191,14 @@ class MyGraph
     VertexIDType addVertex(VertexDataType && v_data)
     {
         // code begins
-
+        Vertex* v = new Vertex(std::move(v_data));
+        v->id = current_vertex_ID;
+        v->tag = 0;
+        vertex_set.push_back(v);
+        vertex_map.insert(HashedObj<VertexIDType, size_t>(current_vertex_ID, num_vertices));
+        adj_list.push_back(new MyLinkedList<EdgeIDType>());
+        ++num_vertices;
+        return current_vertex_ID++;
         // code ends
     }
 
@@ -193,7 +207,11 @@ class MyGraph
     Vertex* getVertex(const VertexIDType vid)
     {
         // code begins
-
+        HashedObj<VertexIDType, size_t> data;
+        if (vertex_map.retrieve(vid, data)) {
+            return vertex_set[data.value];
+        }
+        return nullptr;
         // code ends
     }
 
@@ -205,7 +223,21 @@ class MyGraph
     EdgeIDType addEdge(const VertexIDType sid, const VertexIDType tid, const EdgeDataType& e_data)
     {
         // code begins
-
+        // No multi-edge allowed, so check first
+        EdgeIDType dummy;
+        if (probeEdge(sid, tid, dummy)) return -1;
+        Edge* e = new Edge(sid, tid, e_data);
+        e->id = current_edge_ID;
+        e->tag = 0;
+        edge_set.push_back(e);
+        edge_map.insert(HashedObj<EdgeIDType, size_t>(current_edge_ID, num_edges));
+        // Add to both adjacency lists
+        size_t spos = vertexID2SetPos(sid);
+        size_t tpos = vertexID2SetPos(tid);
+        adj_list[spos]->push_back(current_edge_ID);
+        adj_list[tpos]->push_back(current_edge_ID);
+        ++num_edges;
+        return current_edge_ID++;
         // code ends
     }
 
@@ -217,7 +249,19 @@ class MyGraph
     EdgeIDType addEdge(const VertexIDType sid, const VertexIDType tid, EdgeDataType && e_data)
     {
         // code begins
-
+        EdgeIDType dummy;
+        if (probeEdge(sid, tid, dummy)) return -1;
+        Edge* e = new Edge(sid, tid, std::move(e_data));
+        e->id = current_edge_ID;
+        e->tag = 0;
+        edge_set.push_back(e);
+        edge_map.insert(HashedObj<EdgeIDType, size_t>(current_edge_ID, num_edges));
+        size_t spos = vertexID2SetPos(sid);
+        size_t tpos = vertexID2SetPos(tid);
+        adj_list[spos]->push_back(current_edge_ID);
+        adj_list[tpos]->push_back(current_edge_ID);
+        ++num_edges;
+        return current_edge_ID++;
         // code ends
     }
 
@@ -226,7 +270,11 @@ class MyGraph
     Edge* getEdge(const EdgeIDType eid)
     {
         // code begins
-
+        HashedObj<EdgeIDType, size_t> data;
+        if (edge_map.retrieve(eid, data)) {
+            return edge_set[data.value];
+        }
+        return nullptr;
         // code ends
     }
 
@@ -236,7 +284,15 @@ class MyGraph
     bool probeEdge(const VertexIDType sid, const VertexIDType tid, EdgeIDType& eid)
     {
         // code begins
-
+        size_t spos = vertexID2SetPos(sid);
+        for (auto it = adj_list[spos]->begin(); it != adj_list[spos]->end(); ++it) {
+            Edge* e = getEdge(*it);
+            if ((e->src == sid && e->tgt == tid) || (e->src == tid && e->tgt == sid)) {
+                eid = e->id;
+                return true;
+            }
+        }
+        return false;
         // code ends
     }
 
@@ -244,7 +300,8 @@ class MyGraph
     size_t degree(const VertexIDType vid)
     {
         // code begins
-
+        size_t vpos = vertexID2SetPos(vid);
+        return adj_list[vpos]->size();
         // code ends
     }
 
@@ -254,7 +311,30 @@ class MyGraph
     void deleteVertex(const VertexIDType vid)
     {
         // code begins
-
+        size_t vpos = vertexID2SetPos(vid);
+        // Remove all edges associated with this vertex
+        MyLinkedList<EdgeIDType>* edges = adj_list[vpos];
+        MyVector<EdgeIDType> to_delete;
+        for (auto it = edges->begin(); it != edges->end(); ++it) {
+            to_delete.push_back(*it);
+        }
+        for (size_t i = 0; i < to_delete.size(); ++i) {
+            deleteEdge(to_delete[i]);
+        }
+        // Remove vertex from vertex_set, vertex_map, adj_list
+        delete vertex_set[vpos];
+        vertex_set[vpos] = vertex_set[num_vertices - 1];
+        vertex_set.pop_back();
+        delete adj_list[vpos];
+        adj_list[vpos] = adj_list[num_vertices - 1];
+        adj_list.pop_back();
+        VertexIDType last_id = vertex_set[vpos]->id;
+        vertex_map.remove(vid);
+        if (vpos != num_vertices - 1) {
+            vertex_map.remove(last_id);
+            vertex_map.insert(HashedObj<VertexIDType, size_t>(last_id, vpos));
+        }
+        --num_vertices;
         // code ends
     }
 
@@ -263,7 +343,28 @@ class MyGraph
     void deleteEdge(const EdgeIDType eid)
     {
         // code begins
-
+        size_t epos = edgeID2SetPos(eid);
+        Edge* e = edge_set[epos];
+        size_t spos = vertexID2SetPos(e->src);
+        size_t tpos = vertexID2SetPos(e->tgt);
+        // Remove from adjacency lists
+        for (auto it = adj_list[spos]->begin(); it != adj_list[spos]->end(); ++it) {
+            if (*it == eid) { adj_list[spos]->erase(it); break; }
+        }
+        for (auto it = adj_list[tpos]->begin(); it != adj_list[tpos]->end(); ++it) {
+            if (*it == eid) { adj_list[tpos]->erase(it); break; }
+        }
+        // Remove from edge_set and edge_map
+        delete edge_set[epos];
+        edge_set[epos] = edge_set[num_edges - 1];
+        edge_set.pop_back();
+        EdgeIDType last_id = edge_set[epos]->id;
+        edge_map.remove(eid);
+        if (epos != num_edges - 1) {
+            edge_map.remove(last_id);
+            edge_map.insert(HashedObj<EdgeIDType, size_t>(last_id, epos));
+        }
+        --num_edges;
         // code ends
     }
 
@@ -274,7 +375,33 @@ class MyGraph
     void breadthFirstSearch(const VertexIDType v_src, MyVector<VertexIDType>& path)
     {
         // code begins
-
+        path.resize(0);
+        MyVector<bool> visited(vertex_set.size(), false);
+        MyQueue<VertexIDType> q;
+        size_t src_pos = vertexID2SetPos(v_src);
+        q.enqueue(v_src);
+        visited[src_pos] = true;
+        while (!q.empty()) {
+            VertexIDType vid = q.front();
+            q.dequeue();
+            path.push_back(vid);
+            size_t vpos = vertexID2SetPos(vid);
+            // Collect and sort outgoing edge IDs
+            MyVector<EdgeIDType> edges;
+            for (auto it = adj_list[vpos]->begin(); it != adj_list[vpos]->end(); ++it) {
+                edges.push_back(*it);
+            }
+            std::sort(edges.begin(), edges.end());
+            for (size_t i = 0; i < edges.size(); ++i) {
+                Edge* e = getEdge(edges[i]);
+                VertexIDType neighbor = (e->src == vid) ? e->tgt : e->src;
+                size_t npos = vertexID2SetPos(neighbor);
+                if (!visited[npos]) {
+                    q.enqueue(neighbor);
+                    visited[npos] = true;
+                }
+            }
+        }
         // code ends
     }
 
@@ -285,7 +412,33 @@ class MyGraph
     void depthFirstSearch(const VertexIDType v_src, MyVector<VertexIDType>& path)
     {
         // code begins
-
+        path.resize(0);
+        MyVector<bool> visited(vertex_set.size(), false);
+        MyStack<VertexIDType> s;
+        size_t src_pos = vertexID2SetPos(v_src);
+        s.push(v_src);
+        while (!s.empty()) {
+            VertexIDType vid = s.top();
+            s.pop();
+            size_t vpos = vertexID2SetPos(vid);
+            if (visited[vpos]) continue;
+            visited[vpos] = true;
+            path.push_back(vid);
+            // Collect and sort outgoing edge IDs in reverse order for stack
+            MyVector<EdgeIDType> edges;
+            for (auto it = adj_list[vpos]->begin(); it != adj_list[vpos]->end(); ++it) {
+                edges.push_back(*it);
+            }
+            std::sort(edges.begin(), edges.end());
+            for (int i = static_cast<int>(edges.size()) - 1; i >= 0; --i) {
+                Edge* e = getEdge(edges[i]);
+                VertexIDType neighbor = (e->src == vid) ? e->tgt : e->src;
+                size_t npos = vertexID2SetPos(neighbor);
+                if (!visited[npos]) {
+                    s.push(neighbor);
+                }
+            }
+        }
         // code ends
     }
 
@@ -295,7 +448,28 @@ class MyGraph
     bool isConnected(const VertexIDType vid1, const VertexIDType vid2)
     {
         // code begins
-
+        if (vid1 == vid2) return true;
+        MyVector<bool> visited(vertex_set.size(), false);
+        MyQueue<VertexIDType> q;
+        size_t src_pos = vertexID2SetPos(vid1);
+        q.enqueue(vid1);
+        visited[src_pos] = true;
+        while (!q.empty()) {
+            VertexIDType vid = q.front();
+            q.dequeue();
+            if (vid == vid2) return true;
+            size_t vpos = vertexID2SetPos(vid);
+            for (auto it = adj_list[vpos]->begin(); it != adj_list[vpos]->end(); ++it) {
+                Edge* e = getEdge(*it);
+                VertexIDType neighbor = (e->src == vid) ? e->tgt : e->src;
+                size_t npos = vertexID2SetPos(neighbor);
+                if (!visited[npos]) {
+                    q.enqueue(neighbor);
+                    visited[npos] = true;
+                }
+            }
+        }
+        return false;
         // code ends
     }
 
@@ -400,7 +574,11 @@ class MyGraph
     size_t vertexID2SetPos(const VertexIDType vid)
     {
         // code begins
-
+        HashedObj<VertexIDType, size_t> data;
+        if (vertex_map.retrieve(vid, data)) {
+            return data.value;
+        }
+        throw std::domain_error("MyGraph::vertexID2SetPos: vertex ID not found.");
         // code ends
     }
 
@@ -408,7 +586,11 @@ class MyGraph
     size_t edgeID2SetPos(const VertexIDType eid)
     {
         // code begins
-
+        HashedObj<EdgeIDType, size_t> data;
+        if (edge_map.retrieve(eid, data)) {
+            return data.value;
+        }
+        throw std::domain_error("MyGraph::edgeID2SetPos: edge ID not found.");
         // code ends
     }
 
@@ -416,7 +598,7 @@ class MyGraph
     VertexIDType vertexSetPos2ID(const size_t vpos)
     {
         // code begins
-
+        return vertex_set[vpos]->id;
         // code ends
     }
 
@@ -424,7 +606,7 @@ class MyGraph
     EdgeIDType edgeSetPos2ID(const size_t epos)
     {
         // code begins
-
+        return edge_set[epos]->id;
         // code ends
     }
   
