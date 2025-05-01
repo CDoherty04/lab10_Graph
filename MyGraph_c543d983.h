@@ -348,24 +348,21 @@ class MyGraph
         // code begins
         size_t epos = edgeID2SetPos(eid);
         Edge* e = edge_set[epos];
-        size_t spos = vertexID2SetPos(e->src);
-        size_t tpos = vertexID2SetPos(e->tgt);
-        // Remove from adjacency lists
-        for (auto it = adj_list[spos]->begin(); it != adj_list[spos]->end(); ++it) {
-            if (*it == eid) { adj_list[spos]->erase(it); break; }
-        }
-        for (auto it = adj_list[tpos]->begin(); it != adj_list[tpos]->end(); ++it) {
-            if (*it == eid) { adj_list[tpos]->erase(it); break; }
+        // Remove from all adjacency lists
+        for (size_t i = 0; i < adj_list.size(); ++i) {
+            for (auto it = adj_list[i]->begin(); it != adj_list[i]->end(); ++it) {
+                if (*it == eid) { adj_list[i]->erase(it); break; }
+            }
         }
         // Remove from edge_set and edge_map
         delete edge_set[epos];
-        edge_set[epos] = edge_set[num_edges - 1];
+        for (size_t i = epos + 1; i < edge_set.size(); ++i) {
+            edge_set[i - 1] = edge_set[i];
+        }
         edge_set.pop_back();
-        EdgeIDType last_id = edge_set[epos]->id;
-        edge_map.remove(eid);
-        if (epos != num_edges - 1) {
-            edge_map.remove(last_id);
-            edge_map.insert(HashedObj<EdgeIDType, size_t>(last_id, epos));
+        edge_map = MyHashTable<EdgeIDType, size_t>();
+        for (size_t i = 0; i < edge_set.size(); ++i) {
+            edge_map.insert(HashedObj<EdgeIDType, size_t>(edge_set[i]->id, i));
         }
         --num_edges;
         // code ends
