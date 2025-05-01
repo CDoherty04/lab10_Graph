@@ -312,29 +312,40 @@ class MyGraph
     {
         // code begins
         size_t vpos = vertexID2SetPos(vid);
-        // Remove all edges associated with this vertex
+        // 1. Collect all edges to delete
         MyLinkedList<EdgeIDType>* edges = adj_list[vpos];
         MyVector<EdgeIDType> to_delete;
         for (auto it = edges->begin(); it != edges->end(); ++it) {
             to_delete.push_back(*it);
         }
+        // 2. Delete all incident edges
         for (size_t i = 0; i < to_delete.size(); ++i) {
             deleteEdge(to_delete[i]);
         }
-        // Remove vertex from vertex_set, vertex_map, adj_list
+        // 3. Delete the vertex
         delete vertex_set[vpos];
-        vertex_set[vpos] = vertex_set[num_vertices - 1];
-        vertex_set.pop_back();
         delete adj_list[vpos];
-        adj_list[vpos] = adj_list[num_vertices - 1];
-        adj_list.pop_back();
-        VertexIDType last_id = vertex_set[vpos]->id;
-        vertex_map.remove(vid);
-        if (vpos != num_vertices - 1) {
-            vertex_map.remove(last_id);
-            vertex_map.insert(HashedObj<VertexIDType, size_t>(last_id, vpos));
+        // 4. Shift all elements after vpos down by 1
+        for (size_t i = vpos + 1; i < vertex_set.size(); ++i) {
+            vertex_set[i - 1] = vertex_set[i];
+            adj_list[i - 1] = adj_list[i];
+            vertex_map.remove(vertex_set[i]->id);
+            vertex_map.insert(HashedObj<VertexIDType, size_t>(vertex_set[i]->id, i - 1));
         }
+        vertex_set.pop_back();
+        adj_list.pop_back();
+        vertex_map.remove(vid);
         --num_vertices;
+        // 5. For all edges, if src or tgt > vpos, decrement their index by 1
+        for (size_t i = 0; i < edge_set.size(); ++i) {
+            if (vertexID2SetPos(edge_set[i]->src) > vpos) {
+                edge_set[i]->src = vertex_set[vertexID2SetPos(edge_set[i]->src) - 1]->id;
+            }
+            if (vertexID2SetPos(edge_set[i]->tgt) > vpos) {
+                edge_set[i]->tgt = vertex_set[vertexID2SetPos(edge_set[i]->tgt) - 1]->id;
+            }
+        }
+        // 6. For all adjacency lists, remove any references to deleted edges (already done in deleteEdge)
         // code ends
     }
 
