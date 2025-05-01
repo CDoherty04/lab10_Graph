@@ -322,30 +322,22 @@ class MyGraph
         for (size_t i = 0; i < to_delete.size(); ++i) {
             deleteEdge(to_delete[i]);
         }
-        // 3. Delete the vertex
+        // 3. Delete the vertex and its adjacency list
         delete vertex_set[vpos];
         delete adj_list[vpos];
         // 4. Shift all elements after vpos down by 1
         for (size_t i = vpos + 1; i < vertex_set.size(); ++i) {
             vertex_set[i - 1] = vertex_set[i];
             adj_list[i - 1] = adj_list[i];
-            vertex_map.remove(vertex_set[i]->id);
-            vertex_map.insert(HashedObj<VertexIDType, size_t>(vertex_set[i]->id, i - 1));
         }
         vertex_set.pop_back();
         adj_list.pop_back();
-        vertex_map.remove(vid);
-        --num_vertices;
-        // 5. For all edges, if src or tgt > vpos, decrement their index by 1
-        for (size_t i = 0; i < edge_set.size(); ++i) {
-            if (vertexID2SetPos(edge_set[i]->src) > vpos) {
-                edge_set[i]->src = vertex_set[vertexID2SetPos(edge_set[i]->src) - 1]->id;
-            }
-            if (vertexID2SetPos(edge_set[i]->tgt) > vpos) {
-                edge_set[i]->tgt = vertex_set[vertexID2SetPos(edge_set[i]->tgt) - 1]->id;
-            }
+        // 5. Rebuild vertex_map for all remaining vertices
+        vertex_map = MyHashTable<VertexIDType, size_t>();
+        for (size_t i = 0; i < vertex_set.size(); ++i) {
+            vertex_map.insert(HashedObj<VertexIDType, size_t>(vertex_set[i]->id, i));
         }
-        // 6. For all adjacency lists, remove any references to deleted edges (already done in deleteEdge)
+        --num_vertices;
         // code ends
     }
 
