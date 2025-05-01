@@ -16746,7 +16746,7 @@ The cities KWOALRQWVY and DZVJYURQHQ are not connected.
 No edge exists between the cities ZUWLUOVNLI and IKRFHLFKRT
 The cities ZUWLUOVNLI and IKRFHLFKRT are not connected.
 No edge exists between the cities VBEWLPDJGL and TWIJTRJJIU
-The cities VBEWLPDJGL and TWIJTRJJIU are connected.
+The cities VBEWLPDJGL and TWIJTRJJIU are not connected.
 No edge exists between the cities EPDIFFALYJ and DTGRPZBSIG
 The cities EPDIFFALYJ and DTGRPZBSIG are not connected.
 No edge exists between the cities JDLSVTWRST and CBFJOVIKUS
@@ -16782,7 +16782,7 @@ The cities WXAWMDKCMY and TEWMPHJUUM are not connected.
 No edge exists between the cities RILOPCXUKK and FFMWGDIIGA
 The cities RILOPCXUKK and FFMWGDIIGA are not connected.
 No edge exists between the cities WXFIRHSWYF and SYMMLNSUHZ
-The cities WXFIRHSWYF and SYMMLNSUHZ are connected.
+The cities WXFIRHSWYF and SYMMLNSUHZ are not connected.
 No edge exists between the cities JWXSINDSCN and VKUCNQJQSF
 The cities JWXSINDSCN and VKUCNQJQSF are not connected.
 No edge exists between the cities KNMFHJUFKH and NZUPHYLQVV
@@ -16798,7 +16798,7 @@ The cities GRNYNQHQRI and JNTXPKMQHY are not connected.
 No edge exists between the cities WWIMQCEMEB and XYDYHQZOQJ
 The cities WWIMQCEMEB and XYDYHQZOQJ are not connected.
 No edge exists between the cities EMLBACWWSB and UANJBEJGCL
-The cities EMLBACWWSB and UANJBEJGCL are connected.
+The cities EMLBACWWSB and UANJBEJGCL are not connected.
 No edge exists between the cities YUYSZORNSI and NZUPHYLQVV
 The cities YUYSZORNSI and NZUPHYLQVV are not connected.
 No edge exists between the cities DXSABLRAQF and JTMPDBYELY
@@ -16812,13 +16812,13 @@ The cities FJYIGPLSBL and PYAKABZNGG are not connected.
 No edge exists between the cities HBEBNMETLC and OPHGXIAPIY
 The cities HBEBNMETLC and OPHGXIAPIY are not connected.
 No edge exists between the cities KQWHDJNSKE and VFMXTRGFXV
-The cities KQWHDJNSKE and VFMXTRGFXV are connected.
+The cities KQWHDJNSKE and VFMXTRGFXV are not connected.
 No edge exists between the cities DUEUORBUSQ and FJBOUZROWC
 The cities DUEUORBUSQ and FJBOUZROWC are not connected.
 No edge exists between the cities NRPTMGTXFN and FTOLCNTMSO
 The cities NRPTMGTXFN and FTOLCNTMSO are not connected.
 No edge exists between the cities FZLKSALTEN and IEWVLYXDKP
-The cities FZLKSALTEN and IEWVLYXDKP are connected.
+The cities FZLKSALTEN and IEWVLYXDKP are not connected.
 No edge exists between the cities TZUPHDRNHH and ZRBRHZGBTD
 The cities TZUPHDRNHH and ZRBRHZGBTD are not connected.
 No edge exists between the cities GXHFASUHPX and KIIDFSJLIE
@@ -16862,7 +16862,7 @@ The cities LALSEODSEC and FHRBCLYPKF are not connected.
 No edge exists between the cities FMKNAUSCGH and WFKHDBZPTR
 The cities FMKNAUSCGH and WFKHDBZPTR are not connected.
 No edge exists between the cities HDKLVDLRGA and KIIDFSJLIE
-The cities HDKLVDLRGA and KIIDFSJLIE are connected.
+The cities HDKLVDLRGA and KIIDFSJLIE are not connected.
 No edge exists between the cities JAYXIQGBTY and OEXPWJTOSL
 The cities JAYXIQGBTY and OEXPWJTOSL are not connected.
 No edge exists between the cities LMAFGIBOKV and JZVVKMHOWR
@@ -16934,7 +16934,7 @@ The cities QXOKGUADTR and BUVHCKTWRD are not connected.
 No edge exists between the cities LKSNZZUENM and HTEKHJSDDG
 The cities LKSNZZUENM and HTEKHJSDDG are not connected.
 No edge exists between the cities BTCMDJOGTP and ECGTLLMSLO
-The cities BTCMDJOGTP and ECGTLLMSLO are connected.
+The cities BTCMDJOGTP and ECGTLLMSLO are not connected.
 No edge exists between the cities ETXRZOOJFW and WGUXHHJEQV
 The cities ETXRZOOJFW and WGUXHHJEQV are not connected.
 No edge exists between the cities KJWZWBFOKO and KVPKACLTHS
@@ -16956,7 +16956,7 @@ The cities KQTDSVZVCH and ACRQRAVILY are not connected.
 No edge exists between the cities AXHSZQDXCY and ZDPXSKNYCD
 The cities AXHSZQDXCY and ZDPXSKNYCD are not connected.
 No edge exists between the cities LAGOOJQCCQ and OKFPQJERWA
-The cities LAGOOJQCCQ and OKFPQJERWA are connected.
+The cities LAGOOJQCCQ and OKFPQJERWA are not connected.
 No edge exists between the cities SEXSTOHQFJ and NOKBYBKPWQ
 The cities SEXSTOHQFJ and NOKBYBKPWQ are not connected.
 No edge exists between the cities WLIKQOZEWU and NCPUKRIXHQ
@@ -17054,7 +17054,7 @@ The cities EVOXLJZOPC and JOACCFKYNO are not connected.
 No edge exists between the cities XUVZYABZEO and XBKVJLDQFR
 The cities XUVZYABZEO and XBKVJLDQFR are not connected.
 No edge exists between the cities NZPKWAZFPW and RFCIQCOPKE
-The cities NZPKWAZFPW and RFCIQCOPKE are connected.
+The cities NZPKWAZFPW and RFCIQCOPKE are not connected.
 No edge exists between the cities LYFHFONKUY and JMUSBMKBKI
 The cities LYFHFONKUY and JMUSBMKBKI are not connected.
 No edge exists between the cities EFOHOUIECY and RGSGPFHNQD
@@ -17074,7 +17074,7 @@ The cities DTNHLCLUTT and ZUQDCZULYF are not connected.
 No edge exists between the cities MKWCOFLWZI and GLLEHBQEXL
 The cities MKWCOFLWZI and GLLEHBQEXL are not connected.
 No edge exists between the cities EMLBACWWSB and FEGQDKQFKS
-The cities EMLBACWWSB and FEGQDKQFKS are connected.
+The cities EMLBACWWSB and FEGQDKQFKS are not connected.
 No edge exists between the cities JWSQANXBKM and ANTPOGQONH
 The cities JWSQANXBKM and ANTPOGQONH are not connected.
 No edge exists between the cities UZNHQTGYLH and ONRWSTVWHX
@@ -17120,7 +17120,7 @@ The cities IBADZSVUJI and UTKNJZCTCE are not connected.
 No edge exists between the cities EZWEMHZYAB and HAIHNXOLCM
 The cities EZWEMHZYAB and HAIHNXOLCM are not connected.
 No edge exists between the cities JTHYTLDNSW and WDUQWKDTIK
-The cities JTHYTLDNSW and WDUQWKDTIK are connected.
+The cities JTHYTLDNSW and WDUQWKDTIK are not connected.
 No edge exists between the cities ZISCWWAPME and XOIKFGWRDJ
 The cities ZISCWWAPME and XOIKFGWRDJ are not connected.
 No edge exists between the cities SSCVPWMVDF and OEXPWJTOSL
@@ -17154,9 +17154,9 @@ The cities GLUKGVUBNI and FRVWHPAWOW are not connected.
 No edge exists between the cities ACRQRAVILY and ZAHPDYHMWX
 The cities ACRQRAVILY and ZAHPDYHMWX are not connected.
 No edge exists between the cities LTVFKQDUGJ and HGYSEEPIBR
-The cities LTVFKQDUGJ and HGYSEEPIBR are connected.
+The cities LTVFKQDUGJ and HGYSEEPIBR are not connected.
 No edge exists between the cities DGIEFLOTJJ and PJWDYCGITG
-The cities DGIEFLOTJJ and PJWDYCGITG are connected.
+The cities DGIEFLOTJJ and PJWDYCGITG are not connected.
 No edge exists between the cities GPCTOQEUPC and QWWRBSXVLI
 The cities GPCTOQEUPC and QWWRBSXVLI are not connected.
 No edge exists between the cities WQTXNNEIEP and JKCKYQINHK
@@ -17192,7 +17192,7 @@ The cities DXMLPUFYBV and ZWLQABLJQF are not connected.
 No edge exists between the cities GRMEUOLNMH and RGSGPFHNQD
 The cities GRMEUOLNMH and RGSGPFHNQD are not connected.
 No edge exists between the cities FJYIGPLSBL and TGYWLAEHVI
-The cities FJYIGPLSBL and TGYWLAEHVI are connected.
+The cities FJYIGPLSBL and TGYWLAEHVI are not connected.
 No edge exists between the cities JBZJASQFLV and LTHIVDXKBE
 The cities JBZJASQFLV and LTHIVDXKBE are not connected.
 No edge exists between the cities DTEFBYMATO and HDKLVDLRGA
@@ -17204,7 +17204,7 @@ The cities DOUBTVOBUO and CDZPLXKCUP are not connected.
 No edge exists between the cities JULQPDTUJB and QTBLKDRMTI
 The cities JULQPDTUJB and QTBLKDRMTI are not connected.
 No edge exists between the cities YHCZJSXMVR and NZMBUJQYLC
-The cities YHCZJSXMVR and NZMBUJQYLC are connected.
+The cities YHCZJSXMVR and NZMBUJQYLC are not connected.
 No edge exists between the cities VSEIFGKUWG and LVQWLFWMKH
 The cities VSEIFGKUWG and LVQWLFWMKH are not connected.
 No edge exists between the cities DSHKZDZCPM and JEPZBONAMX
@@ -17276,7 +17276,7 @@ The cities UXFLZHCXFZ and ROZKNCQDQE are not connected.
 No edge exists between the cities QRIJIZTMRK and RDULYQOBJW
 The cities QRIJIZTMRK and RDULYQOBJW are not connected.
 No edge exists between the cities XOESZIESRF and EWPPGTCMVB
-The cities XOESZIESRF and EWPPGTCMVB are connected.
+The cities XOESZIESRF and EWPPGTCMVB are not connected.
 No edge exists between the cities BDFGDBCRYC and WXFIRHSWYF
 The cities BDFGDBCRYC and WXFIRHSWYF are not connected.
 No edge exists between the cities RRNDENIRDG and DMXMLRNELT
@@ -17304,7 +17304,7 @@ The cities WEVUEBGAJA and WCLXMXSGGR are not connected.
 No edge exists between the cities HPVSHBWAJP and PBRYWILUFL
 The cities HPVSHBWAJP and PBRYWILUFL are not connected.
 No edge exists between the cities EXTGYSBVUW and XHGCEZSELS
-The cities EXTGYSBVUW and XHGCEZSELS are connected.
+The cities EXTGYSBVUW and XHGCEZSELS are not connected.
 No edge exists between the cities LEDFLAMOUA and OWSZXKIMWO
 The cities LEDFLAMOUA and OWSZXKIMWO are not connected.
 No edge exists between the cities VVEVYPJWVU and GTQTVYWBWF
@@ -17312,7 +17312,7 @@ The cities VVEVYPJWVU and GTQTVYWBWF are not connected.
 No edge exists between the cities KALAXWBWLC and AQAAZQAITV
 The cities KALAXWBWLC and AQAAZQAITV are not connected.
 No edge exists between the cities NOKBYBKPWQ and WCLXMXSGGR
-The cities NOKBYBKPWQ and WCLXMXSGGR are connected.
+The cities NOKBYBKPWQ and WCLXMXSGGR are not connected.
 No edge exists between the cities XROZUBCUQR and LNKRSZSLYZ
 The cities XROZUBCUQR and LNKRSZSLYZ are not connected.
 No edge exists between the cities SKGUSQNEVF and JDBRSSVNBY
@@ -17366,7 +17366,7 @@ The cities WFUWDDTOIP and HUOOORGAQG are not connected.
 No edge exists between the cities GTQTVYWBWF and ZFIOGCZHTJ
 The cities GTQTVYWBWF and ZFIOGCZHTJ are not connected.
 No edge exists between the cities TVKPKJNVIU and FRHWRWVGFK
-The cities TVKPKJNVIU and FRHWRWVGFK are connected.
+The cities TVKPKJNVIU and FRHWRWVGFK are not connected.
 No edge exists between the cities ASKBZMANLD and YIERJJAVYQ
 The cities ASKBZMANLD and YIERJJAVYQ are not connected.
 No edge exists between the cities YPDMUNCQBE and NDXEIZCIYH
@@ -17468,7 +17468,7 @@ The cities TSXNQJEVJK and MFFYZXXPVI are not connected.
 No edge exists between the cities SCKWGYVPTA and WXFIRHSWYF
 The cities SCKWGYVPTA and WXFIRHSWYF are not connected.
 No edge exists between the cities YDOYMDEUQD and BDFGDBCRYC
-The cities YDOYMDEUQD and BDFGDBCRYC are connected.
+The cities YDOYMDEUQD and BDFGDBCRYC are not connected.
 No edge exists between the cities DGIEFLOTJJ and MVDCCBLBJG
 The cities DGIEFLOTJJ and MVDCCBLBJG are not connected.
 No edge exists between the cities NEFHMEAWOD and HOHRXXCZGI
@@ -17520,7 +17520,7 @@ The cities FPYCXAVGUQ and UXTZAIGMWU are not connected.
 No edge exists between the cities WDUQWKDTIK and OBRXSSVLVX
 The cities WDUQWKDTIK and OBRXSSVLVX are not connected.
 No edge exists between the cities JUJPAIGDXP and ZBSPHIYVVJ
-The cities JUJPAIGDXP and ZBSPHIYVVJ are connected.
+The cities JUJPAIGDXP and ZBSPHIYVVJ are not connected.
 No edge exists between the cities LBTLPEYJJP and KAOMJFIIIW
 The cities LBTLPEYJJP and KAOMJFIIIW are not connected.
 No edge exists between the cities WEVUEBGAJA and BQZTDJUJGR
@@ -17528,15 +17528,15 @@ The cities WEVUEBGAJA and BQZTDJUJGR are not connected.
 No edge exists between the cities MASAPTBXOE and VXPWAPASBN
 The cities MASAPTBXOE and VXPWAPASBN are not connected.
 No edge exists between the cities DSPUSZUUIM and DYVOYWKNLP
-The cities DSPUSZUUIM and DYVOYWKNLP are connected.
+The cities DSPUSZUUIM and DYVOYWKNLP are not connected.
 No edge exists between the cities JBJKZKTKMK and HAFRPCPQBV
 The cities JBJKZKTKMK and HAFRPCPQBV are not connected.
 The distance between the cities RLDTECGVVV and NCWMZOLWDW is 208
-The cities RLDTECGVVV and NCWMZOLWDW are connected.
+The cities RLDTECGVVV and NCWMZOLWDW are not connected.
 No edge exists between the cities RGKJUMMFRW and NHDLHJHAKI
 The cities RGKJUMMFRW and NHDLHJHAKI are not connected.
 No edge exists between the cities EJCWRVJPYP and OCFEXDGIJR
-The cities EJCWRVJPYP and OCFEXDGIJR are connected.
+The cities EJCWRVJPYP and OCFEXDGIJR are not connected.
 No edge exists between the cities SOLEBVUAFG and GPNJYEOKVN
 The cities SOLEBVUAFG and GPNJYEOKVN are not connected.
 No edge exists between the cities BBUEUMQYUR and FZLKSALTEN
@@ -17546,13 +17546,13 @@ The cities VLFPXUAKAY and ISPOHBTALP are not connected.
 No edge exists between the cities NVGPHBYDMW and RCZMXOIEHN
 The cities NVGPHBYDMW and RCZMXOIEHN are not connected.
 No edge exists between the cities DTNHLCLUTT and AARWTRKOXZ
-The cities DTNHLCLUTT and AARWTRKOXZ are connected.
+The cities DTNHLCLUTT and AARWTRKOXZ are not connected.
 No edge exists between the cities QPNDQNGRHG and AWJVJPRKUT
 The cities QPNDQNGRHG and AWJVJPRKUT are not connected.
 No edge exists between the cities YFPTLJVDCD and SRLHAKREVG
 The cities YFPTLJVDCD and SRLHAKREVG are not connected.
 No edge exists between the cities KQWHDJNSKE and LLAGUTDZRD
-The cities KQWHDJNSKE and LLAGUTDZRD are connected.
+The cities KQWHDJNSKE and LLAGUTDZRD are not connected.
 No edge exists between the cities HZPOVRCRKC and HAIHNXOLCM
 The cities HZPOVRCRKC and HAIHNXOLCM are not connected.
 No edge exists between the cities PDGDVKGJBG and DXADLMBECY
@@ -17560,9 +17560,9 @@ The cities PDGDVKGJBG and DXADLMBECY are not connected.
 No edge exists between the cities YIERJJAVYQ and GZLGMTHERO
 The cities YIERJJAVYQ and GZLGMTHERO are not connected.
 The distance between the cities OLUBBVUFOC and CISHYQZZHL is 191
-The cities OLUBBVUFOC and CISHYQZZHL are connected.
+The cities OLUBBVUFOC and CISHYQZZHL are not connected.
 No edge exists between the cities ZFIOGCZHTJ and SBYUNUAMBS
-The cities ZFIOGCZHTJ and SBYUNUAMBS are connected.
+The cities ZFIOGCZHTJ and SBYUNUAMBS are not connected.
 No edge exists between the cities DSQECLFOBL and QQKERCYGHW
 The cities DSQECLFOBL and QQKERCYGHW are not connected.
 No edge exists between the cities LTDBSPLDPK and WFUWDDTOIP
@@ -17582,7 +17582,7 @@ The cities IHQADFTPIV and KJEGOUTQNU are not connected.
 No edge exists between the cities FGHWTKGOZX and JOMJPTQDHH
 The cities FGHWTKGOZX and JOMJPTQDHH are not connected.
 No edge exists between the cities DRKMQSVIMR and KIRGXSBVEV
-The cities DRKMQSVIMR and KIRGXSBVEV are connected.
+The cities DRKMQSVIMR and KIRGXSBVEV are not connected.
 No edge exists between the cities WFKHDBZPTR and FZACAFRRLT
 The cities WFKHDBZPTR and FZACAFRRLT are not connected.
 No edge exists between the cities YPTDOQUHJC and JQXVCWGVZX
@@ -17670,7 +17670,7 @@ The cities LQQQXVSJSD and AQKGTKYLCR are not connected.
 No edge exists between the cities FMVDGINXWB and XXHHXNHKXB
 The cities FMVDGINXWB and XXHHXNHKXB are not connected.
 No edge exists between the cities PKOMMWTJPP and WCWLIKEWJA
-The cities PKOMMWTJPP and WCWLIKEWJA are connected.
+The cities PKOMMWTJPP and WCWLIKEWJA are not connected.
 No edge exists between the cities ANDBQIOVVQ and LBTLPEYJJP
 The cities ANDBQIOVVQ and LBTLPEYJJP are not connected.
 No edge exists between the cities ZQQCAZEMHK and PKXYHIZSSW
@@ -17678,19 +17678,19 @@ The cities ZQQCAZEMHK and PKXYHIZSSW are not connected.
 No edge exists between the cities SYLNVAQJVQ and WBJZUTRGPU
 The cities SYLNVAQJVQ and WBJZUTRGPU are not connected.
 No edge exists between the cities NUSHOPZNQM and HJMMVEPMYL
-The cities NUSHOPZNQM and HJMMVEPMYL are connected.
+The cities NUSHOPZNQM and HJMMVEPMYL are not connected.
 No edge exists between the cities GZXQPYSPRS and QVZVOPNHVQ
 The cities GZXQPYSPRS and QVZVOPNHVQ are not connected.
 No edge exists between the cities DWCOEKOWNF and XSLCYMAQYX
 The cities DWCOEKOWNF and XSLCYMAQYX are not connected.
 No edge exists between the cities OZCLEKDCKC and ZRAZDFZYMW
-The cities OZCLEKDCKC and ZRAZDFZYMW are connected.
+The cities OZCLEKDCKC and ZRAZDFZYMW are not connected.
 No edge exists between the cities MHBQICALOO and VODXPEOBJN
 The cities MHBQICALOO and VODXPEOBJN are not connected.
 No edge exists between the cities QQTGNJOLQV and SWARGFEJEX
 The cities QQTGNJOLQV and SWARGFEJEX are not connected.
 No edge exists between the cities WSRXCHIEZE and GDPPMCZAQE
-The cities WSRXCHIEZE and GDPPMCZAQE are connected.
+The cities WSRXCHIEZE and GDPPMCZAQE are not connected.
 No edge exists between the cities LXXLHTJENL and ZOHVMGBRHG
 The cities LXXLHTJENL and ZOHVMGBRHG are not connected.
 No edge exists between the cities KNCWKWUAVA and JJJRAOFSXY
@@ -17712,7 +17712,7 @@ The cities MCIIHJJWKX and AARWTRKOXZ are not connected.
 No edge exists between the cities PLBFTCZNKM and HDKLVDLRGA
 The cities PLBFTCZNKM and HDKLVDLRGA are not connected.
 No edge exists between the cities JTIEBCMJJJ and VGNPWTEKLB
-The cities JTIEBCMJJJ and VGNPWTEKLB are connected.
+The cities JTIEBCMJJJ and VGNPWTEKLB are not connected.
 No edge exists between the cities PKOMMWTJPP and IIQHLRUAMS
 The cities PKOMMWTJPP and IIQHLRUAMS are not connected.
 No edge exists between the cities VVEVYPJWVU and YYRSDJLLQQ
@@ -17724,7 +17724,7 @@ The cities ZZKELAKFUP and SCXNGDOGLH are not connected.
 No edge exists between the cities LTVFKQDUGJ and KEYBZCNCLS
 The cities LTVFKQDUGJ and KEYBZCNCLS are not connected.
 No edge exists between the cities WKDFKFBBKH and LBVFVKECOI
-The cities WKDFKFBBKH and LBVFVKECOI are connected.
+The cities WKDFKFBBKH and LBVFVKECOI are not connected.
 No edge exists between the cities SVAAQIFKXE and QLRGDILATR
 The cities SVAAQIFKXE and QLRGDILATR are not connected.
 No edge exists between the cities FJYIGPLSBL and UOXGUJABRK
@@ -17750,7 +17750,7 @@ The cities TVKPKJNVIU and GAFWRQQSKD are not connected.
 No edge exists between the cities JBZJASQFLV and AZHNYFJPIG
 The cities JBZJASQFLV and AZHNYFJPIG are not connected.
 No edge exists between the cities XJGDJRVULU and PFHJHYOFZP
-The cities XJGDJRVULU and PFHJHYOFZP are connected.
+The cities XJGDJRVULU and PFHJHYOFZP are not connected.
 No edge exists between the cities ECGTLLMSLO and KZYVRNAVOI
 The cities ECGTLLMSLO and KZYVRNAVOI are not connected.
 No edge exists between the cities XCMVEBZEYK and FRGYCYAAGX
@@ -17778,7 +17778,7 @@ The cities JQXDCLPKWW and BESJOFXCKT are not connected.
 No edge exists between the cities PKENWJLGOQ and UZNHQTGYLH
 The cities PKENWJLGOQ and UZNHQTGYLH are not connected.
 No edge exists between the cities APAEOICNQL and DPGGUHFMUU
-The cities APAEOICNQL and DPGGUHFMUU are connected.
+The cities APAEOICNQL and DPGGUHFMUU are not connected.
 No edge exists between the cities KLXNJLKRCQ and OTAGABNWJE
 The cities KLXNJLKRCQ and OTAGABNWJE are not connected.
 No edge exists between the cities AQCFFYADHP and KEYBZCNCLS
@@ -17802,7 +17802,7 @@ The cities NRVGSNAPGE and RJETHIWGKM are not connected.
 No edge exists between the cities IIKSZACOQI and XQYSEGUFVC
 The cities IIKSZACOQI and XQYSEGUFVC are not connected.
 No edge exists between the cities FOJGSHVWYY and WYTABIFYGU
-The cities FOJGSHVWYY and WYTABIFYGU are connected.
+The cities FOJGSHVWYY and WYTABIFYGU are not connected.
 No edge exists between the cities DKUNTDWZYO and SDISILPOUI
 The cities DKUNTDWZYO and SDISILPOUI are not connected.
 No edge exists between the cities IYRGNDYKIM and RLDTECGVVV
@@ -17810,7 +17810,7 @@ The cities IYRGNDYKIM and RLDTECGVVV are not connected.
 No edge exists between the cities PKXYHIZSSW and LTDBSPLDPK
 The cities PKXYHIZSSW and LTDBSPLDPK are not connected.
 No edge exists between the cities MQOZZODZVA and HJMMVEPMYL
-The cities MQOZZODZVA and HJMMVEPMYL are connected.
+The cities MQOZZODZVA and HJMMVEPMYL are not connected.
 No edge exists between the cities YKBIQVNTKU and WYIDBGZRWZ
 The cities YKBIQVNTKU and WYIDBGZRWZ are not connected.
 No edge exists between the cities VYBJBQMNCQ and QXKHVRRRAY
@@ -17864,7 +17864,7 @@ The cities LGSPIDDCJX and QCDONNRUHZ are not connected.
 No edge exists between the cities ZJFZHPQZUN and YLLIBZLVDK
 The cities ZJFZHPQZUN and YLLIBZLVDK are not connected.
 No edge exists between the cities KZBIVTOQJP and FRHWRWVGFK
-The cities KZBIVTOQJP and FRHWRWVGFK are connected.
+The cities KZBIVTOQJP and FRHWRWVGFK are not connected.
 No edge exists between the cities SFYWRXCRLX and DRJSQFZMKN
 The cities SFYWRXCRLX and DRJSQFZMKN are not connected.
 No edge exists between the cities EVMRKRNUHX and DOQGBHGAZS
@@ -17890,7 +17890,7 @@ The cities FBAYFHESSB and WHZMUXGRLS are not connected.
 No edge exists between the cities BJLLXGWHUX and AYKBBWKJAP
 The cities BJLLXGWHUX and AYKBBWKJAP are not connected.
 No edge exists between the cities KZCQCDQPTI and QQTGNJOLQV
-The cities KZCQCDQPTI and QQTGNJOLQV are connected.
+The cities KZCQCDQPTI and QQTGNJOLQV are not connected.
 No edge exists between the cities NSKESGKYMB and TGBQQFXFTS
 The cities NSKESGKYMB and TGBQQFXFTS are not connected.
 No edge exists between the cities QAYYZDNVUM and TSXNQJEVJK
@@ -17982,19 +17982,19 @@ The cities SDDWFKFMLJ and DMLYTEBWDU are not connected.
 No edge exists between the cities CFAVRFXOHW and SKSZTIPRNP
 The cities CFAVRFXOHW and SKSZTIPRNP are not connected.
 No edge exists between the cities SFYWRXCRLX and NUNNIZOUKB
-The cities SFYWRXCRLX and NUNNIZOUKB are connected.
+The cities SFYWRXCRLX and NUNNIZOUKB are not connected.
 No edge exists between the cities WWIMQCEMEB and RKZHYYRTTL
 The cities WWIMQCEMEB and RKZHYYRTTL are not connected.
 No edge exists between the cities CSDBKQRKBH and XUQKRSJFFC
 The cities CSDBKQRKBH and XUQKRSJFFC are not connected.
 No edge exists between the cities GBSUZMHKRO and INOQBFJRHE
-The cities GBSUZMHKRO and INOQBFJRHE are connected.
+The cities GBSUZMHKRO and INOQBFJRHE are not connected.
 No edge exists between the cities JUJPAIGDXP and GTUZCBQMGR
 The cities JUJPAIGDXP and GTUZCBQMGR are not connected.
 No edge exists between the cities XZHCUJGHPG and XYTTBPBXRS
 The cities XZHCUJGHPG and XYTTBPBXRS are not connected.
 No edge exists between the cities TDJMRINSHN and EALRFIXKAA
-The cities TDJMRINSHN and EALRFIXKAA are connected.
+The cities TDJMRINSHN and EALRFIXKAA are not connected.
 No edge exists between the cities SPMOJLGYTB and EORMRDNWZK
 The cities SPMOJLGYTB and EORMRDNWZK are not connected.
 No edge exists between the cities ZBSPHIYVVJ and TXCNPXBRLT
@@ -18002,7 +18002,7 @@ The cities ZBSPHIYVVJ and TXCNPXBRLT are not connected.
 No edge exists between the cities NRVGSNAPGE and VEQESPUHFA
 The cities NRVGSNAPGE and VEQESPUHFA are not connected.
 No edge exists between the cities THCUGEVGWB and AWJVJPRKUT
-The cities THCUGEVGWB and AWJVJPRKUT are connected.
+The cities THCUGEVGWB and AWJVJPRKUT are not connected.
 No edge exists between the cities VXZGENEUIR and PENWWNGBPV
 The cities VXZGENEUIR and PENWWNGBPV are not connected.
 No edge exists between the cities DHTEBANMYQ and TSPRDPQFUB
@@ -18032,9 +18032,9 @@ The cities SYZGKHBXUH and ZNHRDFKLUC are not connected.
 No edge exists between the cities KZBIVTOQJP and EXHBCVQUCV
 The cities KZBIVTOQJP and EXHBCVQUCV are not connected.
 No edge exists between the cities OCFEXDGIJR and YUAIHBMOGF
-The cities OCFEXDGIJR and YUAIHBMOGF are connected.
+The cities OCFEXDGIJR and YUAIHBMOGF are not connected.
 No edge exists between the cities TZWBUELVDA and LXYKGVJFZY
-The cities TZWBUELVDA and LXYKGVJFZY are connected.
+The cities TZWBUELVDA and LXYKGVJFZY are not connected.
 No edge exists between the cities BDFGDBCRYC and NUSHOPZNQM
 The cities BDFGDBCRYC and NUSHOPZNQM are not connected.
 No edge exists between the cities QTMTJXEUUS and WCWLIKEWJA
@@ -18070,7 +18070,7 @@ The cities RREOQFAUKA and TXLCHWLHOV are not connected.
 No edge exists between the cities YVKLKYRFMP and QPLKQQFPWR
 The cities YVKLKYRFMP and QPLKQQFPWR are not connected.
 No edge exists between the cities HBVYEQTARE and FZLKSALTEN
-The cities HBVYEQTARE and FZLKSALTEN are connected.
+The cities HBVYEQTARE and FZLKSALTEN are not connected.
 No edge exists between the cities UTNDKHBFUG and VFMXTRGFXV
 The cities UTNDKHBFUG and VFMXTRGFXV are not connected.
 No edge exists between the cities NDXEIZCIYH and YPTDOQUHJC
@@ -18120,7 +18120,7 @@ The cities YYGNXEMBXM and YDOYMDEUQD are not connected.
 No edge exists between the cities WZBRGTBSTS and FZJGHIZLGP
 The cities WZBRGTBSTS and FZJGHIZLGP are not connected.
 No edge exists between the cities TSPRDPQFUB and ZLZWJWUUTI
-The cities TSPRDPQFUB and ZLZWJWUUTI are connected.
+The cities TSPRDPQFUB and ZLZWJWUUTI are not connected.
 No edge exists between the cities HFYRWVMNJQ and PKENWJLGOQ
 The cities HFYRWVMNJQ and PKENWJLGOQ are not connected.
 No edge exists between the cities CLKPVCFZWE and NCLFMJOFBZ
@@ -18146,7 +18146,7 @@ The cities ZILODFNTLI and SGWRRXMRBV are not connected.
 No edge exists between the cities FCBMIEWBLI and FOJGSHVWYY
 The cities FCBMIEWBLI and FOJGSHVWYY are not connected.
 No edge exists between the cities YRMNFDBTMH and SJZTKYYSRH
-The cities YRMNFDBTMH and SJZTKYYSRH are connected.
+The cities YRMNFDBTMH and SJZTKYYSRH are not connected.
 No edge exists between the cities FUKRWOQJJD and KUVFOTMBZB
 The cities FUKRWOQJJD and KUVFOTMBZB are not connected.
 No edge exists between the cities AIWFDVYHCS and GJESAEILHV
@@ -18160,7 +18160,7 @@ The cities SVLBLKQQQN and CFGUAFHMJD are not connected.
 No edge exists between the cities DOXKEGIAOP and HQVZZUJSYZ
 The cities DOXKEGIAOP and HQVZZUJSYZ are not connected.
 No edge exists between the cities XAXYSFDRLS and AKOHJDTKKW
-The cities XAXYSFDRLS and AKOHJDTKKW are connected.
+The cities XAXYSFDRLS and AKOHJDTKKW are not connected.
 No edge exists between the cities BFCWALGYAF and PEASHUHLVK
 The cities BFCWALGYAF and PEASHUHLVK are not connected.
 No edge exists between the cities OOVAGTUMFA and EKFTRFUUQE
@@ -18208,7 +18208,7 @@ The cities ZRSLOYAHYM and NXYSSBNNWV are not connected.
 No edge exists between the cities KIRGXSBVEV and MLBMCKQXRW
 The cities KIRGXSBVEV and MLBMCKQXRW are not connected.
 No edge exists between the cities UUUJRMXWXG and OBKXTGKUSA
-The cities UUUJRMXWXG and OBKXTGKUSA are connected.
+The cities UUUJRMXWXG and OBKXTGKUSA are not connected.
 No edge exists between the cities FYCSPAHWSL and RRDOTAJPVS
 The cities FYCSPAHWSL and RRDOTAJPVS are not connected.
 No edge exists between the cities BESJOFXCKT and TSWNKDWQWU
@@ -18254,13 +18254,13 @@ The cities WBJZUTRGPU and JAWGNTWJLD are not connected.
 No edge exists between the cities QRZUJDFVAP and AXMSPHXFSV
 The cities QRZUJDFVAP and AXMSPHXFSV are not connected.
 No edge exists between the cities IGSICYYRYO and TIADLFYRAV
-The cities IGSICYYRYO and TIADLFYRAV are connected.
+The cities IGSICYYRYO and TIADLFYRAV are not connected.
 No edge exists between the cities ZTPKWFTVLZ and ZSLJHJQNMJ
 The cities ZTPKWFTVLZ and ZSLJHJQNMJ are not connected.
 No edge exists between the cities RWYZGGHYET and QWCCRXXXBY
 The cities RWYZGGHYET and QWCCRXXXBY are not connected.
 No edge exists between the cities BOPMCONHDD and BFCWALGYAF
-The cities BOPMCONHDD and BFCWALGYAF are connected.
+The cities BOPMCONHDD and BFCWALGYAF are not connected.
 No edge exists between the cities YKBIQVNTKU and YFIROVYZQQ
 The cities YKBIQVNTKU and YFIROVYZQQ are not connected.
 No edge exists between the cities FOSJCROBLV and EJCWRVJPYP
@@ -18300,7 +18300,7 @@ The cities PXJNGYWYAF and FJYIGPLSBL are not connected.
 No edge exists between the cities HGSVORPUFP and JYUAEGFVQR
 The cities HGSVORPUFP and JYUAEGFVQR are not connected.
 No edge exists between the cities BXXGQRYUCW and LGSPIDDCJX
-The cities BXXGQRYUCW and LGSPIDDCJX are connected.
+The cities BXXGQRYUCW and LGSPIDDCJX are not connected.
 No edge exists between the cities ZPBQLRLOIZ and RNJZUOMZOM
 The cities ZPBQLRLOIZ and RNJZUOMZOM are not connected.
 No edge exists between the cities HFWDWSEFOU and LGQKZDIVAP
@@ -18308,7 +18308,7 @@ The cities HFWDWSEFOU and LGQKZDIVAP are not connected.
 No edge exists between the cities RHWHGVVTIP and WPUTTWZRYB
 The cities RHWHGVVTIP and WPUTTWZRYB are not connected.
 No edge exists between the cities YHCZJSXMVR and NZPKWAZFPW
-The cities YHCZJSXMVR and NZPKWAZFPW are connected.
+The cities YHCZJSXMVR and NZPKWAZFPW are not connected.
 No edge exists between the cities MNMFWSXHIB and GLUKGVUBNI
 The cities MNMFWSXHIB and GLUKGVUBNI are not connected.
 No edge exists between the cities KJNESVBKSR and CXPNQSABUG
@@ -18364,7 +18364,7 @@ The cities LVQWLFWMKH and NLNICCSFKY are not connected.
 No edge exists between the cities PXOFNLNJGM and IJZONGMAAF
 The cities PXOFNLNJGM and IJZONGMAAF are not connected.
 No edge exists between the cities ANDBQIOVVQ and FYCSPAHWSL
-The cities ANDBQIOVVQ and FYCSPAHWSL are connected.
+The cities ANDBQIOVVQ and FYCSPAHWSL are not connected.
 No edge exists between the cities FUMZCFPRPP and XAXYSFDRLS
 The cities FUMZCFPRPP and XAXYSFDRLS are not connected.
 No edge exists between the cities KMHHGHXSXP and MFFYZXXPVI
@@ -18426,7 +18426,7 @@ The cities GQNGUVZSMY and TSPRDPQFUB are not connected.
 No edge exists between the cities HUOOORGAQG and EBAANVJYVE
 The cities HUOOORGAQG and EBAANVJYVE are not connected.
 No edge exists between the cities EMCIUNAFTC and FKESQQFCGA
-The cities EMCIUNAFTC and FKESQQFCGA are connected.
+The cities EMCIUNAFTC and FKESQQFCGA are not connected.
 No edge exists between the cities MVDCCBLBJG and UXPXIOTEHV
 The cities MVDCCBLBJG and UXPXIOTEHV are not connected.
 No edge exists between the cities TDJMRINSHN and NCLFMJOFBZ
@@ -18452,13 +18452,13 @@ The cities AVWYTGXNIP and YNRQPJJYRL are not connected.
 No edge exists between the cities HFYRWVMNJQ and WWPEOECRCV
 The cities HFYRWVMNJQ and WWPEOECRCV are not connected.
 No edge exists between the cities EXDIYNUKTC and CAGFPEMHKT
-The cities EXDIYNUKTC and CAGFPEMHKT are connected.
+The cities EXDIYNUKTC and CAGFPEMHKT are not connected.
 No edge exists between the cities GZYJTAOGEJ and UHEFLDQVKL
 The cities GZYJTAOGEJ and UHEFLDQVKL are not connected.
 No edge exists between the cities TVKPKJNVIU and UBENMWEHZC
 The cities TVKPKJNVIU and UBENMWEHZC are not connected.
 No edge exists between the cities DCLKUPVGEY and CYHAGOTSBG
-The cities DCLKUPVGEY and CYHAGOTSBG are connected.
+The cities DCLKUPVGEY and CYHAGOTSBG are not connected.
 No edge exists between the cities WCWLIKEWJA and LLYNTCVUSY
 The cities WCWLIKEWJA and LLYNTCVUSY are not connected.
 No edge exists between the cities ZBMHQPIDCA and EXDIYNUKTC
@@ -18492,7 +18492,7 @@ The cities CAGFPEMHKT and HJMMVEPMYL are not connected.
 No edge exists between the cities EVOXLJZOPC and MNMFWSXHIB
 The cities EVOXLJZOPC and MNMFWSXHIB are not connected.
 No edge exists between the cities DALULNUTXO and OVEPZCNBWM
-The cities DALULNUTXO and OVEPZCNBWM are connected.
+The cities DALULNUTXO and OVEPZCNBWM are not connected.
 No edge exists between the cities PFHJHYOFZP and QPLKQQFPWR
 The cities PFHJHYOFZP and QPLKQQFPWR are not connected.
 No edge exists between the cities HYHIZARLAV and IZBTMWZAKF
@@ -18516,13 +18516,13 @@ The cities ONRWSTVWHX and YUYSZORNSI are not connected.
 No edge exists between the cities WFXAJIFDZQ and UXNXCPXPWE
 The cities WFXAJIFDZQ and UXNXCPXPWE are not connected.
 No edge exists between the cities AQCFFYADHP and JDZXXOLCSN
-The cities AQCFFYADHP and JDZXXOLCSN are connected.
+The cities AQCFFYADHP and JDZXXOLCSN are not connected.
 No edge exists between the cities PGRBJEBECN and XXHHXNHKXB
 The cities PGRBJEBECN and XXHHXNHKXB are not connected.
 No edge exists between the cities ACNMJNHLUM and MZDBIUXSAX
 The cities ACNMJNHLUM and MZDBIUXSAX are not connected.
 No edge exists between the cities WDNSGPLMRJ and HUOOORGAQG
-The cities WDNSGPLMRJ and HUOOORGAQG are connected.
+The cities WDNSGPLMRJ and HUOOORGAQG are not connected.
 No edge exists between the cities CLKPVCFZWE and ZNHRDFKLUC
 The cities CLKPVCFZWE and ZNHRDFKLUC are not connected.
 No edge exists between the cities QXOKGUADTR and IJFPIXDGIR
@@ -18556,7 +18556,7 @@ The cities SKQQGMVUHA and AUULCPKNJK are not connected.
 No edge exists between the cities NEQECYCTRJ and GXDFUEOOQM
 The cities NEQECYCTRJ and GXDFUEOOQM are not connected.
 No edge exists between the cities IIQHLRUAMS and PKXYHIZSSW
-The cities IIQHLRUAMS and PKXYHIZSSW are connected.
+The cities IIQHLRUAMS and PKXYHIZSSW are not connected.
 No edge exists between the cities NPUMZHOOYB and EUAFYMQHTU
 The cities NPUMZHOOYB and EUAFYMQHTU are not connected.
 No edge exists between the cities VEUQBIHHBA and HBEBNMETLC
@@ -18654,7 +18654,7 @@ The cities IGCSJFCCVD and UYHKPGXBRF are not connected.
 No edge exists between the cities JMLGOIRUAA and DXSABLRAQF
 The cities JMLGOIRUAA and DXSABLRAQF are not connected.
 No edge exists between the cities APHROMYJGR and FUMZCFPRPP
-The cities APHROMYJGR and FUMZCFPRPP are connected.
+The cities APHROMYJGR and FUMZCFPRPP are not connected.
 No edge exists between the cities FZJGHIZLGP and OACIZGGIJS
 The cities FZJGHIZLGP and OACIZGGIJS are not connected.
 No edge exists between the cities ZAYPXRNHZG and JQXVCWGVZX
@@ -18682,7 +18682,7 @@ The cities COCFTMHLYS and OHUPTCIEOS are not connected.
 No edge exists between the cities EFYMFMFQUX and QQTGNJOLQV
 The cities EFYMFMFQUX and QQTGNJOLQV are not connected.
 No edge exists between the cities BTCMDJOGTP and SLCYOZXJPU
-The cities BTCMDJOGTP and SLCYOZXJPU are connected.
+The cities BTCMDJOGTP and SLCYOZXJPU are not connected.
 No edge exists between the cities KCWEZAJXWT and NJSZARHAAI
 The cities KCWEZAJXWT and NJSZARHAAI are not connected.
 No edge exists between the cities UQSKXDKQWF and RGKJUMMFRW
@@ -18702,7 +18702,7 @@ The cities GRNYNQHQRI and JPBCHHHAUM are not connected.
 No edge exists between the cities HPVSHBWAJP and WGREDAAILW
 The cities HPVSHBWAJP and WGREDAAILW are not connected.
 No edge exists between the cities IJFPIXDGIR and XUQKRSJFFC
-The cities IJFPIXDGIR and XUQKRSJFFC are connected.
+The cities IJFPIXDGIR and XUQKRSJFFC are not connected.
 No edge exists between the cities RNJZUOMZOM and VODXPEOBJN
 The cities RNJZUOMZOM and VODXPEOBJN are not connected.
 No edge exists between the cities DSHKZDZCPM and TGBQQFXFTS
@@ -18740,1482 +18740,1482 @@ The cities MNOUVFKATI and ZISCWWAPME are not connected.
 No edge exists between the cities FHHQYRPYTB and SWNOTKSNNV
 The cities FHHQYRPYTB and SWNOTKSNNV are not connected.
 BFS path: 
-0	732	482	296	1071	1104	334	169	676	409	917	225	761	114	666	911	239	626	121	
+0	732	482	
 DFS path: 
-0	1071	296	482	732	225	917	409	676	169	334	1104	483	1026	864	545	1046	689	458	141	697	181	297	535	185	645	1055	136	279	501	736	445	580	1009	830	685	974	176	547	491	193	826	989	600	183	180	266	38	118	846	859	335	1058	906	1065	761	584	256	891	11	39	760	105	273	13	682	1007	428	528	990	484	320	234	586	315	876	968	569	268	946	803	800	282	322	457	496	762	1112	14	539	516	878	561	520	418	506	224	1022	480	102	365	88	911	979	156	850	958	257	606	710	571	1080	666	730	406	275	1034	793	145	164	857	462	421	477	284	399	804	502	820	783	293	316	45	670	472	20	616	1032	15	657	313	216	1018	272	207	681	344	504	171	18	705	693	192	727	277	814	809	119	556	113	798	673	521	986	466	1108	311	431	527	969	95	1102	740	382	532	699	6	1073	1063	696	683	959	655	1050	413	350	678	1096	1041	922	231	752	91	66	887	1019	531	731	861	702	92	48	478	489	739	1013	661	583	579	265	123	515	289	881	443	738	461	78	451	337	130	269	432	148	50	258	140	776	597	807	840	896	1109	649	543	385	460	374	398	847	138	637	59	456	654	623	1015	775	615	165	852	748	718	356	1002	1078	175	821	924	67	80	223	995	423	369	1031	361	3	83	956	1024	1060	936	973	129	262	764	845	907	317	513	221	745	735	235	135	787	640	218	729	280	858	493	1047	201	512	877	219	777	883	33	395	953	28	548	992	880	570	1106	312	1010	303	937	1003	1035	37	215	392	773	400	12	414	525	703	954	559	110	1053	52	1069	933	4	691	834	270	112	21	557	430	106	447	774	357	799	902	930	412	178	159	85	928	591	286	565	495	463	271	417	354	895	338	10	781	68	96	333	328	387	576	797	711	903	841	46	892	554	245	1097	84	619	23	452	505	754	253	646	116	972	308	336	243	971	875	970	639	851	563	371	208	700	469	1093	97	664	838	353	300	82	499	486	544	152	1077	498	835	957	381	104	378	295	263	453	537	278	210	470	157	1051	780	276	715	305	905	147	656	9	1052	605	318	177	402	889	675	204	1038	686	410	999	963	383	62	1094	613	51	494	64	1076	844	811	725	490	479	465	1107	403	550	817	137	643	977	128	988	60	43	1045	55	843	416	323	523	927	692	1064	108	621	733	1036	585	899	8	746	146	211	709	724	631	658	107	913	249	144	429	238	967	200	248	672	592	529	404	663	1072	635	866	634	189	298	149	72	908	1042	31	19	1030	63	894	348	454	704	987	795	301	801	94	99	1025	966	901	173	464	624	707	154	560	503	806	255	22	508	500	233	610	438	553	349	340	534	842	326	870	567	638	448	24	168	240	212	983	226	940	734	965	910	388	552	991	912	1074	17	1021	975	58	485	363	677	749	252	435	812	132	562	302	1090	603	205	1110	476	789	65	222	819	517	389	434	264	345	647	30	825	98	602	898	1092	507	644	160	836	239	394	351	1020	76	1098	194	376	29	976	419	367	951	342	1091	294	57	772	206	332	153	741	949	909	1081	42	250	770	71	242	862	358	767	744	437	120	203	620	117	1059	598	530	1004	888	370	854	1001	247	1105	346	788	868	950	439	366	329	929	1099	1111	290	687	380	40	195	932	167	574	1056	260	627	90	158	196	47	444	962	916	904	674	782	1054	717	87	653	828	524	75	824	879	720	742	101	359	150	805	914	869	474	433	833	186	198	652	134	993	514	837	785	997	236	244	984	401	945	217	614	694	1067	122	1062	188	753	163	1017	622	920	220	360	522	166	139	69	871	1087	546	324	230	449	747	232	1028	921	227	919	690	766	237	756	662	321	54	161	407	885	420	618	331	759	197	642	151	518	442	900	660	588	179	536	74	473	481	1049	1083	379	53	981	1029	155	792	526	187	427	425	915	867	794	41	299	288	492	251	791	1086	281	688	446	228	577	708	625	611	564	572	330	848	125	808	1006	815	509	190	174	542	802	604	131	943	1043	706	549	978	827	390	568	362	923	608	538	396	100	391	422	79	16	714	599	121	942	49	719	182	103	1061	982	1	1100	519	1079	551	384	935	810	684	488	698	341	750	596	283	2	143	1068	487	352	938	612	607	170	36	373	839	947	1000	77	111	768	784	7	758	1095	671	459	126	191	1075	310	641	115	886	436	829	996	184	533	765	1089	274	424	291	209	998	86	778	680	73	267	628	1084	229	629	578	823	952	918	926	818	1044	254	1040	939	133	595	925	81	961	426	816	771	497	831	172	757	873	667	511	721	386	109	202	882	648	375	307	713	630	779	34	865	890	35	306	1048	510	558	855	722	769	555	575	994	695	955	856	944	441	1082	292	56	347	743	25	471	960	343	364	665	325	259	405	261	751	1027	124	617	213	669	832	701	127	1039	27	723	93	587	415	1016	712	1088	1012	314	594	162	372	593	884	1011	455	679	393	863	931	632	636	1023	609	1005	142	540	339	590	241	786	626	114	475	853	397	377	70	668	1103	199	633	948	980	728	5	1014	214	934	440	874	589	1066	368	601	822	716	1101	1008	737	941	566	287	897	659	650	1085	319	89	44	964	309	872	246	408	860	327	1070	573	763	581	1057	651	1033	450	467	285	796	813	541	582	755	304	355	61	32	893	849	985	726	26	468	411	790	
-VertexID-Position:	2	0
-VertexID-Position:	6	1
-VertexID-Position:	8	2
-VertexID-Position:	9	3
-VertexID-Position:	11	4
-VertexID-Position:	13	5
-VertexID-Position:	16	6
-VertexID-Position:	20	7
-VertexID-Position:	29	8
-VertexID-Position:	31	9
-VertexID-Position:	32	10
-VertexID-Position:	33	11
-VertexID-Position:	38	12
-VertexID-Position:	40	13
-VertexID-Position:	43	14
-VertexID-Position:	44	15
-VertexID-Position:	46	16
-VertexID-Position:	47	17
-VertexID-Position:	48	18
-VertexID-Position:	50	19
-VertexID-Position:	51	20
-VertexID-Position:	52	21
-VertexID-Position:	54	22
-VertexID-Position:	57	23
-VertexID-Position:	59	24
-VertexID-Position:	61	25
-VertexID-Position:	66	26
-VertexID-Position:	69	27
-VertexID-Position:	70	28
-VertexID-Position:	72	29
-VertexID-Position:	74	30
-VertexID-Position:	75	31
-VertexID-Position:	77	32
-VertexID-Position:	78	33
-VertexID-Position:	80	34
-VertexID-Position:	81	35
-VertexID-Position:	85	36
-VertexID-Position:	91	37
-VertexID-Position:	92	38
-VertexID-Position:	94	39
-VertexID-Position:	96	40
-VertexID-Position:	100	41
-VertexID-Position:	102	42
-VertexID-Position:	103	43
-VertexID-Position:	104	44
-VertexID-Position:	107	45
-VertexID-Position:	109	46
-VertexID-Position:	110	47
-VertexID-Position:	111	48
-VertexID-Position:	112	49
-VertexID-Position:	114	50
-VertexID-Position:	116	51
-VertexID-Position:	119	52
-VertexID-Position:	120	53
-VertexID-Position:	122	54
-VertexID-Position:	123	55
-VertexID-Position:	125	56
-VertexID-Position:	128	57
-VertexID-Position:	129	58
-VertexID-Position:	130	59
-VertexID-Position:	131	60
-VertexID-Position:	133	61
-VertexID-Position:	134	62
-VertexID-Position:	137	63
-VertexID-Position:	140	64
-VertexID-Position:	143	65
-VertexID-Position:	144	66
-VertexID-Position:	145	67
-VertexID-Position:	149	68
-VertexID-Position:	153	69
-VertexID-Position:	155	70
-VertexID-Position:	157	71
-VertexID-Position:	160	72
-VertexID-Position:	164	73
-VertexID-Position:	166	74
-VertexID-Position:	172	75
-VertexID-Position:	174	76
-VertexID-Position:	175	77
-VertexID-Position:	177	78
-VertexID-Position:	182	79
-VertexID-Position:	184	80
-VertexID-Position:	187	81
-VertexID-Position:	189	82
-VertexID-Position:	191	83
-VertexID-Position:	193	84
-VertexID-Position:	194	85
-VertexID-Position:	195	86
-VertexID-Position:	196	87
-VertexID-Position:	200	88
-VertexID-Position:	203	89
-VertexID-Position:	205	90
-VertexID-Position:	207	91
-VertexID-Position:	210	92
-VertexID-Position:	212	93
-VertexID-Position:	215	94
-VertexID-Position:	216	95
-VertexID-Position:	221	96
-VertexID-Position:	222	97
-VertexID-Position:	223	98
-VertexID-Position:	224	99
-VertexID-Position:	225	100
-VertexID-Position:	229	101
-VertexID-Position:	233	102
-VertexID-Position:	238	103
-VertexID-Position:	239	104
-VertexID-Position:	241	105
-VertexID-Position:	243	106
-VertexID-Position:	244	107
-VertexID-Position:	245	108
-VertexID-Position:	246	109
-VertexID-Position:	247	110
-VertexID-Position:	248	111
-VertexID-Position:	250	112
-VertexID-Position:	255	113
-VertexID-Position:	262	114
-VertexID-Position:	264	115
-VertexID-Position:	266	116
-VertexID-Position:	270	117
-VertexID-Position:	275	118
-VertexID-Position:	276	119
-VertexID-Position:	279	120
-VertexID-Position:	280	121
-VertexID-Position:	286	122
-VertexID-Position:	293	123
-VertexID-Position:	294	124
-VertexID-Position:	296	125
-VertexID-Position:	298	126
-VertexID-Position:	302	127
-VertexID-Position:	303	128
-VertexID-Position:	304	129
-VertexID-Position:	309	130
-VertexID-Position:	310	131
-VertexID-Position:	315	132
-VertexID-Position:	320	133
-VertexID-Position:	324	134
-VertexID-Position:	325	135
-VertexID-Position:	328	136
-VertexID-Position:	329	137
-VertexID-Position:	331	138
-VertexID-Position:	335	139
-VertexID-Position:	337	140
-VertexID-Position:	339	141
-VertexID-Position:	340	142
-VertexID-Position:	341	143
-VertexID-Position:	346	144
-VertexID-Position:	347	145
-VertexID-Position:	348	146
-VertexID-Position:	351	147
-VertexID-Position:	353	148
-VertexID-Position:	360	149
-VertexID-Position:	365	150
-VertexID-Position:	366	151
-VertexID-Position:	368	152
-VertexID-Position:	369	153
-VertexID-Position:	378	154
-VertexID-Position:	379	155
-VertexID-Position:	381	156
-VertexID-Position:	383	157
-VertexID-Position:	390	158
-VertexID-Position:	395	159
-VertexID-Position:	396	160
-VertexID-Position:	397	161
-VertexID-Position:	398	162
-VertexID-Position:	400	163
-VertexID-Position:	404	164
-VertexID-Position:	405	165
-VertexID-Position:	409	166
-VertexID-Position:	410	167
-VertexID-Position:	415	168
-VertexID-Position:	416	169
-VertexID-Position:	420	170
-VertexID-Position:	421	171
-VertexID-Position:	422	172
-VertexID-Position:	426	173
-VertexID-Position:	430	174
-VertexID-Position:	435	175
-VertexID-Position:	438	176
-VertexID-Position:	441	177
-VertexID-Position:	442	178
-VertexID-Position:	443	179
-VertexID-Position:	445	180
-VertexID-Position:	448	181
-VertexID-Position:	450	182
-VertexID-Position:	451	183
-VertexID-Position:	455	184
-VertexID-Position:	459	185
-VertexID-Position:	460	186
-VertexID-Position:	461	187
-VertexID-Position:	462	188
-VertexID-Position:	463	189
-VertexID-Position:	467	190
-VertexID-Position:	470	191
-VertexID-Position:	471	192
-VertexID-Position:	478	193
-VertexID-Position:	480	194
-VertexID-Position:	481	195
-VertexID-Position:	483	196
-VertexID-Position:	485	197
-VertexID-Position:	490	198
-VertexID-Position:	491	199
-VertexID-Position:	492	200
-VertexID-Position:	497	201
-VertexID-Position:	503	202
-VertexID-Position:	504	203
-VertexID-Position:	505	204
-VertexID-Position:	511	205
-VertexID-Position:	515	206
-VertexID-Position:	518	207
-VertexID-Position:	520	208
-VertexID-Position:	523	209
-VertexID-Position:	525	210
-VertexID-Position:	531	211
-VertexID-Position:	534	212
-VertexID-Position:	535	213
-VertexID-Position:	538	214
-VertexID-Position:	542	215
-VertexID-Position:	544	216
-VertexID-Position:	548	217
-VertexID-Position:	549	218
-VertexID-Position:	550	219
-VertexID-Position:	552	220
-VertexID-Position:	553	221
-VertexID-Position:	557	222
-VertexID-Position:	560	223
-VertexID-Position:	564	224
-VertexID-Position:	566	225
-VertexID-Position:	568	226
-VertexID-Position:	569	227
-VertexID-Position:	570	228
-VertexID-Position:	575	229
-VertexID-Position:	584	230
-VertexID-Position:	589	231
-VertexID-Position:	592	232
-VertexID-Position:	593	233
-VertexID-Position:	595	234
-VertexID-Position:	596	235
-VertexID-Position:	597	236
-VertexID-Position:	599	237
-VertexID-Position:	602	238
-VertexID-Position:	605	239
-VertexID-Position:	606	240
-VertexID-Position:	607	241
-VertexID-Position:	608	242
-VertexID-Position:	609	243
-VertexID-Position:	612	244
-VertexID-Position:	614	245
-VertexID-Position:	620	246
-VertexID-Position:	624	247
-VertexID-Position:	631	248
-VertexID-Position:	632	249
-VertexID-Position:	636	250
-VertexID-Position:	638	251
-VertexID-Position:	643	252
-VertexID-Position:	646	253
-VertexID-Position:	652	254
-VertexID-Position:	653	255
-VertexID-Position:	654	256
-VertexID-Position:	656	257
-VertexID-Position:	658	258
-VertexID-Position:	659	259
-VertexID-Position:	664	260
-VertexID-Position:	665	261
-VertexID-Position:	666	262
-VertexID-Position:	668	263
-VertexID-Position:	669	264
-VertexID-Position:	670	265
-VertexID-Position:	671	266
-VertexID-Position:	679	267
-VertexID-Position:	680	268
-VertexID-Position:	683	269
-VertexID-Position:	684	270
-VertexID-Position:	685	271
-VertexID-Position:	686	272
-VertexID-Position:	687	273
-VertexID-Position:	689	274
-VertexID-Position:	690	275
-VertexID-Position:	695	276
-VertexID-Position:	696	277
-VertexID-Position:	702	278
-VertexID-Position:	703	279
-VertexID-Position:	704	280
-VertexID-Position:	705	281
-VertexID-Position:	708	282
-VertexID-Position:	709	283
-VertexID-Position:	712	284
-VertexID-Position:	713	285
-VertexID-Position:	717	286
-VertexID-Position:	722	287
-VertexID-Position:	726	288
-VertexID-Position:	728	289
-VertexID-Position:	731	290
-VertexID-Position:	732	291
-VertexID-Position:	733	292
-VertexID-Position:	734	293
-VertexID-Position:	735	294
-VertexID-Position:	736	295
-VertexID-Position:	739	296
-VertexID-Position:	742	297
-VertexID-Position:	743	298
-VertexID-Position:	744	299
-VertexID-Position:	745	300
-VertexID-Position:	748	301
-VertexID-Position:	749	302
-VertexID-Position:	750	303
-VertexID-Position:	751	304
-VertexID-Position:	757	305
-VertexID-Position:	758	306
-VertexID-Position:	760	307
-VertexID-Position:	762	308
-VertexID-Position:	763	309
-VertexID-Position:	764	310
-VertexID-Position:	766	311
-VertexID-Position:	771	312
-VertexID-Position:	776	313
-VertexID-Position:	777	314
-VertexID-Position:	784	315
-VertexID-Position:	785	316
-VertexID-Position:	789	317
-VertexID-Position:	794	318
-VertexID-Position:	797	319
-VertexID-Position:	798	320
-VertexID-Position:	800	321
-VertexID-Position:	805	322
-VertexID-Position:	808	323
-VertexID-Position:	811	324
-VertexID-Position:	813	325
-VertexID-Position:	818	326
-VertexID-Position:	819	327
-VertexID-Position:	822	328
-VertexID-Position:	824	329
-VertexID-Position:	828	330
-VertexID-Position:	831	331
-VertexID-Position:	834	332
-VertexID-Position:	838	333
-VertexID-Position:	840	334
-VertexID-Position:	841	335
-VertexID-Position:	842	336
-VertexID-Position:	848	337
-VertexID-Position:	849	338
-VertexID-Position:	850	339
-VertexID-Position:	851	340
-VertexID-Position:	854	341
-VertexID-Position:	858	342
-VertexID-Position:	862	343
-VertexID-Position:	865	344
-VertexID-Position:	867	345
-VertexID-Position:	868	346
-VertexID-Position:	871	347
-VertexID-Position:	873	348
-VertexID-Position:	874	349
-VertexID-Position:	875	350
-VertexID-Position:	878	351
-VertexID-Position:	885	352
-VertexID-Position:	886	353
-VertexID-Position:	887	354
-VertexID-Position:	896	355
-VertexID-Position:	898	356
-VertexID-Position:	900	357
-VertexID-Position:	906	358
-VertexID-Position:	911	359
-VertexID-Position:	913	360
-VertexID-Position:	914	361
-VertexID-Position:	922	362
-VertexID-Position:	923	363
-VertexID-Position:	924	364
-VertexID-Position:	926	365
-VertexID-Position:	928	366
-VertexID-Position:	931	367
-VertexID-Position:	932	368
-VertexID-Position:	934	369
-VertexID-Position:	941	370
-VertexID-Position:	945	371
-VertexID-Position:	950	372
-VertexID-Position:	952	373
-VertexID-Position:	953	374
-VertexID-Position:	956	375
-VertexID-Position:	957	376
-VertexID-Position:	960	377
-VertexID-Position:	962	378
-VertexID-Position:	963	379
-VertexID-Position:	965	380
-VertexID-Position:	966	381
-VertexID-Position:	971	382
-VertexID-Position:	973	383
-VertexID-Position:	976	384
-VertexID-Position:	978	385
-VertexID-Position:	989	386
-VertexID-Position:	990	387
-VertexID-Position:	992	388
-VertexID-Position:	993	389
-VertexID-Position:	994	390
-VertexID-Position:	995	391
-VertexID-Position:	999	392
-VertexID-Position:	1001	393
-VertexID-Position:	1004	394
-VertexID-Position:	1008	395
-VertexID-Position:	1009	396
-VertexID-Position:	1010	397
-VertexID-Position:	1013	398
-VertexID-Position:	1017	399
-VertexID-Position:	1020	400
-VertexID-Position:	1022	401
-VertexID-Position:	1023	402
-VertexID-Position:	1025	403
-VertexID-Position:	1029	404
-VertexID-Position:	1030	405
-VertexID-Position:	1033	406
-VertexID-Position:	1037	407
-VertexID-Position:	1038	408
-VertexID-Position:	1041	409
-VertexID-Position:	1042	410
-VertexID-Position:	1044	411
-VertexID-Position:	1045	412
-VertexID-Position:	1053	413
-VertexID-Position:	1054	414
-VertexID-Position:	1055	415
-VertexID-Position:	1056	416
-VertexID-Position:	1057	417
-VertexID-Position:	1060	418
-VertexID-Position:	1061	419
-VertexID-Position:	1063	420
-VertexID-Position:	1064	421
-VertexID-Position:	1066	422
-VertexID-Position:	1067	423
-VertexID-Position:	1069	424
-VertexID-Position:	1070	425
-VertexID-Position:	1071	426
-VertexID-Position:	1072	427
-VertexID-Position:	1075	428
-VertexID-Position:	1082	429
-VertexID-Position:	1083	430
-VertexID-Position:	1084	431
-VertexID-Position:	1088	432
-VertexID-Position:	1092	433
-VertexID-Position:	1095	434
-VertexID-Position:	1100	435
-VertexID-Position:	1101	436
-VertexID-Position:	1103	437
-VertexID-Position:	1104	438
-VertexID-Position:	1109	439
-VertexID-Position:	1111	440
-VertexID-Position:	1112	441
-EdgeID-Position:	9	0
-EdgeID-Position:	19	1
-EdgeID-Position:	26	2
-EdgeID-Position:	31	3
-EdgeID-Position:	50	4
-EdgeID-Position:	64	5
-EdgeID-Position:	65	6
-EdgeID-Position:	67	7
-EdgeID-Position:	70	8
-EdgeID-Position:	79	9
-EdgeID-Position:	101	10
-EdgeID-Position:	106	11
-EdgeID-Position:	117	12
-EdgeID-Position:	120	13
-EdgeID-Position:	127	14
-EdgeID-Position:	131	15
-EdgeID-Position:	141	16
-EdgeID-Position:	143	17
-EdgeID-Position:	150	18
-EdgeID-Position:	155	19
-EdgeID-Position:	157	20
-EdgeID-Position:	164	21
-EdgeID-Position:	168	22
-EdgeID-Position:	188	23
-EdgeID-Position:	189	24
-EdgeID-Position:	198	25
-EdgeID-Position:	199	26
-EdgeID-Position:	204	27
-EdgeID-Position:	207	28
-EdgeID-Position:	223	29
-EdgeID-Position:	226	30
-EdgeID-Position:	227	31
-EdgeID-Position:	231	32
-EdgeID-Position:	244	33
-EdgeID-Position:	248	34
-EdgeID-Position:	251	35
-EdgeID-Position:	261	36
-EdgeID-Position:	268	37
-EdgeID-Position:	273	38
-EdgeID-Position:	283	39
-EdgeID-Position:	286	40
-EdgeID-Position:	289	41
-EdgeID-Position:	290	42
-EdgeID-Position:	291	43
-EdgeID-Position:	295	44
-EdgeID-Position:	302	45
-EdgeID-Position:	303	46
-EdgeID-Position:	310	47
-EdgeID-Position:	311	48
-EdgeID-Position:	321	49
-EdgeID-Position:	328	50
-EdgeID-Position:	334	51
-EdgeID-Position:	340	52
-EdgeID-Position:	344	53
-EdgeID-Position:	350	54
-EdgeID-Position:	361	55
-EdgeID-Position:	364	56
-EdgeID-Position:	371	57
-EdgeID-Position:	372	58
-EdgeID-Position:	374	59
-EdgeID-Position:	376	60
-EdgeID-Position:	378	61
-EdgeID-Position:	385	62
-EdgeID-Position:	387	63
-EdgeID-Position:	397	64
-EdgeID-Position:	399	65
-EdgeID-Position:	401	66
-EdgeID-Position:	403	67
-EdgeID-Position:	406	68
-EdgeID-Position:	411	69
-EdgeID-Position:	413	70
-EdgeID-Position:	416	71
-EdgeID-Position:	418	72
-EdgeID-Position:	420	73
-EdgeID-Position:	425	74
-EdgeID-Position:	431	75
-EdgeID-Position:	439	76
-EdgeID-Position:	447	77
-EdgeID-Position:	450	78
-EdgeID-Position:	466	79
-EdgeID-Position:	473	80
-EdgeID-Position:	484	81
-EdgeID-Position:	491	82
-EdgeID-Position:	498	83
-EdgeID-Position:	499	84
-EdgeID-Position:	502	85
-EdgeID-Position:	503	86
-EdgeID-Position:	512	87
-EdgeID-Position:	521	88
-EdgeID-Position:	530	89
-EdgeID-Position:	531	90
-EdgeID-Position:	533	91
-EdgeID-Position:	554	92
-EdgeID-Position:	567	93
-EdgeID-Position:	568	94
-EdgeID-Position:	571	95
-EdgeID-Position:	576	96
-EdgeID-Position:	582	97
-EdgeID-Position:	588	98
-EdgeID-Position:	590	99
-EdgeID-Position:	595	100
-EdgeID-Position:	603	101
-EdgeID-Position:	604	102
-EdgeID-Position:	608	103
-EdgeID-Position:	609	104
-EdgeID-Position:	616	105
-EdgeID-Position:	618	106
-EdgeID-Position:	624	107
-EdgeID-Position:	628	108
-EdgeID-Position:	634	109
-EdgeID-Position:	636	110
-EdgeID-Position:	637	111
-EdgeID-Position:	642	112
-EdgeID-Position:	643	113
-EdgeID-Position:	647	114
-EdgeID-Position:	649	115
-EdgeID-Position:	650	116
-EdgeID-Position:	661	117
-EdgeID-Position:	669	118
-EdgeID-Position:	670	119
-EdgeID-Position:	687	120
-EdgeID-Position:	702	121
-EdgeID-Position:	704	122
-EdgeID-Position:	714	123
-EdgeID-Position:	726	124
-EdgeID-Position:	732	125
-EdgeID-Position:	734	126
-EdgeID-Position:	736	127
-EdgeID-Position:	737	128
-EdgeID-Position:	746	129
-EdgeID-Position:	748	130
-EdgeID-Position:	749	131
-EdgeID-Position:	750	132
-EdgeID-Position:	761	133
-EdgeID-Position:	769	134
-EdgeID-Position:	772	135
-EdgeID-Position:	777	136
-EdgeID-Position:	778	137
-EdgeID-Position:	780	138
-EdgeID-Position:	783	139
-EdgeID-Position:	785	140
-EdgeID-Position:	786	141
-EdgeID-Position:	788	142
-EdgeID-Position:	790	143
-EdgeID-Position:	799	144
-EdgeID-Position:	811	145
-EdgeID-Position:	813	146
-EdgeID-Position:	814	147
-EdgeID-Position:	830	148
-EdgeID-Position:	833	149
-EdgeID-Position:	834	150
-EdgeID-Position:	838	151
-EdgeID-Position:	845	152
-EdgeID-Position:	846	153
-EdgeID-Position:	852	154
-EdgeID-Position:	859	155
-EdgeID-Position:	861	156
-EdgeID-Position:	876	157
-EdgeID-Position:	884	158
-EdgeID-Position:	898	159
-EdgeID-Position:	909	160
-EdgeID-Position:	913	161
-EdgeID-Position:	914	162
-EdgeID-Position:	918	163
-EdgeID-Position:	919	164
-EdgeID-Position:	921	165
-EdgeID-Position:	926	166
-EdgeID-Position:	928	167
-EdgeID-Position:	929	168
-EdgeID-Position:	934	169
-EdgeID-Position:	956	170
-EdgeID-Position:	958	171
-EdgeID-Position:	963	172
-EdgeID-Position:	967	173
-EdgeID-Position:	972	174
-EdgeID-Position:	974	175
-EdgeID-Position:	990	176
-EdgeID-Position:	996	177
-EdgeID-Position:	1003	178
-EdgeID-Position:	1005	179
-EdgeID-Position:	1012	180
-EdgeID-Position:	1013	181
-EdgeID-Position:	1025	182
-EdgeID-Position:	1026	183
-EdgeID-Position:	1027	184
-EdgeID-Position:	1054	185
-EdgeID-Position:	1056	186
-EdgeID-Position:	1062	187
-EdgeID-Position:	1075	188
-EdgeID-Position:	1085	189
-EdgeID-Position:	1105	190
-EdgeID-Position:	1112	191
-EdgeID-Position:	1113	192
-EdgeID-Position:	1120	193
-EdgeID-Position:	1121	194
-EdgeID-Position:	1134	195
-EdgeID-Position:	1138	196
-EdgeID-Position:	1140	197
-EdgeID-Position:	1144	198
-EdgeID-Position:	1152	199
-EdgeID-Position:	1153	200
-EdgeID-Position:	1158	201
-EdgeID-Position:	1169	202
-EdgeID-Position:	1181	203
-EdgeID-Position:	1185	204
-EdgeID-Position:	1190	205
-EdgeID-Position:	1195	206
-EdgeID-Position:	1200	207
-EdgeID-Position:	1201	208
-EdgeID-Position:	1242	209
-EdgeID-Position:	1244	210
-EdgeID-Position:	1249	211
-EdgeID-Position:	1251	212
-EdgeID-Position:	1266	213
-EdgeID-Position:	1293	214
-EdgeID-Position:	1295	215
-EdgeID-Position:	1303	216
-EdgeID-Position:	1313	217
-EdgeID-Position:	1314	218
-EdgeID-Position:	1316	219
-EdgeID-Position:	1320	220
-EdgeID-Position:	1323	221
-EdgeID-Position:	1333	222
-EdgeID-Position:	1335	223
-EdgeID-Position:	1337	224
-EdgeID-Position:	1348	225
-EdgeID-Position:	1353	226
-EdgeID-Position:	1358	227
-EdgeID-Position:	1364	228
-EdgeID-Position:	1380	229
-EdgeID-Position:	1382	230
-EdgeID-Position:	1383	231
-EdgeID-Position:	1387	232
-EdgeID-Position:	1396	233
-EdgeID-Position:	1405	234
-EdgeID-Position:	1408	235
-EdgeID-Position:	1411	236
-EdgeID-Position:	1428	237
-EdgeID-Position:	1429	238
-EdgeID-Position:	1431	239
-EdgeID-Position:	1432	240
-EdgeID-Position:	1436	241
-EdgeID-Position:	1442	242
-EdgeID-Position:	1454	243
-EdgeID-Position:	1455	244
-EdgeID-Position:	1459	245
-EdgeID-Position:	1462	246
-EdgeID-Position:	1463	247
-EdgeID-Position:	1469	248
-EdgeID-Position:	1473	249
-EdgeID-Position:	1475	250
-EdgeID-Position:	1479	251
-EdgeID-Position:	1485	252
-EdgeID-Position:	1493	253
-EdgeID-Position:	1509	254
-EdgeID-Position:	1517	255
-EdgeID-Position:	1521	256
-EdgeID-Position:	1522	257
-EdgeID-Position:	1526	258
-EdgeID-Position:	1542	259
-EdgeID-Position:	1554	260
-EdgeID-Position:	1562	261
-EdgeID-Position:	1564	262
-EdgeID-Position:	1571	263
-EdgeID-Position:	1573	264
-EdgeID-Position:	1579	265
-EdgeID-Position:	1590	266
-EdgeID-Position:	1594	267
-EdgeID-Position:	1596	268
-EdgeID-Position:	1597	269
-EdgeID-Position:	1599	270
-EdgeID-Position:	1604	271
-EdgeID-Position:	1611	272
-EdgeID-Position:	1613	273
-EdgeID-Position:	1614	274
-EdgeID-Position:	1617	275
-EdgeID-Position:	1627	276
-EdgeID-Position:	1628	277
-EdgeID-Position:	1636	278
-EdgeID-Position:	1639	279
-EdgeID-Position:	1640	280
-EdgeID-Position:	1645	281
-EdgeID-Position:	1646	282
-EdgeID-Position:	1656	283
-EdgeID-Position:	1657	284
-EdgeID-Position:	1658	285
-EdgeID-Position:	1660	286
-EdgeID-Position:	1664	287
-EdgeID-Position:	1667	288
-EdgeID-Position:	1668	289
-EdgeID-Position:	1670	290
-EdgeID-Position:	1674	291
-EdgeID-Position:	1678	292
-EdgeID-Position:	1691	293
-EdgeID-Position:	1706	294
-EdgeID-Position:	1710	295
-EdgeID-Position:	1712	296
-EdgeID-Position:	1740	297
-EdgeID-Position:	1748	298
-EdgeID-Position:	1759	299
-EdgeID-Position:	1763	300
-EdgeID-Position:	1765	301
-EdgeID-Position:	1775	302
-EdgeID-Position:	1781	303
-EdgeID-Position:	1783	304
-EdgeID-Position:	1785	305
-EdgeID-Position:	1787	306
-EdgeID-Position:	1791	307
-EdgeID-Position:	1819	308
-EdgeID-Position:	1820	309
-EdgeID-Position:	1822	310
-EdgeID-Position:	1838	311
-EdgeID-Position:	1843	312
-EdgeID-Position:	1845	313
-EdgeID-Position:	1846	314
-EdgeID-Position:	1855	315
-EdgeID-Position:	1873	316
-EdgeID-Position:	1890	317
-EdgeID-Position:	1892	318
-EdgeID-Position:	1896	319
-EdgeID-Position:	1897	320
-EdgeID-Position:	1903	321
-EdgeID-Position:	1906	322
-EdgeID-Position:	1910	323
-EdgeID-Position:	1925	324
-EdgeID-Position:	1932	325
-EdgeID-Position:	1933	326
-EdgeID-Position:	1935	327
-EdgeID-Position:	1937	328
-EdgeID-Position:	1938	329
-EdgeID-Position:	1954	330
-EdgeID-Position:	1956	331
-EdgeID-Position:	1959	332
-EdgeID-Position:	1962	333
-EdgeID-Position:	1964	334
-EdgeID-Position:	1965	335
-EdgeID-Position:	1967	336
-EdgeID-Position:	1968	337
-EdgeID-Position:	1970	338
-EdgeID-Position:	1976	339
-EdgeID-Position:	1986	340
-EdgeID-Position:	1994	341
-EdgeID-Position:	1999	342
-EdgeID-Position:	2017	343
-EdgeID-Position:	2020	344
-EdgeID-Position:	2022	345
-EdgeID-Position:	2027	346
-EdgeID-Position:	2037	347
-EdgeID-Position:	2040	348
-EdgeID-Position:	2042	349
-EdgeID-Position:	2046	350
-EdgeID-Position:	2054	351
-EdgeID-Position:	2059	352
-EdgeID-Position:	2074	353
-EdgeID-Position:	2075	354
-EdgeID-Position:	2076	355
-EdgeID-Position:	2082	356
-EdgeID-Position:	2093	357
-EdgeID-Position:	2095	358
-EdgeID-Position:	2097	359
-EdgeID-Position:	2123	360
-EdgeID-Position:	2133	361
-EdgeID-Position:	2149	362
-EdgeID-Position:	2158	363
-EdgeID-Position:	2167	364
-EdgeID-Position:	2169	365
-EdgeID-Position:	2173	366
-EdgeID-Position:	2199	367
-EdgeID-Position:	2203	368
-EdgeID-Position:	2210	369
-EdgeID-Position:	2211	370
-EdgeID-Position:	2217	371
-EdgeID-Position:	2220	372
-EdgeID-Position:	2225	373
-EdgeID-Position:	2232	374
-EdgeID-Position:	2240	375
-EdgeID-Position:	2247	376
-EdgeID-Position:	2263	377
-EdgeID-Position:	2270	378
-EdgeID-Position:	2283	379
-EdgeID-Position:	2301	380
-EdgeID-Position:	2311	381
-EdgeID-Position:	2315	382
-EdgeID-Position:	2323	383
-EdgeID-Position:	2325	384
-EdgeID-Position:	2350	385
-EdgeID-Position:	2354	386
-EdgeID-Position:	2355	387
-EdgeID-Position:	2363	388
-EdgeID-Position:	2367	389
-EdgeID-Position:	2370	390
-EdgeID-Position:	2383	391
-EdgeID-Position:	2387	392
-EdgeID-Position:	2391	393
-EdgeID-Position:	2394	394
-EdgeID-Position:	2397	395
-EdgeID-Position:	2403	396
-EdgeID-Position:	2408	397
-EdgeID-Position:	2416	398
-EdgeID-Position:	2418	399
-EdgeID-Position:	2432	400
-EdgeID-Position:	2433	401
-EdgeID-Position:	2441	402
-EdgeID-Position:	2453	403
-EdgeID-Position:	2462	404
-EdgeID-Position:	2464	405
-EdgeID-Position:	2466	406
-EdgeID-Position:	2476	407
-EdgeID-Position:	2477	408
-EdgeID-Position:	2479	409
-EdgeID-Position:	2489	410
-EdgeID-Position:	2490	411
-EdgeID-Position:	2501	412
-EdgeID-Position:	2512	413
-EdgeID-Position:	2515	414
-EdgeID-Position:	2524	415
-EdgeID-Position:	2528	416
-EdgeID-Position:	2532	417
-EdgeID-Position:	2534	418
-EdgeID-Position:	2547	419
-EdgeID-Position:	2550	420
-EdgeID-Position:	2557	421
-EdgeID-Position:	2573	422
-EdgeID-Position:	2581	423
-EdgeID-Position:	2585	424
-EdgeID-Position:	2586	425
-EdgeID-Position:	2588	426
-EdgeID-Position:	2596	427
-EdgeID-Position:	2603	428
-EdgeID-Position:	2635	429
-EdgeID-Position:	2636	430
-EdgeID-Position:	2640	431
-EdgeID-Position:	2650	432
-EdgeID-Position:	2651	433
-EdgeID-Position:	2655	434
-EdgeID-Position:	2657	435
-EdgeID-Position:	2658	436
-EdgeID-Position:	2660	437
-EdgeID-Position:	2662	438
-EdgeID-Position:	2663	439
-EdgeID-Position:	2666	440
-EdgeID-Position:	2672	441
-EdgeID-Position:	2674	442
-EdgeID-Position:	2681	443
-EdgeID-Position:	2699	444
-EdgeID-Position:	2706	445
-EdgeID-Position:	2715	446
-EdgeID-Position:	2719	447
-EdgeID-Position:	2720	448
-EdgeID-Position:	2722	449
-EdgeID-Position:	2724	450
-EdgeID-Position:	2733	451
-EdgeID-Position:	2734	452
-EdgeID-Position:	2750	453
-EdgeID-Position:	2753	454
-EdgeID-Position:	2754	455
-EdgeID-Position:	2757	456
-EdgeID-Position:	2763	457
-EdgeID-Position:	2769	458
-EdgeID-Position:	2793	459
-EdgeID-Position:	2801	460
-EdgeID-Position:	2811	461
-EdgeID-Position:	2816	462
-EdgeID-Position:	2823	463
-EdgeID-Position:	2830	464
-EdgeID-Position:	2836	465
-EdgeID-Position:	2852	466
-EdgeID-Position:	2858	467
-EdgeID-Position:	2862	468
-EdgeID-Position:	2863	469
-EdgeID-Position:	2865	470
-EdgeID-Position:	2873	471
-EdgeID-Position:	2881	472
-EdgeID-Position:	2904	473
+0	732	1104	458	697	535	645	1009	826	180	1065	39	990	234	282	539	418	979	730	857	502	316	20	657	171	814	521	527	382	699	1063	959	1096	66	861	478	583	123	78	1046	339	590	501	709	906	713	354	737	592	331	559	344	61	355	402	656	675	204	383	494	465	787	1058	818	982	629	688	491	361	936	907	847	397	950	791	748	921	671	1095	799	810	1056	1014	129	552	866	541	10	170	666	963	477	65	49	98	667	426	119	337	158	627	196	916	930	1087	69	859	932	902	980	862	537	122	600	139	690	547	753	1017	965	351	447	747	1028	1038	649	528	608	212	1008	329	445	770	385	71	423	6	96	841	245	452	116	875	269	808	953	777	512	689	988	1013	1060	82	985	156	1081	996	696	30	794	492	264	511	736	533	765	484	937	880	28	992	213	686	192	308	681	322	1079	851	536	900	179	149	463	267	41	599	27	532	1061	701	1039	919	145	374	609	693	983	878	150	914	277	543	692	759	642	800	134	572	848	620	593	545	812	625	577	611	663	141	54	549	801	8	899	591	200	947	561	169	464	575	700	1024	53	1083	981	406	195	883	486	677	302	1110	819	825	205	786	1053	771	497	961	877	505	33	21	762	764	244	761	482	114	419	415	683	293	886	436	507	602	646	676	147	844	1002	679	421	842	779	1049	25	343	672	148	64	305	431	283	938	607	36	999	409	91	414	52	112	557	357	178	286	271	68	324	589	571	798	395	420	885	1010	442	682	202	257	294	606	321	239	236	1018	124	1027	261	203	109	882	375	637	802	715	623	654	398	456	428	59	755	1108	298	1042	894	454	704	63	127	284	273	582	1025	154	22	215	368	166	601	520	964	517	630	34	165	1015	718	175	80	995	176	716	822	522	658	365	90	260	746	95	460	895	197	524	335	1111	1066	276	131	106	31	1090	1085	864	905	1051	210	295	971	566	805	101	879	742	647	177	1041	174	509	190	317	323	408	860	327	438	803	707	986	1092	694	1047	830	187	915	14	84	540	183	922	262	967	838	208	970	371	115	47	784	768	479	743	381	636	632	604	413	628	680	86	1035	15	449	793	644	720	702	624	668	70	493	858	235	280	820	23	72	1069	1004	503	320	553	489	51	789	1091	110	416	1036	336	136	991	1001	969	897	359	824	19	788	85	313	391	829	1089	975	346	868	439	1099	870	201	377	475	481	853	315	1026	403	1032	756	138	211	1068	925	595	81	727	45	349	500	340	326	448	240	846	152	378	300	544	616	238	597	513	556	259	471	325	405	685	304	896	792	1064	974	570	1007	167	567	650	290	518	669	617	912	228	446	472	515	555	151	241	38	318	32	470	1082	441	369	393	417	598	639	827	888	499	918	1094	455	216	576	24	440	1033	4	350	1022	121	182	345	429	706	785	837	997	782	255	433	729	740	619	99	450	734	664	973	670	558	739	74	199	817	579	218	594	372	185	929	89	461	219	911	108	1100	270	920	622	296	380	40	233	3	370	247	1105	1078	1012	712	731	301	834	1080	366	476	401	941	516	626	251	172	673	102	994	613	427	519	534	1016	1043	1000	299	288	422	16	674	962	717	653	266	198	993	744	890	254	865	546	330	815	376	73	823	943	314	863	125	87	400	435	356	723	913	873	757	568	1097	363	353	291	1102	13	684	698	564	1005	917	232	79	93	113	105	1003	392	12	574	931	1023	443	480	5	687	640	892	934	781	795	94	103	719	1	297	143	2	596	750	488	881	660	804	565	849	1077	1107	643	43	843	319	388	118	1052	662	498	548	945	614	462	831	496	835	162	976	850	48	876	159	18	721	968	275	56	710	410	763	132	909	741	250	358	767	754	724	146	1055	164	581	1021	924	651	1057	510	989	773	206	57	348	186	586	11	542	526	379	483	1020	394	160	836	88	230	655	504	229	752	933	1088	695	797	214	135	126	430	678	29	104	133	1044	939	453	903	852	845	735	531	144	631	249	107	390	783	263	272	352	839	184	889	569	303	725	733	884	530	117	437	615	738	58	17	485	252	1073	140	749	258	776	1109	840	130	451	50	248	809	1074	887	128	120	207	1093	1006	587	396	635	529	1072	1070	872	523	603	163	1101	1071	891	1112	386	760	191	459	1075	1054	399	425	310	641	584	1029	67	243	705	188	708	311	610	869	1084	412	231	612	268	155	173	901	309	193	987	474	83	638	237	766	904	560	957	224	468	225	659	223	404	910	821	898	940	62	278	554	227	956	44	367	952	209	274	998	778	338	424	926	775	26	661	168	77	9	538	745	714	942	469	960	389	407	161	966	984	281	1086	334	467	285	972	194	1098	76	977	1030	691	1040	772	222	46	1067	978	621	806	508	1103	958	75	562	312	551	816	833	711	221	289	948	780	563	387	1076	908	774	828	434	347	55	578	189	813	1019	411	618	332	457	634	585	573	432	807	514	935	1106	580	1059	1045	307	648	42	1062	1048	306	153	35	955	246	242	874	490	949	137	758	7	944	951	342	217	867	60	946	550	97	292	726	1011	928	871	181	832	703	341	37	856	1034	728	279	373	253	328	927	652	92	855	1031	444	495	100	111	256	466	722	487	854	506	362	923	220	360	287	473	525	893	811	384	769	665	364	605	588	333	157	226	1050	265	633	751	142	954	796	790	
+VertexID-Position:	50	50
+VertexID-Position:	153	153
+VertexID-Position:	462	28
+VertexID-Position:	668	10
+VertexID-Position:	771	0
+VertexID-Position:	874	227
+VertexID-Position:	102	102
+VertexID-Position:	205	205
+VertexID-Position:	926	417
+VertexID-Position:	1029	169
+VertexID-Position:	51	51
+VertexID-Position:	360	360
+VertexID-Position:	463	83
+VertexID-Position:	566	274
+VertexID-Position:	669	214
+VertexID-Position:	875	434
+VertexID-Position:	978	141
+VertexID-Position:	103	103
+VertexID-Position:	309	309
+VertexID-Position:	515	278
+VertexID-Position:	824	432
+VertexID-Position:	1030	376
+VertexID-Position:	52	52
+VertexID-Position:	155	155
+VertexID-Position:	670	281
+VertexID-Position:	1082	64
+VertexID-Position:	104	104
+VertexID-Position:	207	207
+VertexID-Position:	310	310
+VertexID-Position:	722	42
+VertexID-Position:	928	407
+VertexID-Position:	568	306
+VertexID-Position:	671	437
+VertexID-Position:	1083	252
+VertexID-Position:	2	2
+VertexID-Position:	620	126
+VertexID-Position:	54	54
+VertexID-Position:	157	157
+VertexID-Position:	569	179
+VertexID-Position:	878	86
+VertexID-Position:	1084	62
+VertexID-Position:	415	415
+VertexID-Position:	518	300
+VertexID-Position:	1033	375
+VertexID-Position:	467	387
+VertexID-Position:	570	25
+VertexID-Position:	776	261
+VertexID-Position:	107	107
+VertexID-Position:	210	210
+VertexID-Position:	416	416
+VertexID-Position:	828	428
+VertexID-Position:	931	180
+VertexID-Position:	262	262
+VertexID-Position:	365	365
+VertexID-Position:	777	389
+VertexID-Position:	520	265
+VertexID-Position:	726	198
+VertexID-Position:	932	259
+VertexID-Position:	57	57
+VertexID-Position:	160	160
+VertexID-Position:	366	366
+VertexID-Position:	6	6
+VertexID-Position:	109	109
+VertexID-Position:	212	212
+VertexID-Position:	315	315
+VertexID-Position:	624	89
+VertexID-Position:	264	264
+VertexID-Position:	470	30
+VertexID-Position:	1088	367
+VertexID-Position:	110	110
+VertexID-Position:	728	385
+VertexID-Position:	831	260
+VertexID-Position:	934	354
+VertexID-Position:	1037	254
+VertexID-Position:	59	59
+VertexID-Position:	368	368
+VertexID-Position:	471	1
+VertexID-Position:	8	8
+VertexID-Position:	111	111
+VertexID-Position:	420	420
+VertexID-Position:	523	370
+VertexID-Position:	1038	232
+VertexID-Position:	266	266
+VertexID-Position:	369	369
+VertexID-Position:	575	418
+VertexID-Position:	9	9
+VertexID-Position:	112	112
+VertexID-Position:	215	215
+VertexID-Position:	421	421
+VertexID-Position:	61	61
+VertexID-Position:	164	164
+VertexID-Position:	679	292
+VertexID-Position:	885	249
+VertexID-Position:	216	216
+VertexID-Position:	422	422
+VertexID-Position:	525	41
+VertexID-Position:	731	158
+VertexID-Position:	834	338
+VertexID-Position:	680	285
+VertexID-Position:	886	297
+VertexID-Position:	989	105
+VertexID-Position:	1092	87
+VertexID-Position:	11	11
+VertexID-Position:	114	114
+VertexID-Position:	320	320
+VertexID-Position:	732	403
+VertexID-Position:	1041	34
+VertexID-Position:	166	166
+VertexID-Position:	784	218
+VertexID-Position:	887	234
+VertexID-Position:	990	146
+VertexID-Position:	733	305
+VertexID-Position:	1042	424
+VertexID-Position:	270	270
+VertexID-Position:	785	15
+VertexID-Position:	13	13
+VertexID-Position:	116	116
+VertexID-Position:	631	159
+VertexID-Position:	734	132
+VertexID-Position:	683	355
+VertexID-Position:	992	217
+VertexID-Position:	1095	84
+VertexID-Position:	426	426
+VertexID-Position:	632	95
+VertexID-Position:	735	53
+VertexID-Position:	838	101
+VertexID-Position:	941	17
+VertexID-Position:	1044	307
+VertexID-Position:	66	66
+VertexID-Position:	478	402
+VertexID-Position:	684	251
+VertexID-Position:	993	311
+VertexID-Position:	221	221
+VertexID-Position:	324	324
+VertexID-Position:	736	202
+VertexID-Position:	1045	301
+VertexID-Position:	685	124
+VertexID-Position:	994	127
+VertexID-Position:	16	16
+VertexID-Position:	119	119
+VertexID-Position:	222	222
+VertexID-Position:	325	325
+VertexID-Position:	531	165
+VertexID-Position:	840	429
+VertexID-Position:	480	314
+VertexID-Position:	686	173
+VertexID-Position:	789	382
+VertexID-Position:	995	235
+VertexID-Position:	120	120
+VertexID-Position:	223	223
+VertexID-Position:	841	290
+VertexID-Position:	69	69
+VertexID-Position:	172	172
+VertexID-Position:	275	275
+VertexID-Position:	378	378
+VertexID-Position:	481	181
+VertexID-Position:	584	186
+VertexID-Position:	687	183
+VertexID-Position:	224	224
+VertexID-Position:	430	430
+VertexID-Position:	636	240
+VertexID-Position:	739	106
+VertexID-Position:	842	391
+VertexID-Position:	945	295
+VertexID-Position:	70	70
+VertexID-Position:	276	276
+VertexID-Position:	379	379
+VertexID-Position:	1100	18
+VertexID-Position:	122	122
+VertexID-Position:	225	225
+VertexID-Position:	328	328
+VertexID-Position:	534	118
+VertexID-Position:	174	174
+VertexID-Position:	483	97
+VertexID-Position:	689	192
+VertexID-Position:	1101	213
+VertexID-Position:	20	20
+VertexID-Position:	123	123
+VertexID-Position:	329	329
+VertexID-Position:	535	167
+VertexID-Position:	638	316
+VertexID-Position:	72	72
+VertexID-Position:	175	175
+VertexID-Position:	381	381
+VertexID-Position:	690	318
+VertexID-Position:	896	386
+VertexID-Position:	999	209
+VertexID-Position:	742	321
+VertexID-Position:	279	279
+VertexID-Position:	485	384
+VertexID-Position:	794	342
+VertexID-Position:	1103	68
+VertexID-Position:	125	125
+VertexID-Position:	331	331
+VertexID-Position:	743	82
+VertexID-Position:	74	74
+VertexID-Position:	177	177
+VertexID-Position:	280	280
+VertexID-Position:	383	383
+VertexID-Position:	589	65
+VertexID-Position:	898	425
+VertexID-Position:	1001	317
+VertexID-Position:	1104	19
+VertexID-Position:	229	229
+VertexID-Position:	435	435
+VertexID-Position:	538	322
+VertexID-Position:	744	98
+VertexID-Position:	950	423
+VertexID-Position:	1053	135
+VertexID-Position:	75	75
+VertexID-Position:	745	161
+VertexID-Position:	848	323
+VertexID-Position:	1054	73
+VertexID-Position:	797	414
+VertexID-Position:	900	37
+VertexID-Position:	128	128
+VertexID-Position:	643	313
+VertexID-Position:	849	23
+VertexID-Position:	952	258
+VertexID-Position:	1055	283
+VertexID-Position:	77	77
+VertexID-Position:	592	345
+VertexID-Position:	695	199
+VertexID-Position:	798	208
+VertexID-Position:	1004	150
+VertexID-Position:	129	129
+VertexID-Position:	335	335
+VertexID-Position:	438	438
+VertexID-Position:	850	439
+VertexID-Position:	953	236
+VertexID-Position:	1056	374
+VertexID-Position:	78	78
+VertexID-Position:	490	412
+VertexID-Position:	593	411
+VertexID-Position:	696	350
+VertexID-Position:	130	130
+VertexID-Position:	233	233
+VertexID-Position:	542	148
+VertexID-Position:	748	399
+VertexID-Position:	851	373
+VertexID-Position:	1057	58
+VertexID-Position:	182	182
+VertexID-Position:	491	440
+VertexID-Position:	800	138
+VertexID-Position:	1109	356
+VertexID-Position:	131	131
+VertexID-Position:	337	337
+VertexID-Position:	646	190
+VertexID-Position:	749	242
+VertexID-Position:	80	80
+VertexID-Position:	286	286
+VertexID-Position:	492	361
+VertexID-Position:	595	282
+VertexID-Position:	29	29
+VertexID-Position:	441	441
+VertexID-Position:	544	79
+VertexID-Position:	750	67
+VertexID-Position:	956	14
+VertexID-Position:	81	81
+VertexID-Position:	184	184
+VertexID-Position:	390	390
+VertexID-Position:	596	93
+VertexID-Position:	1008	113
+VertexID-Position:	1111	333
+VertexID-Position:	133	133
+VertexID-Position:	339	339
+VertexID-Position:	442	334
+VertexID-Position:	751	142
+VertexID-Position:	854	271
+VertexID-Position:	957	156
+VertexID-Position:	1060	427
+VertexID-Position:	597	364
+VertexID-Position:	906	436
+VertexID-Position:	1009	22
+VertexID-Position:	1112	21
+VertexID-Position:	31	31
+VertexID-Position:	134	134
+VertexID-Position:	340	340
+VertexID-Position:	443	188
+VertexID-Position:	1061	88
+VertexID-Position:	1010	139
+VertexID-Position:	32	32
+VertexID-Position:	238	238
+VertexID-Position:	341	341
+VertexID-Position:	187	187
+VertexID-Position:	599	108
+VertexID-Position:	702	176
+VertexID-Position:	805	308
+VertexID-Position:	33	33
+VertexID-Position:	239	239
+VertexID-Position:	445	253
+VertexID-Position:	548	267
+VertexID-Position:	960	36
+VertexID-Position:	1063	312
+VertexID-Position:	85	85
+VertexID-Position:	497	4
+VertexID-Position:	703	263
+VertexID-Position:	137	137
+VertexID-Position:	549	76
+VertexID-Position:	652	117
+VertexID-Position:	858	147
+VertexID-Position:	1064	204
+VertexID-Position:	189	189
+VertexID-Position:	395	395
+VertexID-Position:	704	362
+VertexID-Position:	1013	289
+VertexID-Position:	241	241
+VertexID-Position:	550	291
+VertexID-Position:	653	269
+VertexID-Position:	962	185
+VertexID-Position:	293	293
+VertexID-Position:	396	396
+VertexID-Position:	602	152
+VertexID-Position:	705	168
+VertexID-Position:	808	162
+VertexID-Position:	911	99
+VertexID-Position:	448	257
+VertexID-Position:	654	326
+VertexID-Position:	757	419
+VertexID-Position:	963	71
+VertexID-Position:	1066	63
+VertexID-Position:	191	191
+VertexID-Position:	294	294
+VertexID-Position:	397	397
+VertexID-Position:	140	140
+VertexID-Position:	243	243
+VertexID-Position:	346	346
+VertexID-Position:	552	27
+VertexID-Position:	758	363
+VertexID-Position:	1067	35
+VertexID-Position:	398	398
+VertexID-Position:	913	327
+VertexID-Position:	38	38
+VertexID-Position:	244	244
+VertexID-Position:	347	347
+VertexID-Position:	450	359
+VertexID-Position:	553	55
+VertexID-Position:	656	393
+VertexID-Position:	862	230
+VertexID-Position:	965	7
+VertexID-Position:	193	193
+VertexID-Position:	296	296
+VertexID-Position:	605	392
+VertexID-Position:	708	388
+VertexID-Position:	811	56
+VertexID-Position:	914	26
+VertexID-Position:	1017	121
+VertexID-Position:	245	245
+VertexID-Position:	348	348
+VertexID-Position:	451	45
+VertexID-Position:	760	401
+VertexID-Position:	966	408
+VertexID-Position:	1069	197
+VertexID-Position:	91	91
+VertexID-Position:	194	194
+VertexID-Position:	400	400
+VertexID-Position:	503	219
+VertexID-Position:	606	319
+VertexID-Position:	709	380
+VertexID-Position:	40	40
+VertexID-Position:	143	143
+VertexID-Position:	246	246
+VertexID-Position:	658	220
+VertexID-Position:	1070	12
+VertexID-Position:	92	92
+VertexID-Position:	195	195
+VertexID-Position:	298	298
+VertexID-Position:	504	273
+VertexID-Position:	607	49
+VertexID-Position:	813	60
+VertexID-Position:	144	144
+VertexID-Position:	247	247
+VertexID-Position:	659	413
+VertexID-Position:	762	287
+VertexID-Position:	865	228
+VertexID-Position:	1071	201
+VertexID-Position:	196	196
+VertexID-Position:	505	5
+VertexID-Position:	608	3
+VertexID-Position:	1020	237
+VertexID-Position:	145	145
+VertexID-Position:	248	248
+VertexID-Position:	351	351
+VertexID-Position:	557	231
+VertexID-Position:	763	90
+VertexID-Position:	1072	163
+VertexID-Position:	94	94
+VertexID-Position:	609	268
+VertexID-Position:	712	288
+VertexID-Position:	43	43
+VertexID-Position:	455	336
+VertexID-Position:	764	431
+VertexID-Position:	867	357
+VertexID-Position:	404	404
+VertexID-Position:	713	136
+VertexID-Position:	1022	272
+VertexID-Position:	44	44
+VertexID-Position:	250	250
+VertexID-Position:	353	353
+VertexID-Position:	868	394
+VertexID-Position:	971	406
+VertexID-Position:	96	96
+VertexID-Position:	302	302
+VertexID-Position:	405	405
+VertexID-Position:	1023	372
+VertexID-Position:	560	178
+VertexID-Position:	766	352
+VertexID-Position:	1075	330
+VertexID-Position:	200	200
+VertexID-Position:	303	303
+VertexID-Position:	612	115
+VertexID-Position:	818	226
+VertexID-Position:	46	46
+VertexID-Position:	149	149
+VertexID-Position:	664	206
+VertexID-Position:	973	151
+VertexID-Position:	304	304
+VertexID-Position:	819	358
+VertexID-Position:	922	154
+VertexID-Position:	1025	39
+VertexID-Position:	47	47
+VertexID-Position:	459	256
+VertexID-Position:	665	377
+VertexID-Position:	871	344
+VertexID-Position:	511	284
+VertexID-Position:	614	371
+VertexID-Position:	717	277
+VertexID-Position:	923	170
+VertexID-Position:	48	48
+VertexID-Position:	460	349
+VertexID-Position:	666	299
+VertexID-Position:	100	100
+VertexID-Position:	203	203
+VertexID-Position:	409	409
+VertexID-Position:	924	343
+VertexID-Position:	255	255
+VertexID-Position:	461	24
+VertexID-Position:	564	211
+VertexID-Position:	873	332
+VertexID-Position:	976	433
+VertexID-Position:	410	410
+VertexID-Position:	822	171
+EdgeID-Position:	50	50
+EdgeID-Position:	2636	123
+EdgeID-Position:	1964	235
+EdgeID-Position:	1085	107
+EdgeID-Position:	361	361
+EdgeID-Position:	3102	308
+EdgeID-Position:	568	568
+EdgeID-Position:	2585	316
+EdgeID-Position:	413	413
+EdgeID-Position:	1706	300
+EdgeID-Position:	1396	448
+EdgeID-Position:	310	310
+EdgeID-Position:	1965	569
+EdgeID-Position:	3620	29
+EdgeID-Position:	3258	250
+EdgeID-Position:	155	155
+EdgeID-Position:	2534	338
+EdgeID-Position:	2017	52
+EdgeID-Position:	1293	284
+EdgeID-Position:	3310	390
+EdgeID-Position:	207	207
+EdgeID-Position:	2586	104
+EdgeID-Position:	1138	454
+EdgeID-Position:	2793	270
+EdgeID-Position:	3724	343
+EdgeID-Position:	3362	34
+EdgeID-Position:	1190	156
+EdgeID-Position:	466	466
+EdgeID-Position:	1759	185
+EdgeID-Position:	311	311
+EdgeID-Position:	1604	443
+EdgeID-Position:	1242	296
+EdgeID-Position:	3259	528
+EdgeID-Position:	2173	579
+EdgeID-Position:	3466	42
+EdgeID-Position:	1656	457
+EdgeID-Position:	2225	145
+EdgeID-Position:	777	409
+EdgeID-Position:	3518	349
+EdgeID-Position:	2432	218
+EdgeID-Position:	3725	178
+EdgeID-Position:	1967	22
+EdgeID-Position:	3622	213
+EdgeID-Position:	157	157
+EdgeID-Position:	726	486
+EdgeID-Position:	364	364
+EdgeID-Position:	1657	522
+EdgeID-Position:	1295	191
+EdgeID-Position:	571	571
+EdgeID-Position:	2588	12
+EdgeID-Position:	1140	314
+EdgeID-Position:	778	581
+EdgeID-Position:	416	416
+EdgeID-Position:	2433	265
+EdgeID-Position:	261	261
+EdgeID-Position:	2640	194
+EdgeID-Position:	1554	167
+EdgeID-Position:	830	557
+EdgeID-Position:	106	106
+EdgeID-Position:	2123	240
+EdgeID-Position:	3416	353
+EdgeID-Position:	1968	587
+EdgeID-Position:	1244	423
+EdgeID-Position:	2020	472
+EdgeID-Position:	1658	247
+EdgeID-Position:	934	436
+EdgeID-Position:	2951	464
+EdgeID-Position:	3158	475
+EdgeID-Position:	1710	398
+EdgeID-Position:	1348	0
+EdgeID-Position:	624	25
+EdgeID-Position:	521	521
+EdgeID-Position:	2383	341
+EdgeID-Position:	780	192
+EdgeID-Position:	418	418
+EdgeID-Position:	3366	230
+EdgeID-Position:	1763	386
+EdgeID-Position:	1970	122
+EdgeID-Position:	884	572
+EdgeID-Position:	2022	396
+EdgeID-Position:	1660	517
+EdgeID-Position:	3677	56
+EdgeID-Position:	3315	135
+EdgeID-Position:	2074	362
+EdgeID-Position:	1712	307
+EdgeID-Position:	1195	412
+EdgeID-Position:	833	182
+EdgeID-Position:	3419	43
+EdgeID-Position:	1454	339
+EdgeID-Position:	3471	32
+EdgeID-Position:	2954	505
+EdgeID-Position:	1144	336
+EdgeID-Position:	420	420
+EdgeID-Position:	2075	553
+EdgeID-Position:	834	269
+EdgeID-Position:	3213	161
+EdgeID-Position:	2489	88
+EdgeID-Position:	1765	523
+EdgeID-Position:	1455	511
+EdgeID-Position:	576	576
+EdgeID-Position:	783	414
+EdgeID-Position:	2076	54
+EdgeID-Position:	990	239
+EdgeID-Position:	628	459
+EdgeID-Position:	2283	126
+EdgeID-Position:	473	473
+EdgeID-Position:	2852	16
+EdgeID-Position:	2490	442
+EdgeID-Position:	1611	62
+EdgeID-Position:	1249	158
+EdgeID-Position:	2904	181
+EdgeID-Position:	732	84
+EdgeID-Position:	2387	482
+EdgeID-Position:	2232	20
+EdgeID-Position:	2801	419
+EdgeID-Position:	1353	173
+EdgeID-Position:	1405	142
+EdgeID-Position:	164	164
+EdgeID-Position:	1819	112
+EdgeID-Position:	371	371
+EdgeID-Position:	9	9
+EdgeID-Position:	2750	124
+EdgeID-Position:	1664	536
+EdgeID-Position:	1509	148
+EdgeID-Position:	785	75
+EdgeID-Position:	268	268
+EdgeID-Position:	2699	236
+EdgeID-Position:	1613	544
+EdgeID-Position:	1251	205
+EdgeID-Position:	3630	203
+EdgeID-Position:	1820	377
+EdgeID-Position:	734	243
+EdgeID-Position:	372	372
+EdgeID-Position:	2027	323
+EdgeID-Position:	1303	151
+EdgeID-Position:	2596	547
+EdgeID-Position:	786	292
+EdgeID-Position:	3165	453
+EdgeID-Position:	2441	159
+EdgeID-Position:	3372	305
+EdgeID-Position:	1562	388
+EdgeID-Position:	1200	501
+EdgeID-Position:	838	234
+EdgeID-Position:	3217	4
+EdgeID-Position:	321	321
+EdgeID-Position:	1976	90
+EdgeID-Position:	1614	565
+EdgeID-Position:	3269	76
+EdgeID-Position:	1459	345
+EdgeID-Position:	1873	222
+EdgeID-Position:	425	425
+EdgeID-Position:	3011	238
+EdgeID-Position:	1925	538
+EdgeID-Position:	1201	137
+EdgeID-Position:	1408	559
+EdgeID-Position:	1822	583
+EdgeID-Position:	736	129
+EdgeID-Position:	3477	438
+EdgeID-Position:	374	374
+EdgeID-Position:	2753	85
+EdgeID-Position:	2391	468
+EdgeID-Position:	1667	452
+EdgeID-Position:	3684	460
+EdgeID-Position:	788	96
+EdgeID-Position:	3167	119
+EdgeID-Position:	64	64
+EdgeID-Position:	2650	347
+EdgeID-Position:	1564	356
+EdgeID-Position:	2133	212
+EdgeID-Position:	3426	574
+EdgeID-Position:	530	530
 EdgeID-Position:	2909	474
-EdgeID-Position:	2929	475
-EdgeID-Position:	2931	476
+EdgeID-Position:	168	168
+EdgeID-Position:	2547	490
+EdgeID-Position:	737	144
+EdgeID-Position:	3478	304
+EdgeID-Position:	2754	539
+EdgeID-Position:	1668	147
+EdgeID-Position:	582	582
+EdgeID-Position:	3530	389
+EdgeID-Position:	65	65
+EdgeID-Position:	2082	215
+EdgeID-Position:	1358	585
+EdgeID-Position:	996	246
+EdgeID-Position:	634	153
+EdgeID-Position:	2651	558
+EdgeID-Position:	117	117
+EdgeID-Position:	2858	97
+EdgeID-Position:	1617	82
+EdgeID-Position:	531	531
+EdgeID-Position:	1462	532
+EdgeID-Position:	3479	451
+EdgeID-Position:	376	376
+EdgeID-Position:	3686	37
+EdgeID-Position:	1152	410
+EdgeID-Position:	790	14
+EdgeID-Position:	273	273
+EdgeID-Position:	1411	184
+EdgeID-Position:	687	465
+EdgeID-Position:	3635	391
+EdgeID-Position:	1463	152
+EdgeID-Position:	2394	229
+EdgeID-Position:	1670	260
+EdgeID-Position:	1153	187
+EdgeID-Position:	3532	113
+EdgeID-Position:	67	67
+EdgeID-Position:	636	381
+EdgeID-Position:	533	533
+EdgeID-Position:	2550	125
+EdgeID-Position:	378	378
+EdgeID-Position:	2757	561
+EdgeID-Position:	3688	68
+EdgeID-Position:	223	223
+EdgeID-Position:	2240	264
+EdgeID-Position:	637	74
+EdgeID-Position:	120	120
+EdgeID-Position:	1775	253
+EdgeID-Position:	2706	367
+EdgeID-Position:	2965	507
+EdgeID-Position:	2603	193
+EdgeID-Position:	1517	17
+EdgeID-Position:	431	431
+EdgeID-Position:	2655	53
+EdgeID-Position:	845	8
+EdgeID-Position:	3586	294
+EdgeID-Position:	2862	128
+EdgeID-Position:	328	328
+EdgeID-Position:	3069	98
+EdgeID-Position:	3276	332
+EdgeID-Position:	3483	249
+EdgeID-Position:	3121	485
+EdgeID-Position:	2397	515
+EdgeID-Position:	2811	358
+EdgeID-Position:	70	70
+EdgeID-Position:	1932	63
+EdgeID-Position:	846	429
+EdgeID-Position:	3225	183
+EdgeID-Position:	484	484
+EdgeID-Position:	2863	430
+EdgeID-Position:	2501	506
+EdgeID-Position:	898	309
+EdgeID-Position:	1105	27
+EdgeID-Position:	19	19
+EdgeID-Position:	1674	165
+EdgeID-Position:	3691	545
+EdgeID-Position:	588	588
+EdgeID-Position:	226	226
+EdgeID-Position:	2967	121
+EdgeID-Position:	1364	38
+EdgeID-Position:	2657	138
+EdgeID-Position:	1933	514
+EdgeID-Position:	1571	255
+EdgeID-Position:	3588	327
+EdgeID-Position:	1054	322
+EdgeID-Position:	3278	312
+EdgeID-Position:	2037	317
+EdgeID-Position:	1313	541
+EdgeID-Position:	3330	228
+EdgeID-Position:	227	227
+EdgeID-Position:	1158	534
+EdgeID-Position:	3537	179
+EdgeID-Position:	3175	564
+EdgeID-Position:	1003	69
+EdgeID-Position:	2658	537
+EdgeID-Position:	2865	281
+EdgeID-Position:	1986	233
+EdgeID-Position:	1469	546
+EdgeID-Position:	1314	130
+EdgeID-Position:	3331	57
+EdgeID-Position:	590	590
+EdgeID-Position:	1521	36
+EdgeID-Position:	642	325
+EdgeID-Position:	3021	542
+EdgeID-Position:	1935	49
+EdgeID-Position:	1573	480
+EdgeID-Position:	1056	206
+EdgeID-Position:	746	566
+EdgeID-Position:	2763	552
+EdgeID-Position:	1522	21
+EdgeID-Position:	2453	379
+EdgeID-Position:	1005	256
+EdgeID-Position:	643	134
+EdgeID-Position:	2660	478
+EdgeID-Position:	1781	370
+EdgeID-Position:	2350	176
+EdgeID-Position:	3281	354
+EdgeID-Position:	2557	417
+EdgeID-Position:	385	385
+EdgeID-Position:	2040	382
+EdgeID-Position:	1678	577
+EdgeID-Position:	1316	5
+EdgeID-Position:	2247	94
+EdgeID-Position:	799	209
+EdgeID-Position:	3178	445
+EdgeID-Position:	2816	562
+EdgeID-Position:	1937	524
+EdgeID-Position:	3230	375
+EdgeID-Position:	127	127
+EdgeID-Position:	334	334
+EdgeID-Position:	1627	220
+EdgeID-Position:	3644	266
+EdgeID-Position:	748	548
+EdgeID-Position:	2403	433
+EdgeID-Position:	231	231
+EdgeID-Position:	3541	39
+EdgeID-Position:	2093	526
+EdgeID-Position:	283	283
+EdgeID-Position:	2662	297
+EdgeID-Position:	1938	543
+EdgeID-Position:	852	462
+EdgeID-Position:	3593	357
+EdgeID-Position:	1783	400
+EdgeID-Position:	3076	373
+EdgeID-Position:	1628	214
+EdgeID-Position:	1266	540
+EdgeID-Position:	1473	470
+EdgeID-Position:	749	87
+EdgeID-Position:	387	387
+EdgeID-Position:	2042	337
+EdgeID-Position:	956	110
+EdgeID-Position:	439	439
+EdgeID-Position:	2663	103
+EdgeID-Position:	2301	458
+EdgeID-Position:	491	491
+EdgeID-Position:	3439	333
+EdgeID-Position:	2715	237
+EdgeID-Position:	1112	421
+EdgeID-Position:	750	285
+EdgeID-Position:	3491	93
+EdgeID-Position:	26	26
+EdgeID-Position:	595	288
+EdgeID-Position:	1526	241
+EdgeID-Position:	3181	140
+EdgeID-Position:	2095	71
+EdgeID-Position:	647	48
+EdgeID-Position:	1785	315
+EdgeID-Position:	2354	326
+EdgeID-Position:	2199	449
+EdgeID-Position:	1475	78
+EdgeID-Position:	1113	346
+EdgeID-Position:	1320	242
+EdgeID-Position:	958	520
+EdgeID-Position:	3337	415
+EdgeID-Position:	79	79
+EdgeID-Position:	286	286
+EdgeID-Position:	1579	45
+EdgeID-Position:	131	131
+EdgeID-Position:	1062	488
+EdgeID-Position:	3441	40
+EdgeID-Position:	2355	13
+EdgeID-Position:	1838	383
+EdgeID-Position:	2769	492
+EdgeID-Position:	1890	55
+EdgeID-Position:	3183	172
+EdgeID-Position:	2097	529
+EdgeID-Position:	649	108
+EdgeID-Position:	2666	146
+EdgeID-Position:	2873	306
+EdgeID-Position:	2149	369
+EdgeID-Position:	1787	91
+EdgeID-Position:	3442	73
+EdgeID-Position:	1994	494
+EdgeID-Position:	3649	402
+EdgeID-Position:	3494	66
+EdgeID-Position:	2408	3
+EdgeID-Position:	2046	299
+EdgeID-Position:	1012	550
+EdgeID-Position:	650	446
+EdgeID-Position:	2512	114
+EdgeID-Position:	3443	95
+EdgeID-Position:	702	469
+EdgeID-Position:	340	340
+EdgeID-Position:	2719	174
+EdgeID-Position:	3650	551
+EdgeID-Position:	909	186
+EdgeID-Position:	3495	563
+EdgeID-Position:	1323	47
+EdgeID-Position:	2978	527
+EdgeID-Position:	1892	175
+EdgeID-Position:	3185	132
+EdgeID-Position:	2823	258
+EdgeID-Position:	1013	169
+EdgeID-Position:	289	289
+EdgeID-Position:	2720	504
+EdgeID-Position:	3651	219
+EdgeID-Position:	2203	351
+EdgeID-Position:	1479	177
+EdgeID-Position:	31	31
+EdgeID-Position:	1169	440
+EdgeID-Position:	3548	455
+EdgeID-Position:	2462	352
+EdgeID-Position:	290	290
+EdgeID-Position:	859	200
+EdgeID-Position:	1428	81
+EdgeID-Position:	3445	313
+EdgeID-Position:	704	591
+EdgeID-Position:	3083	509
+EdgeID-Position:	963	166
+EdgeID-Position:	291	291
+EdgeID-Position:	498	498
+EdgeID-Position:	2515	496
+EdgeID-Position:	1791	510
+EdgeID-Position:	1429	116
+EdgeID-Position:	3446	500
+EdgeID-Position:	3084	208
+EdgeID-Position:	2722	405
+EdgeID-Position:	1636	263
+EdgeID-Position:	3653	366
+EdgeID-Position:	2929	444
+EdgeID-Position:	188	188
+EdgeID-Position:	1843	489
+EdgeID-Position:	447	447
+EdgeID-Position:	2464	428
+EdgeID-Position:	1740	461
+EdgeID-Position:	861	493
+EdgeID-Position:	3602	61
+EdgeID-Position:	499	499
+EdgeID-Position:	344	344
+EdgeID-Position:	1999	211
+EdgeID-Position:	913	329
+EdgeID-Position:	189	189
+EdgeID-Position:	1120	575
+EdgeID-Position:	603	434
+EdgeID-Position:	1896	570
+EdgeID-Position:	3396	360
+EdgeID-Position:	2672	278
+EdgeID-Position:	3603	318
+EdgeID-Position:	3241	58
+EdgeID-Position:	1431	28
+EdgeID-Position:	2724	578
+EdgeID-Position:	914	257
+EdgeID-Position:	3293	471
+EdgeID-Position:	2931	516
+EdgeID-Position:	1845	11
+EdgeID-Position:	1121	424
+EdgeID-Position:	3138	105
+EdgeID-Position:	397	397
+EdgeID-Position:	604	287
+EdgeID-Position:	1897	30
+EdgeID-Position:	3552	580
+EdgeID-Position:	811	202
+EdgeID-Position:	2466	535
+EdgeID-Position:	1380	395
+EdgeID-Position:	3397	195
+EdgeID-Position:	2311	162
+EdgeID-Position:	1432	476
+EdgeID-Position:	2363	495
+EdgeID-Position:	1639	275
+EdgeID-Position:	1846	392
+EdgeID-Position:	1691	274
+EdgeID-Position:	967	487
+EdgeID-Position:	450	450
+EdgeID-Position:	3398	330
+EdgeID-Position:	3036	15
+EdgeID-Position:	295	295
+EdgeID-Position:	2674	277
+EdgeID-Position:	502	502
+EdgeID-Position:	2881	513
+EdgeID-Position:	1640	280
+EdgeID-Position:	3657	139
+EdgeID-Position:	554	554
+EdgeID-Position:	3295	359
+EdgeID-Position:	1485	589
+EdgeID-Position:	761	59
+EdgeID-Position:	399	399
+EdgeID-Position:	2416	276
+EdgeID-Position:	2054	35
+EdgeID-Position:	244	244
+EdgeID-Position:	813	83
+EdgeID-Position:	3192	259
+EdgeID-Position:	2830	102
+EdgeID-Position:	1382	365
+EdgeID-Position:	3606	267
+EdgeID-Position:	503	503
+EdgeID-Position:	141	141
+EdgeID-Position:	2158	136
+EdgeID-Position:	2210	384
+EdgeID-Position:	814	422
+EdgeID-Position:	1383	301
+EdgeID-Position:	1590	100
+EdgeID-Position:	918	279
+EdgeID-Position:	2573	10
+EdgeID-Position:	2211	24
+EdgeID-Position:	3504	481
+EdgeID-Position:	401	401
+EdgeID-Position:	2418	508
+EdgeID-Position:	608	407
+EdgeID-Position:	2987	41
+EdgeID-Position:	2263	221
+EdgeID-Position:	2315	245
+EdgeID-Position:	143	143
+EdgeID-Position:	1436	319
+EdgeID-Position:	350	350
+EdgeID-Position:	2367	111
+EdgeID-Position:	919	293
+EdgeID-Position:	3505	1
+EdgeID-Position:	1333	60
+EdgeID-Position:	609	324
+EdgeID-Position:	661	519
+EdgeID-Position:	1954	335
+EdgeID-Position:	1075	262
 EdgeID-Position:	2937	477
-EdgeID-Position:	2942	478
-EdgeID-Position:	2951	479
-EdgeID-Position:	2954	480
-EdgeID-Position:	2965	481
-EdgeID-Position:	2967	482
-EdgeID-Position:	2978	483
-EdgeID-Position:	2987	484
-EdgeID-Position:	2989	485
-EdgeID-Position:	2993	486
-EdgeID-Position:	3011	487
-EdgeID-Position:	3021	488
-EdgeID-Position:	3036	489
-EdgeID-Position:	3069	490
-EdgeID-Position:	3076	491
-EdgeID-Position:	3083	492
-EdgeID-Position:	3084	493
-EdgeID-Position:	3102	494
-EdgeID-Position:	3121	495
-EdgeID-Position:	3138	496
-EdgeID-Position:	3158	497
-EdgeID-Position:	3165	498
-EdgeID-Position:	3167	499
-EdgeID-Position:	3175	500
-EdgeID-Position:	3178	501
-EdgeID-Position:	3181	502
-EdgeID-Position:	3183	503
-EdgeID-Position:	3185	504
-EdgeID-Position:	3192	505
-EdgeID-Position:	3199	506
-EdgeID-Position:	3213	507
-EdgeID-Position:	3217	508
-EdgeID-Position:	3225	509
-EdgeID-Position:	3230	510
-EdgeID-Position:	3241	511
-EdgeID-Position:	3254	512
-EdgeID-Position:	3258	513
-EdgeID-Position:	3259	514
-EdgeID-Position:	3269	515
-EdgeID-Position:	3276	516
-EdgeID-Position:	3278	517
-EdgeID-Position:	3281	518
-EdgeID-Position:	3293	519
-EdgeID-Position:	3295	520
-EdgeID-Position:	3302	521
-EdgeID-Position:	3303	522
-EdgeID-Position:	3310	523
-EdgeID-Position:	3315	524
-EdgeID-Position:	3330	525
-EdgeID-Position:	3331	526
-EdgeID-Position:	3337	527
-EdgeID-Position:	3354	528
-EdgeID-Position:	3362	529
-EdgeID-Position:	3366	530
-EdgeID-Position:	3372	531
-EdgeID-Position:	3396	532
-EdgeID-Position:	3397	533
-EdgeID-Position:	3398	534
-EdgeID-Position:	3416	535
-EdgeID-Position:	3419	536
-EdgeID-Position:	3426	537
-EdgeID-Position:	3439	538
-EdgeID-Position:	3441	539
-EdgeID-Position:	3442	540
-EdgeID-Position:	3443	541
-EdgeID-Position:	3445	542
-EdgeID-Position:	3446	543
-EdgeID-Position:	3458	544
-EdgeID-Position:	3460	545
-EdgeID-Position:	3461	546
-EdgeID-Position:	3466	547
-EdgeID-Position:	3471	548
-EdgeID-Position:	3477	549
-EdgeID-Position:	3478	550
-EdgeID-Position:	3479	551
-EdgeID-Position:	3483	552
-EdgeID-Position:	3491	553
-EdgeID-Position:	3494	554
-EdgeID-Position:	3495	555
-EdgeID-Position:	3504	556
-EdgeID-Position:	3505	557
-EdgeID-Position:	3511	558
-EdgeID-Position:	3518	559
-EdgeID-Position:	3530	560
-EdgeID-Position:	3532	561
-EdgeID-Position:	3537	562
-EdgeID-Position:	3541	563
-EdgeID-Position:	3548	564
-EdgeID-Position:	3552	565
-EdgeID-Position:	3586	566
-EdgeID-Position:	3588	567
-EdgeID-Position:	3593	568
-EdgeID-Position:	3602	569
-EdgeID-Position:	3603	570
-EdgeID-Position:	3606	571
-EdgeID-Position:	3614	572
-EdgeID-Position:	3620	573
-EdgeID-Position:	3622	574
-EdgeID-Position:	3630	575
-EdgeID-Position:	3635	576
-EdgeID-Position:	3644	577
-EdgeID-Position:	3649	578
-EdgeID-Position:	3650	579
-EdgeID-Position:	3651	580
-EdgeID-Position:	3653	581
-EdgeID-Position:	3657	582
-EdgeID-Position:	3665	583
-EdgeID-Position:	3677	584
-EdgeID-Position:	3684	585
-EdgeID-Position:	3686	586
-EdgeID-Position:	3688	587
-EdgeID-Position:	3691	588
-EdgeID-Position:	3719	589
-EdgeID-Position:	3724	590
-EdgeID-Position:	3725	591
+EdgeID-Position:	403	403
+EdgeID-Position:	972	560
+EdgeID-Position:	248	248
+EdgeID-Position:	2989	435
+EdgeID-Position:	1903	44
+EdgeID-Position:	1748	216
+EdgeID-Position:	2524	160
+EdgeID-Position:	714	99
+EdgeID-Position:	1645	525
+EdgeID-Position:	921	408
+EdgeID-Position:	2059	320
+EdgeID-Position:	1335	467
+EdgeID-Position:	1542	394
+EdgeID-Position:	1387	109
+EdgeID-Position:	1025	115
+EdgeID-Position:	1956	190
+EdgeID-Position:	1594	355
+EdgeID-Position:	2370	393
+EdgeID-Position:	1646	163
+EdgeID-Position:	198	198
+EdgeID-Position:	974	154
+EdgeID-Position:	1181	427
+EdgeID-Position:	2836	170
+EdgeID-Position:	1026	6
+EdgeID-Position:	302	302
+EdgeID-Position:	2681	342
+EdgeID-Position:	2733	149
+EdgeID-Position:	3302	584
+EdgeID-Position:	199	199
+EdgeID-Position:	406	406
+EdgeID-Position:	1337	51
+EdgeID-Position:	3354	573
+EdgeID-Position:	251	251
+EdgeID-Position:	1906	282
+EdgeID-Position:	3199	23
+EdgeID-Position:	1027	497
+EdgeID-Position:	303	303
+EdgeID-Position:	1596	180
+EdgeID-Position:	3458	404
+EdgeID-Position:	2734	80
+EdgeID-Position:	3665	217
+EdgeID-Position:	3303	18
+EdgeID-Position:	2217	549
+EdgeID-Position:	1855	171
+EdgeID-Position:	1493	555
+EdgeID-Position:	769	2
+EdgeID-Position:	2993	463
+EdgeID-Position:	2476	7
+EdgeID-Position:	1959	426
+EdgeID-Position:	1597	197
+EdgeID-Position:	3614	225
+EdgeID-Position:	2528	254
+EdgeID-Position:	1442	441
+EdgeID-Position:	2942	92
+EdgeID-Position:	3511	252
+EdgeID-Position:	2270	556
+EdgeID-Position:	2477	210
+EdgeID-Position:	512	512
+EdgeID-Position:	150	150
+EdgeID-Position:	2167	196
+EdgeID-Position:	3460	380
+EdgeID-Position:	926	72
+EdgeID-Position:	2581	86
+EdgeID-Position:	3719	89
+EdgeID-Position:	616	133
+EdgeID-Position:	1185	118
+EdgeID-Position:	2323	77
+EdgeID-Position:	1599	363
+EdgeID-Position:	3254	331
+EdgeID-Position:	3461	33
+EdgeID-Position:	2220	437
+EdgeID-Position:	1134	271
+EdgeID-Position:	772	586
+EdgeID-Position:	1910	224
+EdgeID-Position:	2479	348
+EdgeID-Position:	669	518
+EdgeID-Position:	1962	272
+EdgeID-Position:	876	456
+EdgeID-Position:	2169	46
+EdgeID-Position:	928	232
+EdgeID-Position:	204	204
+EdgeID-Position:	411	411
+EdgeID-Position:	618	298
+EdgeID-Position:	2635	479
+EdgeID-Position:	101	101
+EdgeID-Position:	670	432
+EdgeID-Position:	2325	368
+EdgeID-Position:	2532	483
+EdgeID-Position:	929	201
+EdgeID-Position:	567	567
+Vertex: 771 degree: 3	It is connected with: 497	1053	525	
+Vertex: 471 degree: 3	It is connected with: 325	911	665	
 Vertex: 2 degree: 2	It is connected with: 143	596	
+Vertex: 608 degree: 7	It is connected with: 212	331	584	100	396	538	664	
+Vertex: 497 degree: 1	It is connected with: 771	
+Vertex: 505 degree: 1	It is connected with: 33	
 Vertex: 6 degree: 2	It is connected with: 96	941	
+Vertex: 965 degree: 9	It is connected with: 351	664	957	1017	805	1057	243	266	420	
 Vertex: 8 degree: 1	It is connected with: 13	
 Vertex: 9 degree: 3	It is connected with: 538	656	77	
+Vertex: 668 degree: 6	It is connected with: 70	624	47	606	592	1103	
 Vertex: 11 degree: 3	It is connected with: 542	66	483	
+Vertex: 1070 degree: 3	It is connected with: 233	1055	1072	
 Vertex: 13 degree: 6	It is connected with: 369	511	684	597	659	8	
+Vertex: 956 degree: 3	It is connected with: 878	44	932	
+Vertex: 785 degree: 0	It is connected with: 
 Vertex: 16 degree: 2	It is connected with: 422	223	
+Vertex: 941 degree: 1	It is connected with: 6	
+Vertex: 1100 degree: 3	It is connected with: 270	103	166	
+Vertex: 1104 degree: 3	It is connected with: 689	732	483	
 Vertex: 20 degree: 1	It is connected with: 584	
+Vertex: 1112 degree: 6	It is connected with: 294	828	593	1071	596	1010	
+Vertex: 1009 degree: 3	It is connected with: 193	491	685	
+Vertex: 849 degree: 1	It is connected with: 315	
+Vertex: 461 degree: 3	It is connected with: 1020	123	1010	
+Vertex: 570 degree: 0	It is connected with: 
+Vertex: 914 degree: 2	It is connected with: 329	215	
+Vertex: 552 degree: 4	It is connected with: 129	400	1082	575	
+Vertex: 462 degree: 2	It is connected with: 614	831	
 Vertex: 29 degree: 2	It is connected with: 104	976	
+Vertex: 470 degree: 7	It is connected with: 32	1082	54	210	735	708	485	
 Vertex: 31 degree: 1	It is connected with: 1042	
 Vertex: 32 degree: 2	It is connected with: 470	736	
 Vertex: 33 degree: 3	It is connected with: 505	777	1064	
+Vertex: 1041 degree: 5	It is connected with: 174	784	264	177	324	
+Vertex: 1067 degree: 1	It is connected with: 46	
+Vertex: 960 degree: 1	It is connected with: 193	
+Vertex: 900 degree: 2	It is connected with: 828	442	
 Vertex: 38 degree: 4	It is connected with: 652	564	241	225	
+Vertex: 1025 degree: 3	It is connected with: 624	966	592	
 Vertex: 40 degree: 3	It is connected with: 233	1010	347	
+Vertex: 525 degree: 1	It is connected with: 771	
+Vertex: 722 degree: 2	It is connected with: 748	366	
 Vertex: 43 degree: 3	It is connected with: 416	643	1045	
 Vertex: 44 degree: 2	It is connected with: 956	329	
+Vertex: 451 degree: 4	It is connected with: 50	78	130	337	
 Vertex: 46 degree: 4	It is connected with: 445	222	1067	841	
 Vertex: 47 degree: 6	It is connected with: 784	748	320	196	54	668	
 Vertex: 48 degree: 3	It is connected with: 850	246	96	
+Vertex: 607 degree: 0	It is connected with: 
 Vertex: 50 degree: 2	It is connected with: 451	248	
 Vertex: 51 degree: 4	It is connected with: 553	789	705	383	
 Vertex: 52 degree: 4	It is connected with: 112	270	834	1069	
+Vertex: 735 degree: 4	It is connected with: 696	400	531	470	
 Vertex: 54 degree: 5	It is connected with: 549	470	120	728	47	
+Vertex: 553 degree: 5	It is connected with: 320	51	143	1061	733	
+Vertex: 811 degree: 4	It is connected with: 329	351	264	1064	
 Vertex: 57 degree: 1	It is connected with: 348	
+Vertex: 1057 degree: 1	It is connected with: 965	
 Vertex: 59 degree: 1	It is connected with: 398	
+Vertex: 813 degree: 1	It is connected with: 189	
 Vertex: 61 degree: 1	It is connected with: 584	
+Vertex: 1084 degree: 3	It is connected with: 365	1029	130	
+Vertex: 1066 degree: 4	It is connected with: 276	871	1111	134	
+Vertex: 1082 degree: 4	It is connected with: 470	552	441	928	
+Vertex: 589 degree: 2	It is connected with: 324	798	
 Vertex: 66 degree: 4	It is connected with: 731	11	531	887	
+Vertex: 750 degree: 1	It is connected with: 596	
+Vertex: 1103 degree: 2	It is connected with: 702	668	
 Vertex: 69 degree: 2	It is connected with: 366	871	
 Vertex: 70 degree: 2	It is connected with: 668	605	
+Vertex: 963 degree: 2	It is connected with: 666	404	
 Vertex: 72 degree: 3	It is connected with: 298	1069	1101	
+Vertex: 1054 degree: 3	It is connected with: 109	1075	962	
 Vertex: 74 degree: 5	It is connected with: 593	989	739	331	744	
 Vertex: 75 degree: 3	It is connected with: 653	335	824	
+Vertex: 549 degree: 3	It is connected with: 54	568	390	
 Vertex: 77 degree: 2	It is connected with: 9	270	
 Vertex: 78 degree: 2	It is connected with: 123	451	
+Vertex: 544 degree: 1	It is connected with: 1075	
 Vertex: 80 degree: 5	It is connected with: 175	119	491	995	223	
 Vertex: 81 degree: 1	It is connected with: 595	
+Vertex: 743 degree: 2	It is connected with: 200	381	
+Vertex: 463 degree: 3	It is connected with: 149	286	763	
+Vertex: 1095 degree: 4	It is connected with: 296	459	111	671	
 Vertex: 85 degree: 2	It is connected with: 450	140	
+Vertex: 878 degree: 7	It is connected with: 956	999	111	566	1061	309	1083	
+Vertex: 1092 degree: 3	It is connected with: 602	177	212	
+Vertex: 1061 degree: 4	It is connected with: 553	878	103	143	
+Vertex: 624 degree: 5	It is connected with: 818	1025	702	666	668	
+Vertex: 763 degree: 3	It is connected with: 410	911	463	
 Vertex: 91 degree: 2	It is connected with: 353	409	
 Vertex: 92 degree: 2	It is connected with: 873	620	
+Vertex: 596 degree: 3	It is connected with: 2	750	1112	
 Vertex: 94 degree: 3	It is connected with: 103	822	149	
+Vertex: 632 degree: 1	It is connected with: 636	
 Vertex: 96 degree: 6	It is connected with: 841	6	797	328	130	48	
+Vertex: 483 degree: 5	It is connected with: 379	1020	1104	11	695	
+Vertex: 744 degree: 4	It is connected with: 966	993	262	74	
+Vertex: 911 degree: 3	It is connected with: 471	125	763	
 Vertex: 100 degree: 3	It is connected with: 422	608	294	
+Vertex: 838 degree: 1	It is connected with: 262	
 Vertex: 102 degree: 5	It is connected with: 994	415	239	851	155	
 Vertex: 103 degree: 3	It is connected with: 1100	94	1061	
 Vertex: 104 degree: 3	It is connected with: 29	340	133	
+Vertex: 989 degree: 2	It is connected with: 74	339	
+Vertex: 739 degree: 3	It is connected with: 74	478	962	
 Vertex: 107 degree: 1	It is connected with: 631	
+Vertex: 599 degree: 1	It is connected with: 685	
 Vertex: 109 degree: 5	It is connected with: 1054	203	233	854	438	
 Vertex: 110 degree: 4	It is connected with: 416	850	636	160	
 Vertex: 111 degree: 2	It is connected with: 878	1095	
 Vertex: 112 degree: 2	It is connected with: 52	557	
+Vertex: 1008 degree: 3	It is connected with: 212	329	614	
 Vertex: 114 degree: 1	It is connected with: 491	
+Vertex: 612 degree: 0	It is connected with: 
 Vertex: 116 degree: 3	It is connected with: 875	971	243	
+Vertex: 652 degree: 1	It is connected with: 38	
+Vertex: 534 degree: 1	It is connected with: 340	
 Vertex: 119 degree: 4	It is connected with: 426	337	80	174	
 Vertex: 120 degree: 4	It is connected with: 207	128	309	54	
+Vertex: 1017 degree: 3	It is connected with: 965	1053	950	
 Vertex: 122 degree: 3	It is connected with: 658	222	666	
 Vertex: 123 degree: 4	It is connected with: 78	461	443	515	
+Vertex: 685 degree: 5	It is connected with: 304	405	599	1009	279	
 Vertex: 125 degree: 3	It is connected with: 994	911	742	
+Vertex: 620 degree: 4	It is connected with: 593	848	867	92	
+Vertex: 994 degree: 4	It is connected with: 125	102	695	575	
 Vertex: 128 degree: 3	It is connected with: 120	760	643	
 Vertex: 129 degree: 3	It is connected with: 552	177	410	
 Vertex: 130 degree: 4	It is connected with: 451	96	776	1084	
 Vertex: 131 degree: 2	It is connected with: 174	276	
+Vertex: 734 degree: 4	It is connected with: 664	445	450	1033	
 Vertex: 133 degree: 3	It is connected with: 1044	595	104	
 Vertex: 134 degree: 3	It is connected with: 800	328	1066	
+Vertex: 1053 degree: 4	It is connected with: 771	410	445	1017	
+Vertex: 713 degree: 2	It is connected with: 906	850	
 Vertex: 137 degree: 0	It is connected with: 
+Vertex: 800 degree: 4	It is connected with: 134	865	153	776	
+Vertex: 1010 degree: 6	It is connected with: 885	442	40	461	538	1112	
 Vertex: 140 degree: 2	It is connected with: 749	85	
+Vertex: 978 degree: 1	It is connected with: 222	
+Vertex: 751 degree: 1	It is connected with: 862	
 Vertex: 143 degree: 4	It is connected with: 2	1001	553	1061	
 Vertex: 144 degree: 3	It is connected with: 531	631	238	
 Vertex: 145 degree: 4	It is connected with: 222	957	1071	340	
+Vertex: 990 degree: 1	It is connected with: 320	
+Vertex: 858 degree: 0	It is connected with: 
+Vertex: 542 degree: 2	It is connected with: 11	174	
 Vertex: 149 degree: 3	It is connected with: 463	94	298	
+Vertex: 1004 degree: 4	It is connected with: 503	1069	1013	504	
+Vertex: 973 degree: 4	It is connected with: 664	670	834	842	
+Vertex: 602 degree: 4	It is connected with: 646	160	1092	898	
 Vertex: 153 degree: 1	It is connected with: 800	
+Vertex: 922 degree: 1	It is connected with: 262	
 Vertex: 155 degree: 3	It is connected with: 187	379	102	
+Vertex: 957 degree: 4	It is connected with: 965	560	145	931	
 Vertex: 157 degree: 2	It is connected with: 210	1060	
+Vertex: 731 degree: 2	It is connected with: 712	66	
+Vertex: 631 degree: 4	It is connected with: 144	913	107	658	
 Vertex: 160 degree: 3	It is connected with: 602	110	239	
+Vertex: 745 degree: 3	It is connected with: 445	538	976	
+Vertex: 808 degree: 1	It is connected with: 953	
+Vertex: 1072 degree: 2	It is connected with: 1070	368	
 Vertex: 164 degree: 2	It is connected with: 1055	993	
+Vertex: 531 degree: 5	It is connected with: 144	735	66	704	390	
 Vertex: 166 degree: 4	It is connected with: 520	368	705	1100	
+Vertex: 535 degree: 0	It is connected with: 
+Vertex: 705 degree: 4	It is connected with: 51	166	243	174	
+Vertex: 1029 degree: 3	It is connected with: 584	1084	379	
+Vertex: 923 degree: 1	It is connected with: 337	
+Vertex: 822 degree: 2	It is connected with: 94	515	
 Vertex: 172 degree: 2	It is connected with: 757	898	
+Vertex: 686 degree: 3	It is connected with: 1060	270	885	
 Vertex: 174 degree: 6	It is connected with: 1041	131	119	1038	542	705	
 Vertex: 175 degree: 2	It is connected with: 80	924	
+Vertex: 702 degree: 3	It is connected with: 212	624	1103	
 Vertex: 177 degree: 5	It is connected with: 1041	656	129	1092	404	
+Vertex: 560 degree: 3	It is connected with: 957	224	455	
+Vertex: 569 degree: 0	It is connected with: 
+Vertex: 931 degree: 2	It is connected with: 1023	957	
+Vertex: 481 degree: 1	It is connected with: 683	
 Vertex: 182 degree: 0	It is connected with: 
+Vertex: 687 degree: 0	It is connected with: 
 Vertex: 184 degree: 2	It is connected with: 445	303	
+Vertex: 962 degree: 4	It is connected with: 717	1054	196	739	
+Vertex: 584 degree: 6	It is connected with: 1029	515	608	310	61	20	
 Vertex: 187 degree: 1	It is connected with: 155	
+Vertex: 443 degree: 5	It is connected with: 480	123	279	653	1023	
 Vertex: 189 degree: 2	It is connected with: 813	709	
+Vertex: 646 degree: 2	It is connected with: 602	247	
 Vertex: 191 degree: 3	It is connected with: 760	459	1075	
+Vertex: 689 degree: 2	It is connected with: 1104	1030	
 Vertex: 193 degree: 5	It is connected with: 1009	309	664	960	798	
 Vertex: 194 degree: 1	It is connected with: 666	
 Vertex: 195 degree: 1	It is connected with: 932	
 Vertex: 196 degree: 2	It is connected with: 962	47	
+Vertex: 1069 degree: 3	It is connected with: 1004	72	52	
+Vertex: 726 degree: 0	It is connected with: 
+Vertex: 695 degree: 3	It is connected with: 994	797	483	
 Vertex: 200 degree: 3	It is connected with: 743	680	766	
+Vertex: 1071 degree: 4	It is connected with: 1112	145	568	1101	
+Vertex: 736 degree: 3	It is connected with: 32	511	1022	
 Vertex: 203 degree: 1	It is connected with: 109	
+Vertex: 1064 degree: 5	It is connected with: 279	416	325	811	33	
 Vertex: 205 degree: 3	It is connected with: 664	302	850	
+Vertex: 664 degree: 7	It is connected with: 973	734	965	205	339	193	608	
 Vertex: 207 degree: 2	It is connected with: 120	643	
+Vertex: 798 degree: 4	It is connected with: 395	589	1044	193	
+Vertex: 999 degree: 3	It is connected with: 409	878	504	
 Vertex: 210 degree: 2	It is connected with: 157	470	
+Vertex: 564 degree: 3	It is connected with: 38	1038	609	
 Vertex: 212 degree: 5	It is connected with: 608	1008	702	448	1092	
+Vertex: 1101 degree: 3	It is connected with: 1055	1071	72	
+Vertex: 669 degree: 1	It is connected with: 518	
 Vertex: 215 degree: 3	It is connected with: 368	914	828	
 Vertex: 216 degree: 3	It is connected with: 239	455	906	
+Vertex: 992 degree: 1	It is connected with: 365	
+Vertex: 784 degree: 2	It is connected with: 47	1041	
+Vertex: 503 degree: 4	It is connected with: 1004	320	1023	341	
+Vertex: 658 degree: 3	It is connected with: 365	122	631	
 Vertex: 221 degree: 1	It is connected with: 491	
 Vertex: 222 degree: 4	It is connected with: 145	46	978	122	
 Vertex: 223 degree: 3	It is connected with: 225	80	16	
 Vertex: 224 degree: 2	It is connected with: 560	225	
 Vertex: 225 degree: 7	It is connected with: 659	223	38	255	224	732	485	
+Vertex: 818 degree: 3	It is connected with: 624	926	331	
+Vertex: 874 degree: 2	It is connected with: 490	324	
+Vertex: 865 degree: 1	It is connected with: 800	
 Vertex: 229 degree: 1	It is connected with: 504	
+Vertex: 862 degree: 5	It is connected with: 250	851	246	751	442	
+Vertex: 557 degree: 3	It is connected with: 460	112	430	
+Vertex: 1038 degree: 2	It is connected with: 564	174	
 Vertex: 233 degree: 4	It is connected with: 40	1070	109	709	
+Vertex: 887 degree: 1	It is connected with: 66	
+Vertex: 995 degree: 2	It is connected with: 369	80	
+Vertex: 953 degree: 3	It is connected with: 777	932	808	
+Vertex: 1020 degree: 2	It is connected with: 461	483	
 Vertex: 238 degree: 3	It is connected with: 597	491	144	
 Vertex: 239 degree: 3	It is connected with: 216	102	160	
+Vertex: 636 degree: 3	It is connected with: 632	381	110	
 Vertex: 241 degree: 1	It is connected with: 38	
+Vertex: 749 degree: 2	It is connected with: 140	485	
 Vertex: 243 degree: 3	It is connected with: 116	965	705	
 Vertex: 244 degree: 2	It is connected with: 764	566	
 Vertex: 245 degree: 1	It is connected with: 841	
 Vertex: 246 degree: 2	It is connected with: 862	48	
 Vertex: 247 degree: 1	It is connected with: 646	
 Vertex: 248 degree: 2	It is connected with: 906	50	
+Vertex: 885 degree: 3	It is connected with: 1010	420	686	
 Vertex: 250 degree: 2	It is connected with: 862	255	
+Vertex: 684 degree: 2	It is connected with: 13	315	
+Vertex: 1083 degree: 3	It is connected with: 409	379	878	
+Vertex: 445 degree: 6	It is connected with: 329	46	184	734	1053	745	
+Vertex: 1037 degree: 0	It is connected with: 
 Vertex: 255 degree: 3	It is connected with: 225	680	250	
+Vertex: 459 degree: 2	It is connected with: 1095	191	
+Vertex: 448 degree: 2	It is connected with: 212	850	
+Vertex: 952 degree: 0	It is connected with: 
+Vertex: 932 degree: 3	It is connected with: 953	956	195	
+Vertex: 831 degree: 1	It is connected with: 462	
+Vertex: 776 degree: 6	It is connected with: 1109	896	840	130	597	800	
 Vertex: 262 degree: 4	It is connected with: 922	838	913	744	
+Vertex: 703 degree: 2	It is connected with: 871	341	
 Vertex: 264 degree: 6	It is connected with: 492	511	1041	811	819	717	
+Vertex: 520 degree: 2	It is connected with: 166	442	
 Vertex: 266 degree: 4	It is connected with: 653	965	279	1044	
+Vertex: 548 degree: 1	It is connected with: 945	
+Vertex: 609 degree: 1	It is connected with: 564	
+Vertex: 653 degree: 6	It is connected with: 266	717	638	75	828	443	
 Vertex: 270 degree: 4	It is connected with: 1100	52	686	77	
+Vertex: 854 degree: 1	It is connected with: 109	
+Vertex: 1022 degree: 2	It is connected with: 762	736	
+Vertex: 504 degree: 3	It is connected with: 999	1004	229	
+Vertex: 566 degree: 4	It is connected with: 971	805	244	878	
 Vertex: 275 degree: 0	It is connected with: 
 Vertex: 276 degree: 2	It is connected with: 1066	131	
+Vertex: 717 degree: 4	It is connected with: 653	962	351	264	
+Vertex: 515 degree: 3	It is connected with: 584	123	822	
 Vertex: 279 degree: 4	It is connected with: 443	1064	685	266	
 Vertex: 280 degree: 0	It is connected with: 
+Vertex: 670 degree: 1	It is connected with: 973	
+Vertex: 595 degree: 2	It is connected with: 81	133	
+Vertex: 1055 degree: 4	It is connected with: 164	1101	1070	1044	
+Vertex: 511 degree: 3	It is connected with: 264	736	13	
+Vertex: 680 degree: 2	It is connected with: 200	255	
 Vertex: 286 degree: 1	It is connected with: 463	
+Vertex: 762 degree: 2	It is connected with: 764	1022	
+Vertex: 712 degree: 3	It is connected with: 731	1088	415	
+Vertex: 1013 degree: 4	It is connected with: 1060	1023	1004	478	
+Vertex: 841 degree: 3	It is connected with: 96	245	46	
+Vertex: 550 degree: 0	It is connected with: 
+Vertex: 679 degree: 1	It is connected with: 421	
 Vertex: 293 degree: 2	It is connected with: 683	886	
 Vertex: 294 degree: 4	It is connected with: 606	1112	764	100	
+Vertex: 945 degree: 2	It is connected with: 548	614	
 Vertex: 296 degree: 1	It is connected with: 1095	
+Vertex: 886 degree: 1	It is connected with: 293	
 Vertex: 298 degree: 3	It is connected with: 1042	72	149	
+Vertex: 666 degree: 4	It is connected with: 963	624	194	122	
+Vertex: 518 degree: 2	It is connected with: 669	331	
+Vertex: 1045 degree: 2	It is connected with: 351	43	
 Vertex: 302 degree: 2	It is connected with: 435	205	
 Vertex: 303 degree: 1	It is connected with: 184	
 Vertex: 304 degree: 2	It is connected with: 685	896	
+Vertex: 733 degree: 3	It is connected with: 416	553	409	
+Vertex: 568 degree: 4	It is connected with: 757	1071	549	310	
+Vertex: 1044 degree: 6	It is connected with: 133	851	1055	926	798	266	
+Vertex: 805 degree: 2	It is connected with: 566	965	
 Vertex: 309 degree: 3	It is connected with: 120	193	878	
 Vertex: 310 degree: 3	It is connected with: 584	568	1075	
+Vertex: 993 degree: 2	It is connected with: 744	164	
+Vertex: 1063 degree: 2	It is connected with: 683	696	
+Vertex: 643 degree: 3	It is connected with: 43	207	128	
+Vertex: 480 degree: 2	It is connected with: 443	331	
 Vertex: 315 degree: 4	It is connected with: 684	873	849	742	
+Vertex: 638 degree: 1	It is connected with: 653	
+Vertex: 1001 degree: 1	It is connected with: 143	
+Vertex: 690 degree: 1	It is connected with: 766	
+Vertex: 606 degree: 2	It is connected with: 294	668	
 Vertex: 320 degree: 4	It is connected with: 503	553	990	47	
+Vertex: 742 degree: 3	It is connected with: 659	125	315	
+Vertex: 538 degree: 4	It is connected with: 9	1010	608	745	
+Vertex: 848 degree: 1	It is connected with: 620	
 Vertex: 324 degree: 3	It is connected with: 589	874	1041	
 Vertex: 325 degree: 3	It is connected with: 471	405	1064	
+Vertex: 654 degree: 1	It is connected with: 398	
+Vertex: 913 degree: 4	It is connected with: 873	1033	262	631	
 Vertex: 328 degree: 2	It is connected with: 96	134	
 Vertex: 329 degree: 5	It is connected with: 445	811	44	914	1008	
+Vertex: 1075 degree: 4	It is connected with: 544	1054	191	310	
 Vertex: 331 degree: 8	It is connected with: 592	608	709	480	518	420	74	818	
+Vertex: 873 degree: 4	It is connected with: 757	913	92	315	
+Vertex: 1111 degree: 2	It is connected with: 335	1066	
+Vertex: 442 degree: 4	It is connected with: 1010	862	900	520	
 Vertex: 335 degree: 3	It is connected with: 1111	490	75	
+Vertex: 455 degree: 2	It is connected with: 216	560	
 Vertex: 337 degree: 3	It is connected with: 119	923	451	
+Vertex: 834 degree: 2	It is connected with: 973	52	
 Vertex: 339 degree: 2	It is connected with: 664	989	
 Vertex: 340 degree: 4	It is connected with: 842	534	145	104	
 Vertex: 341 degree: 2	It is connected with: 503	703	
+Vertex: 794 degree: 2	It is connected with: 492	491	
+Vertex: 924 degree: 1	It is connected with: 175	
+Vertex: 871 degree: 3	It is connected with: 1066	703	69	
+Vertex: 592 degree: 3	It is connected with: 331	1025	668	
 Vertex: 346 degree: 1	It is connected with: 868	
 Vertex: 347 degree: 2	It is connected with: 40	405	
 Vertex: 348 degree: 2	It is connected with: 896	57	
+Vertex: 460 degree: 2	It is connected with: 557	1109	
+Vertex: 696 degree: 4	It is connected with: 735	605	1063	824	
 Vertex: 351 degree: 4	It is connected with: 965	811	717	1045	
+Vertex: 766 degree: 2	It is connected with: 690	200	
 Vertex: 353 degree: 1	It is connected with: 91	
+Vertex: 934 degree: 0	It is connected with: 
+Vertex: 683 degree: 4	It is connected with: 293	415	1063	481	
+Vertex: 1109 degree: 3	It is connected with: 776	398	460	
+Vertex: 867 degree: 1	It is connected with: 620	
+Vertex: 819 degree: 2	It is connected with: 264	491	
+Vertex: 450 degree: 2	It is connected with: 85	734	
 Vertex: 360 degree: 0	It is connected with: 
+Vertex: 492 degree: 3	It is connected with: 264	794	597	
+Vertex: 704 degree: 1	It is connected with: 531	
+Vertex: 758 degree: 0	It is connected with: 
+Vertex: 597 degree: 5	It is connected with: 797	238	13	492	776	
 Vertex: 365 degree: 3	It is connected with: 658	1084	992	
 Vertex: 366 degree: 3	It is connected with: 971	69	722	
+Vertex: 1088 degree: 1	It is connected with: 712	
 Vertex: 368 degree: 3	It is connected with: 215	166	1072	
 Vertex: 369 degree: 3	It is connected with: 13	441	995	
+Vertex: 523 degree: 2	It is connected with: 416	379	
+Vertex: 614 degree: 3	It is connected with: 945	462	1008	
+Vertex: 1023 degree: 4	It is connected with: 931	1013	503	443	
+Vertex: 851 degree: 3	It is connected with: 862	1044	102	
+Vertex: 1056 degree: 0	It is connected with: 
+Vertex: 1033 degree: 2	It is connected with: 913	734	
+Vertex: 1030 degree: 2	It is connected with: 1042	689	
+Vertex: 665 degree: 1	It is connected with: 471	
 Vertex: 378 degree: 0	It is connected with: 
 Vertex: 379 degree: 5	It is connected with: 483	1083	155	1029	523	
+Vertex: 709 degree: 4	It is connected with: 906	233	331	189	
 Vertex: 381 degree: 2	It is connected with: 636	743	
+Vertex: 789 degree: 1	It is connected with: 51	
 Vertex: 383 degree: 1	It is connected with: 51	
+Vertex: 485 degree: 3	It is connected with: 749	470	225	
+Vertex: 728 degree: 1	It is connected with: 54	
+Vertex: 896 degree: 3	It is connected with: 776	304	348	
+Vertex: 467 degree: 0	It is connected with: 
+Vertex: 708 degree: 1	It is connected with: 470	
+Vertex: 777 degree: 3	It is connected with: 953	395	33	
 Vertex: 390 degree: 2	It is connected with: 549	531	
+Vertex: 842 degree: 3	It is connected with: 421	973	340	
+Vertex: 605 degree: 3	It is connected with: 70	656	696	
+Vertex: 656 degree: 3	It is connected with: 177	605	9	
+Vertex: 868 degree: 2	It is connected with: 346	950	
 Vertex: 395 degree: 4	It is connected with: 420	798	777	659	
 Vertex: 396 degree: 1	It is connected with: 608	
 Vertex: 397 degree: 1	It is connected with: 950	
 Vertex: 398 degree: 3	It is connected with: 654	59	1109	
+Vertex: 748 degree: 2	It is connected with: 722	47	
 Vertex: 400 degree: 4	It is connected with: 435	797	735	552	
+Vertex: 760 degree: 2	It is connected with: 191	128	
+Vertex: 478 degree: 2	It is connected with: 1013	739	
+Vertex: 732 degree: 3	It is connected with: 1104	409	225	
 Vertex: 404 degree: 3	It is connected with: 963	764	177	
 Vertex: 405 degree: 3	It is connected with: 685	325	347	
+Vertex: 971 degree: 3	It is connected with: 116	566	366	
+Vertex: 928 degree: 1	It is connected with: 1082	
+Vertex: 966 degree: 2	It is connected with: 744	1025	
 Vertex: 409 degree: 5	It is connected with: 999	1083	732	91	733	
 Vertex: 410 degree: 3	It is connected with: 763	1053	129	
+Vertex: 593 degree: 3	It is connected with: 620	74	1112	
+Vertex: 490 degree: 2	It is connected with: 874	335	
+Vertex: 659 degree: 4	It is connected with: 742	225	395	13	
+Vertex: 797 degree: 4	It is connected with: 597	400	96	695	
 Vertex: 415 degree: 3	It is connected with: 683	102	712	
 Vertex: 416 degree: 5	It is connected with: 110	43	733	1064	523	
+Vertex: 926 degree: 2	It is connected with: 1044	818	
+Vertex: 575 degree: 2	It is connected with: 552	994	
+Vertex: 757 degree: 3	It is connected with: 873	172	568	
 Vertex: 420 degree: 4	It is connected with: 395	885	331	965	
 Vertex: 421 degree: 2	It is connected with: 842	679	
 Vertex: 422 degree: 3	It is connected with: 16	100	898	
-Vertex: 426 degree: 1	It is connected with: 119	
-Vertex: 430 degree: 1	It is connected with: 557	
-Vertex: 435 degree: 2	It is connected with: 302	400	
-Vertex: 438 degree: 1	It is connected with: 109	
-Vertex: 441 degree: 2	It is connected with: 369	1082	
-Vertex: 442 degree: 4	It is connected with: 1010	862	900	520	
-Vertex: 443 degree: 5	It is connected with: 480	123	279	653	1023	
-Vertex: 445 degree: 6	It is connected with: 329	46	184	734	1053	745	
-Vertex: 448 degree: 2	It is connected with: 212	850	
-Vertex: 450 degree: 2	It is connected with: 85	734	
-Vertex: 451 degree: 4	It is connected with: 50	78	130	337	
-Vertex: 455 degree: 2	It is connected with: 216	560	
-Vertex: 459 degree: 2	It is connected with: 1095	191	
-Vertex: 460 degree: 2	It is connected with: 557	1109	
-Vertex: 461 degree: 3	It is connected with: 1020	123	1010	
-Vertex: 462 degree: 2	It is connected with: 614	831	
-Vertex: 463 degree: 3	It is connected with: 149	286	763	
-Vertex: 467 degree: 0	It is connected with: 
-Vertex: 470 degree: 7	It is connected with: 32	1082	54	210	735	708	485	
-Vertex: 471 degree: 3	It is connected with: 325	911	665	
-Vertex: 478 degree: 2	It is connected with: 1013	739	
-Vertex: 480 degree: 2	It is connected with: 443	331	
-Vertex: 481 degree: 1	It is connected with: 683	
-Vertex: 483 degree: 5	It is connected with: 379	1020	1104	11	695	
-Vertex: 485 degree: 3	It is connected with: 749	470	225	
-Vertex: 490 degree: 2	It is connected with: 874	335	
-Vertex: 491 degree: 7	It is connected with: 1009	114	238	794	80	819	221	
-Vertex: 492 degree: 3	It is connected with: 264	794	597	
-Vertex: 497 degree: 1	It is connected with: 771	
-Vertex: 503 degree: 4	It is connected with: 1004	320	1023	341	
-Vertex: 504 degree: 3	It is connected with: 999	1004	229	
-Vertex: 505 degree: 1	It is connected with: 33	
-Vertex: 511 degree: 3	It is connected with: 264	736	13	
-Vertex: 515 degree: 3	It is connected with: 584	123	822	
-Vertex: 518 degree: 2	It is connected with: 669	331	
-Vertex: 520 degree: 2	It is connected with: 166	442	
-Vertex: 523 degree: 2	It is connected with: 416	379	
-Vertex: 525 degree: 1	It is connected with: 771	
-Vertex: 531 degree: 5	It is connected with: 144	735	66	704	390	
-Vertex: 534 degree: 1	It is connected with: 340	
-Vertex: 535 degree: 0	It is connected with: 
-Vertex: 538 degree: 4	It is connected with: 9	1010	608	745	
-Vertex: 542 degree: 2	It is connected with: 11	174	
-Vertex: 544 degree: 1	It is connected with: 1075	
-Vertex: 548 degree: 1	It is connected with: 945	
-Vertex: 549 degree: 3	It is connected with: 54	568	390	
-Vertex: 550 degree: 0	It is connected with: 
-Vertex: 552 degree: 4	It is connected with: 129	400	1082	575	
-Vertex: 553 degree: 5	It is connected with: 320	51	143	1061	733	
-Vertex: 557 degree: 3	It is connected with: 460	112	430	
-Vertex: 560 degree: 3	It is connected with: 957	224	455	
-Vertex: 564 degree: 3	It is connected with: 38	1038	609	
-Vertex: 566 degree: 4	It is connected with: 971	805	244	878	
-Vertex: 568 degree: 4	It is connected with: 757	1071	549	310	
-Vertex: 569 degree: 0	It is connected with: 
-Vertex: 570 degree: 0	It is connected with: 
-Vertex: 575 degree: 2	It is connected with: 552	994	
-Vertex: 584 degree: 6	It is connected with: 1029	515	608	310	61	20	
-Vertex: 589 degree: 2	It is connected with: 324	798	
-Vertex: 592 degree: 3	It is connected with: 331	1025	668	
-Vertex: 593 degree: 3	It is connected with: 620	74	1112	
-Vertex: 595 degree: 2	It is connected with: 81	133	
-Vertex: 596 degree: 3	It is connected with: 2	750	1112	
-Vertex: 597 degree: 5	It is connected with: 797	238	13	492	776	
-Vertex: 599 degree: 1	It is connected with: 685	
-Vertex: 602 degree: 4	It is connected with: 646	160	1092	898	
-Vertex: 605 degree: 3	It is connected with: 70	656	696	
-Vertex: 606 degree: 2	It is connected with: 294	668	
-Vertex: 607 degree: 0	It is connected with: 
-Vertex: 608 degree: 7	It is connected with: 212	331	584	100	396	538	664	
-Vertex: 609 degree: 1	It is connected with: 564	
-Vertex: 612 degree: 0	It is connected with: 
-Vertex: 614 degree: 3	It is connected with: 945	462	1008	
-Vertex: 620 degree: 4	It is connected with: 593	848	867	92	
-Vertex: 624 degree: 5	It is connected with: 818	1025	702	666	668	
-Vertex: 631 degree: 4	It is connected with: 144	913	107	658	
-Vertex: 632 degree: 1	It is connected with: 636	
-Vertex: 636 degree: 3	It is connected with: 632	381	110	
-Vertex: 638 degree: 1	It is connected with: 653	
-Vertex: 643 degree: 3	It is connected with: 43	207	128	
-Vertex: 646 degree: 2	It is connected with: 602	247	
-Vertex: 652 degree: 1	It is connected with: 38	
-Vertex: 653 degree: 6	It is connected with: 266	717	638	75	828	443	
-Vertex: 654 degree: 1	It is connected with: 398	
-Vertex: 656 degree: 3	It is connected with: 177	605	9	
-Vertex: 658 degree: 3	It is connected with: 365	122	631	
-Vertex: 659 degree: 4	It is connected with: 742	225	395	13	
-Vertex: 664 degree: 7	It is connected with: 973	734	965	205	339	193	608	
-Vertex: 665 degree: 1	It is connected with: 471	
-Vertex: 666 degree: 4	It is connected with: 963	624	194	122	
-Vertex: 668 degree: 6	It is connected with: 70	624	47	606	592	1103	
-Vertex: 669 degree: 1	It is connected with: 518	
-Vertex: 670 degree: 1	It is connected with: 973	
-Vertex: 671 degree: 1	It is connected with: 1095	
-Vertex: 679 degree: 1	It is connected with: 421	
-Vertex: 680 degree: 2	It is connected with: 200	255	
-Vertex: 683 degree: 4	It is connected with: 293	415	1063	481	
-Vertex: 684 degree: 2	It is connected with: 13	315	
-Vertex: 685 degree: 5	It is connected with: 304	405	599	1009	279	
-Vertex: 686 degree: 3	It is connected with: 1060	270	885	
-Vertex: 687 degree: 0	It is connected with: 
-Vertex: 689 degree: 2	It is connected with: 1104	1030	
-Vertex: 690 degree: 1	It is connected with: 766	
-Vertex: 695 degree: 3	It is connected with: 994	797	483	
-Vertex: 696 degree: 4	It is connected with: 735	605	1063	824	
-Vertex: 702 degree: 3	It is connected with: 212	624	1103	
-Vertex: 703 degree: 2	It is connected with: 871	341	
-Vertex: 704 degree: 1	It is connected with: 531	
-Vertex: 705 degree: 4	It is connected with: 51	166	243	174	
-Vertex: 708 degree: 1	It is connected with: 470	
-Vertex: 709 degree: 4	It is connected with: 906	233	331	189	
-Vertex: 712 degree: 3	It is connected with: 731	1088	415	
-Vertex: 713 degree: 2	It is connected with: 906	850	
-Vertex: 717 degree: 4	It is connected with: 653	962	351	264	
-Vertex: 722 degree: 2	It is connected with: 748	366	
-Vertex: 726 degree: 0	It is connected with: 
-Vertex: 728 degree: 1	It is connected with: 54	
-Vertex: 731 degree: 2	It is connected with: 712	66	
-Vertex: 732 degree: 3	It is connected with: 1104	409	225	
-Vertex: 733 degree: 3	It is connected with: 416	553	409	
-Vertex: 734 degree: 4	It is connected with: 664	445	450	1033	
-Vertex: 735 degree: 4	It is connected with: 696	400	531	470	
-Vertex: 736 degree: 3	It is connected with: 32	511	1022	
-Vertex: 739 degree: 3	It is connected with: 74	478	962	
-Vertex: 742 degree: 3	It is connected with: 659	125	315	
-Vertex: 743 degree: 2	It is connected with: 200	381	
-Vertex: 744 degree: 4	It is connected with: 966	993	262	74	
-Vertex: 745 degree: 3	It is connected with: 445	538	976	
-Vertex: 748 degree: 2	It is connected with: 722	47	
-Vertex: 749 degree: 2	It is connected with: 140	485	
-Vertex: 750 degree: 1	It is connected with: 596	
-Vertex: 751 degree: 1	It is connected with: 862	
-Vertex: 757 degree: 3	It is connected with: 873	172	568	
-Vertex: 758 degree: 0	It is connected with: 
-Vertex: 760 degree: 2	It is connected with: 191	128	
-Vertex: 762 degree: 2	It is connected with: 764	1022	
-Vertex: 763 degree: 3	It is connected with: 410	911	463	
-Vertex: 764 degree: 4	It is connected with: 762	244	404	294	
-Vertex: 766 degree: 2	It is connected with: 690	200	
-Vertex: 771 degree: 3	It is connected with: 497	1053	525	
-Vertex: 776 degree: 6	It is connected with: 1109	896	840	130	597	800	
-Vertex: 777 degree: 3	It is connected with: 953	395	33	
-Vertex: 784 degree: 2	It is connected with: 47	1041	
-Vertex: 785 degree: 0	It is connected with: 
-Vertex: 789 degree: 1	It is connected with: 51	
-Vertex: 794 degree: 2	It is connected with: 492	491	
-Vertex: 797 degree: 4	It is connected with: 597	400	96	695	
-Vertex: 798 degree: 4	It is connected with: 395	589	1044	193	
-Vertex: 800 degree: 4	It is connected with: 134	865	153	776	
-Vertex: 805 degree: 2	It is connected with: 566	965	
-Vertex: 808 degree: 1	It is connected with: 953	
-Vertex: 811 degree: 4	It is connected with: 329	351	264	1064	
-Vertex: 813 degree: 1	It is connected with: 189	
-Vertex: 818 degree: 3	It is connected with: 624	926	331	
-Vertex: 819 degree: 2	It is connected with: 264	491	
-Vertex: 822 degree: 2	It is connected with: 94	515	
-Vertex: 824 degree: 2	It is connected with: 75	696	
-Vertex: 828 degree: 4	It is connected with: 1112	900	653	215	
-Vertex: 831 degree: 1	It is connected with: 462	
-Vertex: 834 degree: 2	It is connected with: 973	52	
-Vertex: 838 degree: 1	It is connected with: 262	
-Vertex: 840 degree: 1	It is connected with: 776	
-Vertex: 841 degree: 3	It is connected with: 96	245	46	
-Vertex: 842 degree: 3	It is connected with: 421	973	340	
-Vertex: 848 degree: 1	It is connected with: 620	
-Vertex: 849 degree: 1	It is connected with: 315	
-Vertex: 850 degree: 6	It is connected with: 976	110	48	205	448	713	
-Vertex: 851 degree: 3	It is connected with: 862	1044	102	
-Vertex: 854 degree: 1	It is connected with: 109	
-Vertex: 858 degree: 0	It is connected with: 
-Vertex: 862 degree: 5	It is connected with: 250	851	246	751	442	
-Vertex: 865 degree: 1	It is connected with: 800	
-Vertex: 867 degree: 1	It is connected with: 620	
-Vertex: 868 degree: 2	It is connected with: 346	950	
-Vertex: 871 degree: 3	It is connected with: 1066	703	69	
-Vertex: 873 degree: 4	It is connected with: 757	913	92	315	
-Vertex: 874 degree: 2	It is connected with: 490	324	
-Vertex: 875 degree: 1	It is connected with: 116	
-Vertex: 878 degree: 7	It is connected with: 956	999	111	566	1061	309	1083	
-Vertex: 885 degree: 3	It is connected with: 1010	420	686	
-Vertex: 886 degree: 1	It is connected with: 293	
-Vertex: 887 degree: 1	It is connected with: 66	
-Vertex: 896 degree: 3	It is connected with: 776	304	348	
-Vertex: 898 degree: 3	It is connected with: 172	602	422	
-Vertex: 900 degree: 2	It is connected with: 828	442	
-Vertex: 906 degree: 4	It is connected with: 709	713	248	216	
-Vertex: 911 degree: 3	It is connected with: 471	125	763	
-Vertex: 913 degree: 4	It is connected with: 873	1033	262	631	
-Vertex: 914 degree: 2	It is connected with: 329	215	
-Vertex: 922 degree: 1	It is connected with: 262	
-Vertex: 923 degree: 1	It is connected with: 337	
-Vertex: 924 degree: 1	It is connected with: 175	
-Vertex: 926 degree: 2	It is connected with: 1044	818	
-Vertex: 928 degree: 1	It is connected with: 1082	
-Vertex: 931 degree: 2	It is connected with: 1023	957	
-Vertex: 932 degree: 3	It is connected with: 953	956	195	
-Vertex: 934 degree: 0	It is connected with: 
-Vertex: 941 degree: 1	It is connected with: 6	
-Vertex: 945 degree: 2	It is connected with: 548	614	
 Vertex: 950 degree: 3	It is connected with: 397	868	1017	
-Vertex: 952 degree: 0	It is connected with: 
-Vertex: 953 degree: 3	It is connected with: 777	932	808	
-Vertex: 956 degree: 3	It is connected with: 878	44	932	
-Vertex: 957 degree: 4	It is connected with: 965	560	145	931	
-Vertex: 960 degree: 1	It is connected with: 193	
-Vertex: 962 degree: 4	It is connected with: 717	1054	196	739	
-Vertex: 963 degree: 2	It is connected with: 666	404	
-Vertex: 965 degree: 9	It is connected with: 351	664	957	1017	805	1057	243	266	420	
-Vertex: 966 degree: 2	It is connected with: 744	1025	
-Vertex: 971 degree: 3	It is connected with: 116	566	366	
-Vertex: 973 degree: 4	It is connected with: 664	670	834	842	
-Vertex: 976 degree: 3	It is connected with: 850	29	745	
-Vertex: 978 degree: 1	It is connected with: 222	
-Vertex: 989 degree: 2	It is connected with: 74	339	
-Vertex: 990 degree: 1	It is connected with: 320	
-Vertex: 992 degree: 1	It is connected with: 365	
-Vertex: 993 degree: 2	It is connected with: 744	164	
-Vertex: 994 degree: 4	It is connected with: 125	102	695	575	
-Vertex: 995 degree: 2	It is connected with: 369	80	
-Vertex: 999 degree: 3	It is connected with: 409	878	504	
-Vertex: 1001 degree: 1	It is connected with: 143	
-Vertex: 1004 degree: 4	It is connected with: 503	1069	1013	504	
-Vertex: 1008 degree: 3	It is connected with: 212	329	614	
-Vertex: 1009 degree: 3	It is connected with: 193	491	685	
-Vertex: 1010 degree: 6	It is connected with: 885	442	40	461	538	1112	
-Vertex: 1013 degree: 4	It is connected with: 1060	1023	1004	478	
-Vertex: 1017 degree: 3	It is connected with: 965	1053	950	
-Vertex: 1020 degree: 2	It is connected with: 461	483	
-Vertex: 1022 degree: 2	It is connected with: 762	736	
-Vertex: 1023 degree: 4	It is connected with: 931	1013	503	443	
-Vertex: 1025 degree: 3	It is connected with: 624	966	592	
-Vertex: 1029 degree: 3	It is connected with: 584	1084	379	
-Vertex: 1030 degree: 2	It is connected with: 1042	689	
-Vertex: 1033 degree: 2	It is connected with: 913	734	
-Vertex: 1037 degree: 0	It is connected with: 
-Vertex: 1038 degree: 2	It is connected with: 564	174	
-Vertex: 1041 degree: 5	It is connected with: 174	784	264	177	324	
 Vertex: 1042 degree: 3	It is connected with: 298	1030	31	
-Vertex: 1044 degree: 6	It is connected with: 133	851	1055	926	798	266	
-Vertex: 1045 degree: 2	It is connected with: 351	43	
-Vertex: 1053 degree: 4	It is connected with: 771	410	445	1017	
-Vertex: 1054 degree: 3	It is connected with: 109	1075	962	
-Vertex: 1055 degree: 4	It is connected with: 164	1101	1070	1044	
-Vertex: 1056 degree: 0	It is connected with: 
-Vertex: 1057 degree: 1	It is connected with: 965	
+Vertex: 898 degree: 3	It is connected with: 172	602	422	
+Vertex: 426 degree: 1	It is connected with: 119	
 Vertex: 1060 degree: 3	It is connected with: 1013	686	157	
-Vertex: 1061 degree: 4	It is connected with: 553	878	103	143	
-Vertex: 1063 degree: 2	It is connected with: 683	696	
-Vertex: 1064 degree: 5	It is connected with: 279	416	325	811	33	
-Vertex: 1066 degree: 4	It is connected with: 276	871	1111	134	
-Vertex: 1067 degree: 1	It is connected with: 46	
-Vertex: 1069 degree: 3	It is connected with: 1004	72	52	
-Vertex: 1070 degree: 3	It is connected with: 233	1055	1072	
-Vertex: 1071 degree: 4	It is connected with: 1112	145	568	1101	
-Vertex: 1072 degree: 2	It is connected with: 1070	368	
-Vertex: 1075 degree: 4	It is connected with: 544	1054	191	310	
-Vertex: 1082 degree: 4	It is connected with: 470	552	441	928	
-Vertex: 1083 degree: 3	It is connected with: 409	379	878	
-Vertex: 1084 degree: 3	It is connected with: 365	1029	130	
-Vertex: 1088 degree: 1	It is connected with: 712	
-Vertex: 1092 degree: 3	It is connected with: 602	177	212	
-Vertex: 1095 degree: 4	It is connected with: 296	459	111	671	
-Vertex: 1100 degree: 3	It is connected with: 270	103	166	
-Vertex: 1101 degree: 3	It is connected with: 1055	1071	72	
-Vertex: 1103 degree: 2	It is connected with: 702	668	
-Vertex: 1104 degree: 3	It is connected with: 689	732	483	
-Vertex: 1109 degree: 3	It is connected with: 776	398	460	
-Vertex: 1111 degree: 2	It is connected with: 335	1066	
-Vertex: 1112 degree: 6	It is connected with: 294	828	593	1071	596	1010	
+Vertex: 828 degree: 4	It is connected with: 1112	900	653	215	
+Vertex: 840 degree: 1	It is connected with: 776	
+Vertex: 430 degree: 1	It is connected with: 557	
+Vertex: 764 degree: 4	It is connected with: 762	244	404	294	
+Vertex: 824 degree: 2	It is connected with: 75	696	
+Vertex: 976 degree: 3	It is connected with: 850	29	745	
+Vertex: 875 degree: 1	It is connected with: 116	
+Vertex: 435 degree: 2	It is connected with: 302	400	
+Vertex: 906 degree: 4	It is connected with: 709	713	248	216	
+Vertex: 671 degree: 1	It is connected with: 1095	
+Vertex: 438 degree: 1	It is connected with: 109	
+Vertex: 850 degree: 6	It is connected with: 976	110	48	205	448	713	
+Vertex: 491 degree: 7	It is connected with: 1009	114	238	794	80	819	221	
+Vertex: 441 degree: 2	It is connected with: 369	1082	

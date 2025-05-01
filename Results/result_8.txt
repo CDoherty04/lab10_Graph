@@ -5014,69 +5014,69 @@ The degree of vertex LIBKVLRVCS is:	17
 The degree of vertex OAXIDDKIBR is:	20
 The degree of vertex PLAPISWMQT is:	29
 No edge exists between the cities GQNZKWRZSK and PLWWUFMRYE
-The cities GQNZKWRZSK and PLWWUFMRYE are connected.
+The cities GQNZKWRZSK and PLWWUFMRYE are not connected.
 No edge exists between the cities ZKDEUSXDYW and ORXYIVQSOV
-The cities ZKDEUSXDYW and ORXYIVQSOV are connected.
+The cities ZKDEUSXDYW and ORXYIVQSOV are not connected.
 No edge exists between the cities MKQZEQTYLD and MDFMKVEWWB
-The cities MKQZEQTYLD and MDFMKVEWWB are connected.
+The cities MKQZEQTYLD and MDFMKVEWWB are not connected.
 No edge exists between the cities SGBRGOLFJJ and KFORLGQYNF
 The cities SGBRGOLFJJ and KFORLGQYNF are not connected.
 No edge exists between the cities WDBVYIAYMZ and HBNNCYQVHI
 The cities WDBVYIAYMZ and HBNNCYQVHI are not connected.
 No edge exists between the cities DMYRYRBKKQ and UOACQZZSJC
-The cities DMYRYRBKKQ and UOACQZZSJC are connected.
+The cities DMYRYRBKKQ and UOACQZZSJC are not connected.
 No edge exists between the cities XBKBTPGUXY and PXJPQZOXWH
-The cities XBKBTPGUXY and PXJPQZOXWH are connected.
+The cities XBKBTPGUXY and PXJPQZOXWH are not connected.
 No edge exists between the cities EOFGUAXWOJ and GACDWTIYJR
 The cities EOFGUAXWOJ and GACDWTIYJR are connected.
 No edge exists between the cities FKWCGGVVJT and SKAFGQFLOJ
-The cities FKWCGGVVJT and SKAFGQFLOJ are connected.
+The cities FKWCGGVVJT and SKAFGQFLOJ are not connected.
 No edge exists between the cities QHBHKDZVHU and NGDOJOMWAL
 The cities QHBHKDZVHU and NGDOJOMWAL are not connected.
 No edge exists between the cities RXHBBEJKBI and GQNZKWRZSK
 The cities RXHBBEJKBI and GQNZKWRZSK are not connected.
 The distance between the cities IGHNYLQEDT and YBRSVCCNHT is 855
-The cities IGHNYLQEDT and YBRSVCCNHT are connected.
+The cities IGHNYLQEDT and YBRSVCCNHT are not connected.
 No edge exists between the cities KFORLGQYNF and KQYTVQKMGY
 The cities KFORLGQYNF and KQYTVQKMGY are not connected.
 No edge exists between the cities MSIZISKWQV and CMEDWESAZB
-The cities MSIZISKWQV and CMEDWESAZB are connected.
+The cities MSIZISKWQV and CMEDWESAZB are not connected.
 No edge exists between the cities UOACQZZSJC and VIEGYVQBGS
 The cities UOACQZZSJC and VIEGYVQBGS are connected.
 No edge exists between the cities PLAPISWMQT and WEPECMMUGX
 The cities PLAPISWMQT and WEPECMMUGX are connected.
 The distance between the cities SHEKDXKTWP and QXCEECNVFB is 687
-The cities SHEKDXKTWP and QXCEECNVFB are connected.
+The cities SHEKDXKTWP and QXCEECNVFB are not connected.
 No edge exists between the cities PXJPQZOXWH and SHEKDXKTWP
 The cities PXJPQZOXWH and SHEKDXKTWP are not connected.
 No edge exists between the cities QXCEECNVFB and EAWXGNERED
 The cities QXCEECNVFB and EAWXGNERED are connected.
 No edge exists between the cities PLWWUFMRYE and CHZHZGUDCL
-The cities PLWWUFMRYE and CHZHZGUDCL are connected.
+The cities PLWWUFMRYE and CHZHZGUDCL are not connected.
 No edge exists between the cities ACUQVRUVEP and LDOYJKHYDW
-The cities ACUQVRUVEP and LDOYJKHYDW are connected.
+The cities ACUQVRUVEP and LDOYJKHYDW are not connected.
 The distance between the cities WOQDBNPLFM and VRFCAEWWUE is 616
-The cities WOQDBNPLFM and VRFCAEWWUE are connected.
+The cities WOQDBNPLFM and VRFCAEWWUE are not connected.
 The distance between the cities QNVYXJSBPS and KFORLGQYNF is 597
-The cities QNVYXJSBPS and KFORLGQYNF are connected.
+The cities QNVYXJSBPS and KFORLGQYNF are not connected.
 No edge exists between the cities QXCEECNVFB and VVYIZAVXLN
 The cities QXCEECNVFB and VVYIZAVXLN are connected.
 No edge exists between the cities BDEVXFYMXR and XIYTTSJLJY
-The cities BDEVXFYMXR and XIYTTSJLJY are connected.
+The cities BDEVXFYMXR and XIYTTSJLJY are not connected.
 No edge exists between the cities CMEDWESAZB and PFHPTPMGPZ
-The cities CMEDWESAZB and PFHPTPMGPZ are connected.
+The cities CMEDWESAZB and PFHPTPMGPZ are not connected.
 No edge exists between the cities OWSTZHMWZL and XBKBTPGUXY
-The cities OWSTZHMWZL and XBKBTPGUXY are connected.
+The cities OWSTZHMWZL and XBKBTPGUXY are not connected.
 No edge exists between the cities UAKYDLGGNF and QMPZGEBUEO
-The cities UAKYDLGGNF and QMPZGEBUEO are connected.
+The cities UAKYDLGGNF and QMPZGEBUEO are not connected.
 The distance between the cities UOACQZZSJC and HMEBYSUOMG is 248
-The cities UOACQZZSJC and HMEBYSUOMG are connected.
+The cities UOACQZZSJC and HMEBYSUOMG are not connected.
 No edge exists between the cities SECYLKVISX and DLCQJVHBCG
-The cities SECYLKVISX and DLCQJVHBCG are connected.
+The cities SECYLKVISX and DLCQJVHBCG are not connected.
 The distance between the cities XIYTTSJLJY and MNDKVUZWZL is 910
-The cities XIYTTSJLJY and MNDKVUZWZL are connected.
+The cities XIYTTSJLJY and MNDKVUZWZL are not connected.
 The distance between the cities YGVBEKNOBY and OSWYMAOXSI is 973
-The cities YGVBEKNOBY and OSWYMAOXSI are connected.
+The cities YGVBEKNOBY and OSWYMAOXSI are not connected.
 The distance between the cities VMHZZZNDRX and JQBZZQUZYP is 706
 The cities VMHZZZNDRX and JQBZZQUZYP are connected.
 No edge exists between the cities VMHZZZNDRX and VRFCAEWWUE
@@ -5084,75 +5084,75 @@ The cities VMHZZZNDRX and VRFCAEWWUE are connected.
 No edge exists between the cities BZVJLJHMQR and DKFBGQMKMA
 The cities BZVJLJHMQR and DKFBGQMKMA are connected.
 No edge exists between the cities NCTOSUYUMM and FKWCGGVVJT
-The cities NCTOSUYUMM and FKWCGGVVJT are connected.
+The cities NCTOSUYUMM and FKWCGGVVJT are not connected.
 No edge exists between the cities SIWIHHTGGV and LGUJVAHJIW
-The cities SIWIHHTGGV and LGUJVAHJIW are connected.
+The cities SIWIHHTGGV and LGUJVAHJIW are not connected.
 No edge exists between the cities YGVBEKNOBY and SHEKDXKTWP
-The cities YGVBEKNOBY and SHEKDXKTWP are connected.
+The cities YGVBEKNOBY and SHEKDXKTWP are not connected.
 No edge exists between the cities ANQRKUEGIB and TFPLRYLPSO
-The cities ANQRKUEGIB and TFPLRYLPSO are connected.
+The cities ANQRKUEGIB and TFPLRYLPSO are not connected.
 No edge exists between the cities PGLQMDSALV and JQBZZQUZYP
-The cities PGLQMDSALV and JQBZZQUZYP are connected.
+The cities PGLQMDSALV and JQBZZQUZYP are not connected.
 The distance between the cities LIBKVLRVCS and LDOYJKHYDW is 486
-The cities LIBKVLRVCS and LDOYJKHYDW are connected.
+The cities LIBKVLRVCS and LDOYJKHYDW are not connected.
 The distance between the cities VMHZZZNDRX and VRMVCAUMWK is 100
-The cities VMHZZZNDRX and VRMVCAUMWK are connected.
+The cities VMHZZZNDRX and VRMVCAUMWK are not connected.
 No edge exists between the cities RBBGXPNQMH and ANQRKUEGIB
 The cities RBBGXPNQMH and ANQRKUEGIB are connected.
 No edge exists between the cities BZZDSCMDGW and GACDWTIYJR
-The cities BZZDSCMDGW and GACDWTIYJR are connected.
+The cities BZZDSCMDGW and GACDWTIYJR are not connected.
 No edge exists between the cities VRFCAEWWUE and EZDALDBNCJ
 The cities VRFCAEWWUE and EZDALDBNCJ are not connected.
 No edge exists between the cities LIBKVLRVCS and VMNASMCXXF
-The cities LIBKVLRVCS and VMNASMCXXF are connected.
+The cities LIBKVLRVCS and VMNASMCXXF are not connected.
 No edge exists between the cities HBNNCYQVHI and BZVJLJHMQR
 The cities HBNNCYQVHI and BZVJLJHMQR are connected.
 No edge exists between the cities VXWCNLHPKD and OSWYMAOXSI
-The cities VXWCNLHPKD and OSWYMAOXSI are connected.
+The cities VXWCNLHPKD and OSWYMAOXSI are not connected.
 No edge exists between the cities HBNNCYQVHI and OWSTZHMWZL
-The cities HBNNCYQVHI and OWSTZHMWZL are connected.
+The cities HBNNCYQVHI and OWSTZHMWZL are not connected.
 The distance between the cities VMNASMCXXF and HMEBYSUOMG is 71
-The cities VMNASMCXXF and HMEBYSUOMG are connected.
+The cities VMNASMCXXF and HMEBYSUOMG are not connected.
 No edge exists between the cities OKMUPXOLEL and BZZDSCMDGW
-The cities OKMUPXOLEL and BZZDSCMDGW are connected.
+The cities OKMUPXOLEL and BZZDSCMDGW are not connected.
 No edge exists between the cities ASNIFVVIQU and SOQLCETRQO
-The cities ASNIFVVIQU and SOQLCETRQO are connected.
+The cities ASNIFVVIQU and SOQLCETRQO are not connected.
 No edge exists between the cities IWRLCYWTCH and MSIZISKWQV
-The cities IWRLCYWTCH and MSIZISKWQV are connected.
+The cities IWRLCYWTCH and MSIZISKWQV are not connected.
 No edge exists between the cities MSIZISKWQV and EAWXGNERED
-The cities MSIZISKWQV and EAWXGNERED are connected.
+The cities MSIZISKWQV and EAWXGNERED are not connected.
 No edge exists between the cities UAKYDLGGNF and LGUJVAHJIW
-The cities UAKYDLGGNF and LGUJVAHJIW are connected.
+The cities UAKYDLGGNF and LGUJVAHJIW are not connected.
 The distance between the cities OWSTZHMWZL and TEOUGEDKBC is 761
-The cities OWSTZHMWZL and TEOUGEDKBC are connected.
+The cities OWSTZHMWZL and TEOUGEDKBC are not connected.
 No edge exists between the cities QLWZPHASRE and NNGPSYCEFU
-The cities QLWZPHASRE and NNGPSYCEFU are connected.
+The cities QLWZPHASRE and NNGPSYCEFU are not connected.
 The distance between the cities FKWCGGVVJT and PLAPISWMQT is 589
-The cities FKWCGGVVJT and PLAPISWMQT are connected.
+The cities FKWCGGVVJT and PLAPISWMQT are not connected.
 No edge exists between the cities TEOUGEDKBC and DMYRYRBKKQ
-The cities TEOUGEDKBC and DMYRYRBKKQ are connected.
+The cities TEOUGEDKBC and DMYRYRBKKQ are not connected.
 No edge exists between the cities BTYWWHCUOB and PFHPTPMGPZ
-The cities BTYWWHCUOB and PFHPTPMGPZ are connected.
+The cities BTYWWHCUOB and PFHPTPMGPZ are not connected.
 No edge exists between the cities PLWWUFMRYE and RSMTGOROUX
-The cities PLWWUFMRYE and RSMTGOROUX are connected.
+The cities PLWWUFMRYE and RSMTGOROUX are not connected.
 The distance between the cities QNVYXJSBPS and DKFBGQMKMA is 814
-The cities QNVYXJSBPS and DKFBGQMKMA are connected.
+The cities QNVYXJSBPS and DKFBGQMKMA are not connected.
 No edge exists between the cities SIWIHHTGGV and GACDWTIYJR
-The cities SIWIHHTGGV and GACDWTIYJR are connected.
+The cities SIWIHHTGGV and GACDWTIYJR are not connected.
 No edge exists between the cities GMYZKCNMHM and OIVJBSATBQ
 The cities GMYZKCNMHM and OIVJBSATBQ are not connected.
 No edge exists between the cities SOQLCETRQO and BEVSOWUDIY
 The cities SOQLCETRQO and BEVSOWUDIY are not connected.
 The distance between the cities UAKYDLGGNF and RBBGXPNQMH is 214
-The cities UAKYDLGGNF and RBBGXPNQMH are connected.
+The cities UAKYDLGGNF and RBBGXPNQMH are not connected.
 No edge exists between the cities BLSNHZYYJQ and WXLLHUWNMB
-The cities BLSNHZYYJQ and WXLLHUWNMB are connected.
+The cities BLSNHZYYJQ and WXLLHUWNMB are not connected.
 No edge exists between the cities OIVJBSATBQ and TEOUGEDKBC
-The cities OIVJBSATBQ and TEOUGEDKBC are connected.
+The cities OIVJBSATBQ and TEOUGEDKBC are not connected.
 No edge exists between the cities KFORLGQYNF and ACUQVRUVEP
-The cities KFORLGQYNF and ACUQVRUVEP are connected.
+The cities KFORLGQYNF and ACUQVRUVEP are not connected.
 No edge exists between the cities OIVJBSATBQ and NCTOSUYUMM
-The cities OIVJBSATBQ and NCTOSUYUMM are connected.
+The cities OIVJBSATBQ and NCTOSUYUMM are not connected.
 No edge exists between the cities MDFMKVEWWB and QXCEECNVFB
 The cities MDFMKVEWWB and QXCEECNVFB are connected.
 No edge exists between the cities RBBGXPNQMH and MCZSRROUFE
@@ -5160,365 +5160,365 @@ The cities RBBGXPNQMH and MCZSRROUFE are connected.
 No edge exists between the cities BEVSOWUDIY and XYSHLRPWOR
 The cities BEVSOWUDIY and XYSHLRPWOR are not connected.
 No edge exists between the cities HBNNCYQVHI and QMPZGEBUEO
-The cities HBNNCYQVHI and QMPZGEBUEO are connected.
+The cities HBNNCYQVHI and QMPZGEBUEO are not connected.
 No edge exists between the cities CMEDWESAZB and RSMTGOROUX
-The cities CMEDWESAZB and RSMTGOROUX are connected.
+The cities CMEDWESAZB and RSMTGOROUX are not connected.
 No edge exists between the cities SOQLCETRQO and PFHPTPMGPZ
-The cities SOQLCETRQO and PFHPTPMGPZ are connected.
+The cities SOQLCETRQO and PFHPTPMGPZ are not connected.
 No edge exists between the cities PFHPTPMGPZ and FDNQTXQLDI
-The cities PFHPTPMGPZ and FDNQTXQLDI are connected.
+The cities PFHPTPMGPZ and FDNQTXQLDI are not connected.
 No edge exists between the cities VRFCAEWWUE and FRTOKGYQTA
 The cities VRFCAEWWUE and FRTOKGYQTA are not connected.
 No edge exists between the cities MUQWXIRLCO and BZZDSCMDGW
 The cities MUQWXIRLCO and BZZDSCMDGW are connected.
 No edge exists between the cities NNDTYWSQSG and XBKBTPGUXY
-The cities NNDTYWSQSG and XBKBTPGUXY are connected.
+The cities NNDTYWSQSG and XBKBTPGUXY are not connected.
 No edge exists between the cities PGLQMDSALV and IQQGEZKKHE
 The cities PGLQMDSALV and IQQGEZKKHE are not connected.
 No edge exists between the cities ANQRKUEGIB and YGVBEKNOBY
-The cities ANQRKUEGIB and YGVBEKNOBY are connected.
+The cities ANQRKUEGIB and YGVBEKNOBY are not connected.
 The distance between the cities PXJPQZOXWH and YBRSVCCNHT is 688
-The cities PXJPQZOXWH and YBRSVCCNHT are connected.
+The cities PXJPQZOXWH and YBRSVCCNHT are not connected.
 No edge exists between the cities BTYWWHCUOB and SECYLKVISX
-The cities BTYWWHCUOB and SECYLKVISX are connected.
+The cities BTYWWHCUOB and SECYLKVISX are not connected.
 No edge exists between the cities OTYZERVHPJ and SECYLKVISX
-The cities OTYZERVHPJ and SECYLKVISX are connected.
+The cities OTYZERVHPJ and SECYLKVISX are not connected.
 No edge exists between the cities DIGKPAPMTO and BEVSOWUDIY
 The cities DIGKPAPMTO and BEVSOWUDIY are connected.
 No edge exists between the cities PXJPQZOXWH and PFWLJAUZVO
 The cities PXJPQZOXWH and PFWLJAUZVO are not connected.
 No edge exists between the cities QSPCBCZLPT and NGDOJOMWAL
-The cities QSPCBCZLPT and NGDOJOMWAL are connected.
+The cities QSPCBCZLPT and NGDOJOMWAL are not connected.
 No edge exists between the cities BTYWWHCUOB and CMEDWESAZB
 The cities BTYWWHCUOB and CMEDWESAZB are not connected.
 The distance between the cities VIEGYVQBGS and LJHHCZQAOQ is 569
-The cities VIEGYVQBGS and LJHHCZQAOQ are connected.
+The cities VIEGYVQBGS and LJHHCZQAOQ are not connected.
 No edge exists between the cities NCTOSUYUMM and SKAFGQFLOJ
-The cities NCTOSUYUMM and SKAFGQFLOJ are connected.
+The cities NCTOSUYUMM and SKAFGQFLOJ are not connected.
 No edge exists between the cities GQNZKWRZSK and JQBZZQUZYP
-The cities GQNZKWRZSK and JQBZZQUZYP are connected.
+The cities GQNZKWRZSK and JQBZZQUZYP are not connected.
 No edge exists between the cities XYSHLRPWOR and WEPECMMUGX
 The cities XYSHLRPWOR and WEPECMMUGX are connected.
 No edge exists between the cities VIEGYVQBGS and BZVJLJHMQR
 The cities VIEGYVQBGS and BZVJLJHMQR are connected.
 The distance between the cities GQNZKWRZSK and FRTOKGYQTA is 657
-The cities GQNZKWRZSK and FRTOKGYQTA are connected.
+The cities GQNZKWRZSK and FRTOKGYQTA are not connected.
 No edge exists between the cities QXCEECNVFB and RIACTLWTHA
-The cities QXCEECNVFB and RIACTLWTHA are connected.
+The cities QXCEECNVFB and RIACTLWTHA are not connected.
 The distance between the cities BZVJLJHMQR and MUQWXIRLCO is 572
-The cities BZVJLJHMQR and MUQWXIRLCO are connected.
+The cities BZVJLJHMQR and MUQWXIRLCO are not connected.
 No edge exists between the cities SKAFGQFLOJ and ACUQVRUVEP
-The cities SKAFGQFLOJ and ACUQVRUVEP are connected.
+The cities SKAFGQFLOJ and ACUQVRUVEP are not connected.
 No edge exists between the cities JJHMKPWAWI and OIVJBSATBQ
-The cities JJHMKPWAWI and OIVJBSATBQ are connected.
+The cities JJHMKPWAWI and OIVJBSATBQ are not connected.
 No edge exists between the cities LDOYJKHYDW and CMEDWESAZB
 The cities LDOYJKHYDW and CMEDWESAZB are not connected.
 No edge exists between the cities SGBRGOLFJJ and IUQJDTQQQF
-The cities SGBRGOLFJJ and IUQJDTQQQF are connected.
+The cities SGBRGOLFJJ and IUQJDTQQQF are not connected.
 The distance between the cities QVRITICNRQ and JJHMKPWAWI is 879
-The cities QVRITICNRQ and JJHMKPWAWI are connected.
+The cities QVRITICNRQ and JJHMKPWAWI are not connected.
 No edge exists between the cities FRTOKGYQTA and JJHMKPWAWI
-The cities FRTOKGYQTA and JJHMKPWAWI are connected.
+The cities FRTOKGYQTA and JJHMKPWAWI are not connected.
 No edge exists between the cities NCTOSUYUMM and ZKDEUSXDYW
 The cities NCTOSUYUMM and ZKDEUSXDYW are connected.
 No edge exists between the cities QHBHKDZVHU and OWSTZHMWZL
 The cities QHBHKDZVHU and OWSTZHMWZL are not connected.
 The distance between the cities EIACGTMSXT and LDOYJKHYDW is 92
-The cities EIACGTMSXT and LDOYJKHYDW are connected.
+The cities EIACGTMSXT and LDOYJKHYDW are not connected.
 No edge exists between the cities VMNASMCXXF and TOHYNTPFQI
-The cities VMNASMCXXF and TOHYNTPFQI are connected.
+The cities VMNASMCXXF and TOHYNTPFQI are not connected.
 No edge exists between the cities BEVSOWUDIY and WDBVYIAYMZ
-The cities BEVSOWUDIY and WDBVYIAYMZ are connected.
+The cities BEVSOWUDIY and WDBVYIAYMZ are not connected.
 No edge exists between the cities BVMELBXEPY and BDEVXFYMXR
-The cities BVMELBXEPY and BDEVXFYMXR are connected.
+The cities BVMELBXEPY and BDEVXFYMXR are not connected.
 The distance between the cities WXLLHUWNMB and FDNQTXQLDI is 343
-The cities WXLLHUWNMB and FDNQTXQLDI are connected.
+The cities WXLLHUWNMB and FDNQTXQLDI are not connected.
 No edge exists between the cities IQQGEZKKHE and LKBTTPKGAL
-The cities IQQGEZKKHE and LKBTTPKGAL are connected.
+The cities IQQGEZKKHE and LKBTTPKGAL are not connected.
 No edge exists between the cities EZDALDBNCJ and RIACTLWTHA
 The cities EZDALDBNCJ and RIACTLWTHA are connected.
 No edge exists between the cities NCTOSUYUMM and DMYRYRBKKQ
-The cities NCTOSUYUMM and DMYRYRBKKQ are connected.
+The cities NCTOSUYUMM and DMYRYRBKKQ are not connected.
 No edge exists between the cities SHEKDXKTWP and BLSNHZYYJQ
-The cities SHEKDXKTWP and BLSNHZYYJQ are connected.
+The cities SHEKDXKTWP and BLSNHZYYJQ are not connected.
 The distance between the cities LJHHCZQAOQ and UOACQZZSJC is 352
-The cities LJHHCZQAOQ and UOACQZZSJC are connected.
+The cities LJHHCZQAOQ and UOACQZZSJC are not connected.
 No edge exists between the cities FDNQTXQLDI and QNVYXJSBPS
 The cities FDNQTXQLDI and QNVYXJSBPS are connected.
 No edge exists between the cities CBJRBAAQFV and VMHZZZNDRX
-The cities CBJRBAAQFV and VMHZZZNDRX are connected.
+The cities CBJRBAAQFV and VMHZZZNDRX are not connected.
 No edge exists between the cities QHBHKDZVHU and MKQZEQTYLD
 The cities QHBHKDZVHU and MKQZEQTYLD are not connected.
 No edge exists between the cities LKBTTPKGAL and LDOYJKHYDW
 The cities LKBTTPKGAL and LDOYJKHYDW are not connected.
 No edge exists between the cities OWSTZHMWZL and BZVJLJHMQR
-The cities OWSTZHMWZL and BZVJLJHMQR are connected.
+The cities OWSTZHMWZL and BZVJLJHMQR are not connected.
 No edge exists between the cities MCZSRROUFE and QSPCBCZLPT
 The cities MCZSRROUFE and QSPCBCZLPT are not connected.
 The distance between the cities SKAFGQFLOJ and HMEBYSUOMG is 126
-The cities SKAFGQFLOJ and HMEBYSUOMG are connected.
+The cities SKAFGQFLOJ and HMEBYSUOMG are not connected.
 No edge exists between the cities FDNQTXQLDI and VMHZZZNDRX
-The cities FDNQTXQLDI and VMHZZZNDRX are connected.
+The cities FDNQTXQLDI and VMHZZZNDRX are not connected.
 No edge exists between the cities KNMEUNVWFL and XBKBTPGUXY
-The cities KNMEUNVWFL and XBKBTPGUXY are connected.
+The cities KNMEUNVWFL and XBKBTPGUXY are not connected.
 No edge exists between the cities VRMVCAUMWK and XBKBTPGUXY
 The cities VRMVCAUMWK and XBKBTPGUXY are connected.
 No edge exists between the cities MNDKVUZWZL and HBNNCYQVHI
-The cities MNDKVUZWZL and HBNNCYQVHI are connected.
+The cities MNDKVUZWZL and HBNNCYQVHI are not connected.
 No edge exists between the cities VVYIZAVXLN and HBNNCYQVHI
-The cities VVYIZAVXLN and HBNNCYQVHI are connected.
+The cities VVYIZAVXLN and HBNNCYQVHI are not connected.
 No edge exists between the cities QHBHKDZVHU and XBKBTPGUXY
 The cities QHBHKDZVHU and XBKBTPGUXY are not connected.
 No edge exists between the cities BZZDSCMDGW and RIACTLWTHA
-The cities BZZDSCMDGW and RIACTLWTHA are connected.
+The cities BZZDSCMDGW and RIACTLWTHA are not connected.
 No edge exists between the cities LJHHCZQAOQ and JJHMKPWAWI
-The cities LJHHCZQAOQ and JJHMKPWAWI are connected.
+The cities LJHHCZQAOQ and JJHMKPWAWI are not connected.
 No edge exists between the cities VXWCNLHPKD and KFORLGQYNF
-The cities VXWCNLHPKD and KFORLGQYNF are connected.
+The cities VXWCNLHPKD and KFORLGQYNF are not connected.
 No edge exists between the cities QHBHKDZVHU and VRFCAEWWUE
 The cities QHBHKDZVHU and VRFCAEWWUE are not connected.
 No edge exists between the cities XBKBTPGUXY and SKAFGQFLOJ
-The cities XBKBTPGUXY and SKAFGQFLOJ are connected.
+The cities XBKBTPGUXY and SKAFGQFLOJ are not connected.
 The distance between the cities UOACQZZSJC and VVYIZAVXLN is 923
-The cities UOACQZZSJC and VVYIZAVXLN are connected.
+The cities UOACQZZSJC and VVYIZAVXLN are not connected.
 No edge exists between the cities ACUQVRUVEP and MDFMKVEWWB
 The cities ACUQVRUVEP and MDFMKVEWWB are not connected.
 No edge exists between the cities QMPZGEBUEO and SOQLCETRQO
 The cities QMPZGEBUEO and SOQLCETRQO are not connected.
 The distance between the cities CMEDWESAZB and SECYLKVISX is 921
-The cities CMEDWESAZB and SECYLKVISX are connected.
+The cities CMEDWESAZB and SECYLKVISX are not connected.
 No edge exists between the cities EAWXGNERED and GPXHTAZITE
-The cities EAWXGNERED and GPXHTAZITE are connected.
+The cities EAWXGNERED and GPXHTAZITE are not connected.
 No edge exists between the cities OTYZERVHPJ and WDBVYIAYMZ
-The cities OTYZERVHPJ and WDBVYIAYMZ are connected.
+The cities OTYZERVHPJ and WDBVYIAYMZ are not connected.
 No edge exists between the cities FKWCGGVVJT and GQNZKWRZSK
-The cities FKWCGGVVJT and GQNZKWRZSK are connected.
+The cities FKWCGGVVJT and GQNZKWRZSK are not connected.
 No edge exists between the cities PXJPQZOXWH and SKAFGQFLOJ
 The cities PXJPQZOXWH and SKAFGQFLOJ are not connected.
 The distance between the cities BLSNHZYYJQ and EAWXGNERED is 68
-The cities BLSNHZYYJQ and EAWXGNERED are connected.
+The cities BLSNHZYYJQ and EAWXGNERED are not connected.
 The distance between the cities QNVYXJSBPS and QMPZGEBUEO is 819
-The cities QNVYXJSBPS and QMPZGEBUEO are connected.
+The cities QNVYXJSBPS and QMPZGEBUEO are not connected.
 The distance between the cities EOFGUAXWOJ and VVYJPGMQOA is 675
-The cities EOFGUAXWOJ and VVYJPGMQOA are connected.
+The cities EOFGUAXWOJ and VVYJPGMQOA are not connected.
 No edge exists between the cities IQPXTOBZKF and GACDWTIYJR
-The cities IQPXTOBZKF and GACDWTIYJR are connected.
+The cities IQPXTOBZKF and GACDWTIYJR are not connected.
 No edge exists between the cities PXJPQZOXWH and XBKBTPGUXY
 The cities PXJPQZOXWH and XBKBTPGUXY are not connected.
 The distance between the cities VIEGYVQBGS and MUQWXIRLCO is 348
-The cities VIEGYVQBGS and MUQWXIRLCO are connected.
+The cities VIEGYVQBGS and MUQWXIRLCO are not connected.
 No edge exists between the cities RXHBBEJKBI and LIBKVLRVCS
 The cities RXHBBEJKBI and LIBKVLRVCS are not connected.
 The distance between the cities JNRLGLUBGB and GMYZKCNMHM is 947
-The cities JNRLGLUBGB and GMYZKCNMHM are connected.
+The cities JNRLGLUBGB and GMYZKCNMHM are not connected.
 The distance between the cities FKWCGGVVJT and PLWWUFMRYE is 231
-The cities FKWCGGVVJT and PLWWUFMRYE are connected.
+The cities FKWCGGVVJT and PLWWUFMRYE are not connected.
 No edge exists between the cities WXLLHUWNMB and PGLQMDSALV
-The cities WXLLHUWNMB and PGLQMDSALV are connected.
+The cities WXLLHUWNMB and PGLQMDSALV are not connected.
 No edge exists between the cities IWRLCYWTCH and KFORLGQYNF
-The cities IWRLCYWTCH and KFORLGQYNF are connected.
+The cities IWRLCYWTCH and KFORLGQYNF are not connected.
 No edge exists between the cities NPPNAHGENQ and LRPEPDUMJW
-The cities NPPNAHGENQ and LRPEPDUMJW are connected.
+The cities NPPNAHGENQ and LRPEPDUMJW are not connected.
 No edge exists between the cities ANQRKUEGIB and WXLLHUWNMB
-The cities ANQRKUEGIB and WXLLHUWNMB are connected.
+The cities ANQRKUEGIB and WXLLHUWNMB are not connected.
 No edge exists between the cities KNMEUNVWFL and VMNASMCXXF
-The cities KNMEUNVWFL and VMNASMCXXF are connected.
+The cities KNMEUNVWFL and VMNASMCXXF are not connected.
 No edge exists between the cities IGHNYLQEDT and GMYZKCNMHM
 The cities IGHNYLQEDT and GMYZKCNMHM are not connected.
 No edge exists between the cities IQPXTOBZKF and RIACTLWTHA
-The cities IQPXTOBZKF and RIACTLWTHA are connected.
+The cities IQPXTOBZKF and RIACTLWTHA are not connected.
 No edge exists between the cities RBBGXPNQMH and QHBHKDZVHU
 The cities RBBGXPNQMH and QHBHKDZVHU are not connected.
 No edge exists between the cities UAKYDLGGNF and KQYTVQKMGY
-The cities UAKYDLGGNF and KQYTVQKMGY are connected.
+The cities UAKYDLGGNF and KQYTVQKMGY are not connected.
 No edge exists between the cities VXWCNLHPKD and MUQWXIRLCO
-The cities VXWCNLHPKD and MUQWXIRLCO are connected.
+The cities VXWCNLHPKD and MUQWXIRLCO are not connected.
 No edge exists between the cities SKAFGQFLOJ and EIACGTMSXT
 The cities SKAFGQFLOJ and EIACGTMSXT are connected.
 No edge exists between the cities QVRITICNRQ and SGBRGOLFJJ
-The cities QVRITICNRQ and SGBRGOLFJJ are connected.
+The cities QVRITICNRQ and SGBRGOLFJJ are not connected.
 No edge exists between the cities JQBZZQUZYP and UOACQZZSJC
-The cities JQBZZQUZYP and UOACQZZSJC are connected.
+The cities JQBZZQUZYP and UOACQZZSJC are not connected.
 No edge exists between the cities BDEVXFYMXR and QXCEECNVFB
-The cities BDEVXFYMXR and QXCEECNVFB are connected.
+The cities BDEVXFYMXR and QXCEECNVFB are not connected.
 No edge exists between the cities IGHNYLQEDT and QLWZPHASRE
 The cities IGHNYLQEDT and QLWZPHASRE are not connected.
 No edge exists between the cities PLAPISWMQT and LDOYJKHYDW
-The cities PLAPISWMQT and LDOYJKHYDW are connected.
+The cities PLAPISWMQT and LDOYJKHYDW are not connected.
 No edge exists between the cities RSMTGOROUX and BLSNHZYYJQ
 The cities RSMTGOROUX and BLSNHZYYJQ are connected.
 No edge exists between the cities OSWYMAOXSI and XYSHLRPWOR
-The cities OSWYMAOXSI and XYSHLRPWOR are connected.
+The cities OSWYMAOXSI and XYSHLRPWOR are not connected.
 No edge exists between the cities KNMEUNVWFL and TEOUGEDKBC
-The cities KNMEUNVWFL and TEOUGEDKBC are connected.
+The cities KNMEUNVWFL and TEOUGEDKBC are not connected.
 No edge exists between the cities MCZSRROUFE and VRFCAEWWUE
 The cities MCZSRROUFE and VRFCAEWWUE are not connected.
 The distance between the cities BTYWWHCUOB and CHZHZGUDCL is 920
-The cities BTYWWHCUOB and CHZHZGUDCL are connected.
+The cities BTYWWHCUOB and CHZHZGUDCL are not connected.
 No edge exists between the cities IGHNYLQEDT and JQBZZQUZYP
 The cities IGHNYLQEDT and JQBZZQUZYP are not connected.
 No edge exists between the cities FDNQTXQLDI and ORXYIVQSOV
-The cities FDNQTXQLDI and ORXYIVQSOV are connected.
+The cities FDNQTXQLDI and ORXYIVQSOV are not connected.
 No edge exists between the cities WEPECMMUGX and NNGPSYCEFU
-The cities WEPECMMUGX and NNGPSYCEFU are connected.
+The cities WEPECMMUGX and NNGPSYCEFU are not connected.
 No edge exists between the cities VMNASMCXXF and BVMELBXEPY
-The cities VMNASMCXXF and BVMELBXEPY are connected.
+The cities VMNASMCXXF and BVMELBXEPY are not connected.
 No edge exists between the cities TOHYNTPFQI and QXCEECNVFB
-The cities TOHYNTPFQI and QXCEECNVFB are connected.
+The cities TOHYNTPFQI and QXCEECNVFB are not connected.
 No edge exists between the cities KVCHUMDPBZ and GPXHTAZITE
 The cities KVCHUMDPBZ and GPXHTAZITE are not connected.
 No edge exists between the cities EZDALDBNCJ and QLWZPHASRE
 The cities EZDALDBNCJ and QLWZPHASRE are not connected.
 The distance between the cities EIACGTMSXT and NGDOJOMWAL is 291
-The cities EIACGTMSXT and NGDOJOMWAL are connected.
+The cities EIACGTMSXT and NGDOJOMWAL are not connected.
 No edge exists between the cities VVYIZAVXLN and PFHPTPMGPZ
 The cities VVYIZAVXLN and PFHPTPMGPZ are not connected.
 No edge exists between the cities CHZHZGUDCL and JQBZZQUZYP
-The cities CHZHZGUDCL and JQBZZQUZYP are connected.
+The cities CHZHZGUDCL and JQBZZQUZYP are not connected.
 No edge exists between the cities NCTOSUYUMM and LKBTTPKGAL
-The cities NCTOSUYUMM and LKBTTPKGAL are connected.
+The cities NCTOSUYUMM and LKBTTPKGAL are not connected.
 No edge exists between the cities YGVBEKNOBY and PLAPISWMQT
-The cities YGVBEKNOBY and PLAPISWMQT are connected.
+The cities YGVBEKNOBY and PLAPISWMQT are not connected.
 No edge exists between the cities OTYZERVHPJ and VMHZZZNDRX
-The cities OTYZERVHPJ and VMHZZZNDRX are connected.
+The cities OTYZERVHPJ and VMHZZZNDRX are not connected.
 No edge exists between the cities VMNASMCXXF and GPXHTAZITE
-The cities VMNASMCXXF and GPXHTAZITE are connected.
+The cities VMNASMCXXF and GPXHTAZITE are not connected.
 No edge exists between the cities IUQJDTQQQF and CHZHZGUDCL
-The cities IUQJDTQQQF and CHZHZGUDCL are connected.
+The cities IUQJDTQQQF and CHZHZGUDCL are not connected.
 No edge exists between the cities EZDALDBNCJ and PXJPQZOXWH
-The cities EZDALDBNCJ and PXJPQZOXWH are connected.
+The cities EZDALDBNCJ and PXJPQZOXWH are not connected.
 No edge exists between the cities VVYJPGMQOA and ORXYIVQSOV
-The cities VVYJPGMQOA and ORXYIVQSOV are connected.
+The cities VVYJPGMQOA and ORXYIVQSOV are not connected.
 No edge exists between the cities OWSTZHMWZL and UOACQZZSJC
-The cities OWSTZHMWZL and UOACQZZSJC are connected.
+The cities OWSTZHMWZL and UOACQZZSJC are not connected.
 The distance between the cities VRFCAEWWUE and OIVJBSATBQ is 758
-The cities VRFCAEWWUE and OIVJBSATBQ are connected.
+The cities VRFCAEWWUE and OIVJBSATBQ are not connected.
 No edge exists between the cities SKAFGQFLOJ and BLSNHZYYJQ
-The cities SKAFGQFLOJ and BLSNHZYYJQ are connected.
+The cities SKAFGQFLOJ and BLSNHZYYJQ are not connected.
 No edge exists between the cities HBNNCYQVHI and MUQWXIRLCO
-The cities HBNNCYQVHI and MUQWXIRLCO are connected.
+The cities HBNNCYQVHI and MUQWXIRLCO are not connected.
 No edge exists between the cities WXLLHUWNMB and QHBHKDZVHU
 The cities WXLLHUWNMB and QHBHKDZVHU are not connected.
 No edge exists between the cities BTYWWHCUOB and NGDOJOMWAL
-The cities BTYWWHCUOB and NGDOJOMWAL are connected.
+The cities BTYWWHCUOB and NGDOJOMWAL are not connected.
 The distance between the cities WXLLHUWNMB and NGDOJOMWAL is 611
-The cities WXLLHUWNMB and NGDOJOMWAL are connected.
+The cities WXLLHUWNMB and NGDOJOMWAL are not connected.
 No edge exists between the cities CHZHZGUDCL and OIVJBSATBQ
 The cities CHZHZGUDCL and OIVJBSATBQ are not connected.
 No edge exists between the cities PGLQMDSALV and VVYIZAVXLN
 The cities PGLQMDSALV and VVYIZAVXLN are not connected.
 No edge exists between the cities UOACQZZSJC and QXCEECNVFB
-The cities UOACQZZSJC and QXCEECNVFB are connected.
+The cities UOACQZZSJC and QXCEECNVFB are not connected.
 No edge exists between the cities PGLQMDSALV and BZZDSCMDGW
 The cities PGLQMDSALV and BZZDSCMDGW are not connected.
 The distance between the cities IQPXTOBZKF and QMPZGEBUEO is 119
-The cities IQPXTOBZKF and QMPZGEBUEO are connected.
+The cities IQPXTOBZKF and QMPZGEBUEO are not connected.
 The distance between the cities CMEDWESAZB and PGLQMDSALV is 166
-The cities CMEDWESAZB and PGLQMDSALV are connected.
+The cities CMEDWESAZB and PGLQMDSALV are not connected.
 No edge exists between the cities PGLQMDSALV and BZZDSCMDGW
 The cities PGLQMDSALV and BZZDSCMDGW are not connected.
 No edge exists between the cities KDHIJELYNQ and ACUQVRUVEP
 The cities KDHIJELYNQ and ACUQVRUVEP are not connected.
 No edge exists between the cities KFORLGQYNF and SECYLKVISX
-The cities KFORLGQYNF and SECYLKVISX are connected.
+The cities KFORLGQYNF and SECYLKVISX are not connected.
 No edge exists between the cities OTYZERVHPJ and BLSNHZYYJQ
-The cities OTYZERVHPJ and BLSNHZYYJQ are connected.
+The cities OTYZERVHPJ and BLSNHZYYJQ are not connected.
 The distance between the cities XIYTTSJLJY and UAKYDLGGNF is 682
-The cities XIYTTSJLJY and UAKYDLGGNF are connected.
+The cities XIYTTSJLJY and UAKYDLGGNF are not connected.
 The distance between the cities DWGAYPLDOC and BVMELBXEPY is 296
-The cities DWGAYPLDOC and BVMELBXEPY are connected.
+The cities DWGAYPLDOC and BVMELBXEPY are not connected.
 The distance between the cities WDBVYIAYMZ and VIEGYVQBGS is 169
-The cities WDBVYIAYMZ and VIEGYVQBGS are connected.
+The cities WDBVYIAYMZ and VIEGYVQBGS are not connected.
 The distance between the cities DWGAYPLDOC and EOFGUAXWOJ is 160
-The cities DWGAYPLDOC and EOFGUAXWOJ are connected.
+The cities DWGAYPLDOC and EOFGUAXWOJ are not connected.
 No edge exists between the cities VRMVCAUMWK and UOACQZZSJC
-The cities VRMVCAUMWK and UOACQZZSJC are connected.
+The cities VRMVCAUMWK and UOACQZZSJC are not connected.
 The distance between the cities NPPNAHGENQ and MSIZISKWQV is 639
-The cities NPPNAHGENQ and MSIZISKWQV are connected.
+The cities NPPNAHGENQ and MSIZISKWQV are not connected.
 The distance between the cities OWSTZHMWZL and IUQJDTQQQF is 607
-The cities OWSTZHMWZL and IUQJDTQQQF are connected.
+The cities OWSTZHMWZL and IUQJDTQQQF are not connected.
 No edge exists between the cities BVMELBXEPY and DLCQJVHBCG
-The cities BVMELBXEPY and DLCQJVHBCG are connected.
+The cities BVMELBXEPY and DLCQJVHBCG are not connected.
 No edge exists between the cities RSMTGOROUX and CMEDWESAZB
 The cities RSMTGOROUX and CMEDWESAZB are connected.
 No edge exists between the cities OSWYMAOXSI and NCTOSUYUMM
 The cities OSWYMAOXSI and NCTOSUYUMM are not connected.
 The distance between the cities PLWWUFMRYE and MCZSRROUFE is 687
-The cities PLWWUFMRYE and MCZSRROUFE are connected.
+The cities PLWWUFMRYE and MCZSRROUFE are not connected.
 No edge exists between the cities ACUQVRUVEP and KNMEUNVWFL
-The cities ACUQVRUVEP and KNMEUNVWFL are connected.
+The cities ACUQVRUVEP and KNMEUNVWFL are not connected.
 No edge exists between the cities KQYTVQKMGY and TFPLRYLPSO
-The cities KQYTVQKMGY and TFPLRYLPSO are connected.
+The cities KQYTVQKMGY and TFPLRYLPSO are not connected.
 No edge exists between the cities OTYZERVHPJ and DMYRYRBKKQ
 The cities OTYZERVHPJ and DMYRYRBKKQ are connected.
 No edge exists between the cities JQBZZQUZYP and TOHYNTPFQI
-The cities JQBZZQUZYP and TOHYNTPFQI are connected.
+The cities JQBZZQUZYP and TOHYNTPFQI are not connected.
 No edge exists between the cities SOQLCETRQO and GMYZKCNMHM
-The cities SOQLCETRQO and GMYZKCNMHM are connected.
+The cities SOQLCETRQO and GMYZKCNMHM are not connected.
 The distance between the cities VRFCAEWWUE and LJHHCZQAOQ is 690
-The cities VRFCAEWWUE and LJHHCZQAOQ are connected.
+The cities VRFCAEWWUE and LJHHCZQAOQ are not connected.
 No edge exists between the cities LKBTTPKGAL and OAXIDDKIBR
-The cities LKBTTPKGAL and OAXIDDKIBR are connected.
+The cities LKBTTPKGAL and OAXIDDKIBR are not connected.
 No edge exists between the cities WDBVYIAYMZ and QSPCBCZLPT
 The cities WDBVYIAYMZ and QSPCBCZLPT are not connected.
 The distance between the cities VVYJPGMQOA and QXCEECNVFB is 73
-The cities VVYJPGMQOA and QXCEECNVFB are connected.
+The cities VVYJPGMQOA and QXCEECNVFB are not connected.
 No edge exists between the cities QLWZPHASRE and SOQLCETRQO
-The cities QLWZPHASRE and SOQLCETRQO are connected.
+The cities QLWZPHASRE and SOQLCETRQO are not connected.
 No edge exists between the cities BVMELBXEPY and CMEDWESAZB
 The cities BVMELBXEPY and CMEDWESAZB are connected.
 The distance between the cities PLAPISWMQT and GACDWTIYJR is 325
-The cities PLAPISWMQT and GACDWTIYJR are connected.
+The cities PLAPISWMQT and GACDWTIYJR are not connected.
 The distance between the cities MCZSRROUFE and OKMUPXOLEL is 971
-The cities MCZSRROUFE and OKMUPXOLEL are connected.
+The cities MCZSRROUFE and OKMUPXOLEL are not connected.
 No edge exists between the cities WXLLHUWNMB and LIBKVLRVCS
-The cities WXLLHUWNMB and LIBKVLRVCS are connected.
+The cities WXLLHUWNMB and LIBKVLRVCS are not connected.
 No edge exists between the cities VMNASMCXXF and BTYWWHCUOB
-The cities VMNASMCXXF and BTYWWHCUOB are connected.
+The cities VMNASMCXXF and BTYWWHCUOB are not connected.
 No edge exists between the cities VXWCNLHPKD and NCTOSUYUMM
-The cities VXWCNLHPKD and NCTOSUYUMM are connected.
+The cities VXWCNLHPKD and NCTOSUYUMM are not connected.
 No edge exists between the cities FDNQTXQLDI and YGVBEKNOBY
-The cities FDNQTXQLDI and YGVBEKNOBY are connected.
+The cities FDNQTXQLDI and YGVBEKNOBY are not connected.
 No edge exists between the cities JJHMKPWAWI and BEVSOWUDIY
-The cities JJHMKPWAWI and BEVSOWUDIY are connected.
+The cities JJHMKPWAWI and BEVSOWUDIY are not connected.
 No edge exists between the cities CHZHZGUDCL and RSMTGOROUX
-The cities CHZHZGUDCL and RSMTGOROUX are connected.
+The cities CHZHZGUDCL and RSMTGOROUX are not connected.
 No edge exists between the cities BZVJLJHMQR and WOQDBNPLFM
-The cities BZVJLJHMQR and WOQDBNPLFM are connected.
+The cities BZVJLJHMQR and WOQDBNPLFM are not connected.
 No edge exists between the cities PXJPQZOXWH and VXWCNLHPKD
 The cities PXJPQZOXWH and VXWCNLHPKD are not connected.
 No edge exists between the cities LJHHCZQAOQ and NPPNAHGENQ
-The cities LJHHCZQAOQ and NPPNAHGENQ are connected.
+The cities LJHHCZQAOQ and NPPNAHGENQ are not connected.
 No edge exists between the cities SHEKDXKTWP and KDHIJELYNQ
-The cities SHEKDXKTWP and KDHIJELYNQ are connected.
+The cities SHEKDXKTWP and KDHIJELYNQ are not connected.
 No edge exists between the cities OAXIDDKIBR and EIACGTMSXT
-The cities OAXIDDKIBR and EIACGTMSXT are connected.
+The cities OAXIDDKIBR and EIACGTMSXT are not connected.
 No edge exists between the cities NCTOSUYUMM and IUQJDTQQQF
-The cities NCTOSUYUMM and IUQJDTQQQF are connected.
+The cities NCTOSUYUMM and IUQJDTQQQF are not connected.
 No edge exists between the cities BVMELBXEPY and MCZSRROUFE
-The cities BVMELBXEPY and MCZSRROUFE are connected.
+The cities BVMELBXEPY and MCZSRROUFE are not connected.
 No edge exists between the cities JNRLGLUBGB and YGVBEKNOBY
-The cities JNRLGLUBGB and YGVBEKNOBY are connected.
+The cities JNRLGLUBGB and YGVBEKNOBY are not connected.
 No edge exists between the cities VMHZZZNDRX and MSIZISKWQV
 The cities VMHZZZNDRX and MSIZISKWQV are connected.
 No edge exists between the cities NNDTYWSQSG and MSIZISKWQV
 The cities NNDTYWSQSG and MSIZISKWQV are connected.
 No edge exists between the cities MDFMKVEWWB and BTYWWHCUOB
-The cities MDFMKVEWWB and BTYWWHCUOB are connected.
+The cities MDFMKVEWWB and BTYWWHCUOB are not connected.
 No edge exists between the cities RBBGXPNQMH and SECYLKVISX
-The cities RBBGXPNQMH and SECYLKVISX are connected.
+The cities RBBGXPNQMH and SECYLKVISX are not connected.
 No edge exists between the cities RIACTLWTHA and BLSNHZYYJQ
-The cities RIACTLWTHA and BLSNHZYYJQ are connected.
+The cities RIACTLWTHA and BLSNHZYYJQ are not connected.
 No edge exists between the cities QLWZPHASRE and FDNQTXQLDI
-The cities QLWZPHASRE and FDNQTXQLDI are connected.
+The cities QLWZPHASRE and FDNQTXQLDI are not connected.
 The distance between the cities RIACTLWTHA and MSIZISKWQV is 625
-The cities RIACTLWTHA and MSIZISKWQV are connected.
+The cities RIACTLWTHA and MSIZISKWQV are not connected.
 The distance between the cities BTYWWHCUOB and MUQWXIRLCO is 589
-The cities BTYWWHCUOB and MUQWXIRLCO are connected.
+The cities BTYWWHCUOB and MUQWXIRLCO are not connected.
 No edge exists between the cities IUQJDTQQQF and EAWXGNERED
-The cities IUQJDTQQQF and EAWXGNERED are connected.
+The cities IUQJDTQQQF and EAWXGNERED are not connected.
 No edge exists between the cities YGVBEKNOBY and DKFBGQMKMA
-The cities YGVBEKNOBY and DKFBGQMKMA are connected.
+The cities YGVBEKNOBY and DKFBGQMKMA are not connected.
 No edge exists between the cities LKBTTPKGAL and VVYJPGMQOA
 The cities LKBTTPKGAL and VVYJPGMQOA are not connected.
 No edge exists between the cities QLWZPHASRE and KVCHUMDPBZ
@@ -5526,43 +5526,43 @@ The cities QLWZPHASRE and KVCHUMDPBZ are not connected.
 No edge exists between the cities LIBKVLRVCS and SOQLCETRQO
 The cities LIBKVLRVCS and SOQLCETRQO are not connected.
 No edge exists between the cities BDEVXFYMXR and SGBRGOLFJJ
-The cities BDEVXFYMXR and SGBRGOLFJJ are connected.
+The cities BDEVXFYMXR and SGBRGOLFJJ are not connected.
 The distance between the cities SGBRGOLFJJ and NCTOSUYUMM is 499
-The cities SGBRGOLFJJ and NCTOSUYUMM are connected.
+The cities SGBRGOLFJJ and NCTOSUYUMM are not connected.
 No edge exists between the cities GACDWTIYJR and IGHNYLQEDT
-The cities GACDWTIYJR and IGHNYLQEDT are connected.
+The cities GACDWTIYJR and IGHNYLQEDT are not connected.
 No edge exists between the cities BZVJLJHMQR and VRFCAEWWUE
-The cities BZVJLJHMQR and VRFCAEWWUE are connected.
+The cities BZVJLJHMQR and VRFCAEWWUE are not connected.
 No edge exists between the cities DLCQJVHBCG and RSMTGOROUX
 The cities DLCQJVHBCG and RSMTGOROUX are connected.
 No edge exists between the cities QSPCBCZLPT and VIEGYVQBGS
-The cities QSPCBCZLPT and VIEGYVQBGS are connected.
+The cities QSPCBCZLPT and VIEGYVQBGS are not connected.
 No edge exists between the cities PFWLJAUZVO and VIEGYVQBGS
-The cities PFWLJAUZVO and VIEGYVQBGS are connected.
+The cities PFWLJAUZVO and VIEGYVQBGS are not connected.
 No edge exists between the cities SKAFGQFLOJ and PGLQMDSALV
-The cities SKAFGQFLOJ and PGLQMDSALV are connected.
+The cities SKAFGQFLOJ and PGLQMDSALV are not connected.
 The distance between the cities ASNIFVVIQU and DMYRYRBKKQ is 209
-The cities ASNIFVVIQU and DMYRYRBKKQ are connected.
+The cities ASNIFVVIQU and DMYRYRBKKQ are not connected.
 No edge exists between the cities LIBKVLRVCS and SECYLKVISX
-The cities LIBKVLRVCS and SECYLKVISX are connected.
+The cities LIBKVLRVCS and SECYLKVISX are not connected.
 No edge exists between the cities BLSNHZYYJQ and JQBZZQUZYP
-The cities BLSNHZYYJQ and JQBZZQUZYP are connected.
+The cities BLSNHZYYJQ and JQBZZQUZYP are not connected.
 The distance between the cities DIGKPAPMTO and MCZSRROUFE is 46
-The cities DIGKPAPMTO and MCZSRROUFE are connected.
+The cities DIGKPAPMTO and MCZSRROUFE are not connected.
 No edge exists between the cities KFORLGQYNF and EZDALDBNCJ
 The cities KFORLGQYNF and EZDALDBNCJ are connected.
 No edge exists between the cities HMEBYSUOMG and NCTOSUYUMM
 The cities HMEBYSUOMG and NCTOSUYUMM are connected.
 No edge exists between the cities VVYIZAVXLN and PXJPQZOXWH
-The cities VVYIZAVXLN and PXJPQZOXWH are connected.
+The cities VVYIZAVXLN and PXJPQZOXWH are not connected.
 The distance between the cities IUQJDTQQQF and TEOUGEDKBC is 156
-The cities IUQJDTQQQF and TEOUGEDKBC are connected.
+The cities IUQJDTQQQF and TEOUGEDKBC are not connected.
 No edge exists between the cities MCZSRROUFE and MKQZEQTYLD
 The cities MCZSRROUFE and MKQZEQTYLD are not connected.
 No edge exists between the cities SHEKDXKTWP and PGLQMDSALV
-The cities SHEKDXKTWP and PGLQMDSALV are connected.
+The cities SHEKDXKTWP and PGLQMDSALV are not connected.
 No edge exists between the cities JJHMKPWAWI and NNDTYWSQSG
-The cities JJHMKPWAWI and NNDTYWSQSG are connected.
+The cities JJHMKPWAWI and NNDTYWSQSG are not connected.
 No edge exists between the cities BEVSOWUDIY and QVRITICNRQ
 The cities BEVSOWUDIY and QVRITICNRQ are not connected.
 No edge exists between the cities EAWXGNERED and DIGKPAPMTO
@@ -5570,445 +5570,445 @@ The cities EAWXGNERED and DIGKPAPMTO are connected.
 No edge exists between the cities IQPXTOBZKF and GPXHTAZITE
 The cities IQPXTOBZKF and GPXHTAZITE are not connected.
 No edge exists between the cities YGVBEKNOBY and GMYZKCNMHM
-The cities YGVBEKNOBY and GMYZKCNMHM are connected.
+The cities YGVBEKNOBY and GMYZKCNMHM are not connected.
 No edge exists between the cities RBGKLOQXWK and QVRITICNRQ
-The cities RBGKLOQXWK and QVRITICNRQ are connected.
+The cities RBGKLOQXWK and QVRITICNRQ are not connected.
 No edge exists between the cities QSPCBCZLPT and FRTOKGYQTA
 The cities QSPCBCZLPT and FRTOKGYQTA are connected.
 No edge exists between the cities BEVSOWUDIY and EOFGUAXWOJ
 The cities BEVSOWUDIY and EOFGUAXWOJ are not connected.
 The distance between the cities VRMVCAUMWK and MKQZEQTYLD is 151
-The cities VRMVCAUMWK and MKQZEQTYLD are connected.
+The cities VRMVCAUMWK and MKQZEQTYLD are not connected.
 No edge exists between the cities LDOYJKHYDW and SHEKDXKTWP
-The cities LDOYJKHYDW and SHEKDXKTWP are connected.
+The cities LDOYJKHYDW and SHEKDXKTWP are not connected.
 No edge exists between the cities EZDALDBNCJ and FRTOKGYQTA
-The cities EZDALDBNCJ and FRTOKGYQTA are connected.
+The cities EZDALDBNCJ and FRTOKGYQTA are not connected.
 No edge exists between the cities WEPECMMUGX and VRMVCAUMWK
-The cities WEPECMMUGX and VRMVCAUMWK are connected.
+The cities WEPECMMUGX and VRMVCAUMWK are not connected.
 No edge exists between the cities GMYZKCNMHM and EZDALDBNCJ
 The cities GMYZKCNMHM and EZDALDBNCJ are connected.
 No edge exists between the cities PLWWUFMRYE and XYSHLRPWOR
-The cities PLWWUFMRYE and XYSHLRPWOR are connected.
+The cities PLWWUFMRYE and XYSHLRPWOR are not connected.
 No edge exists between the cities KDHIJELYNQ and QVRITICNRQ
 The cities KDHIJELYNQ and QVRITICNRQ are not connected.
 No edge exists between the cities KVCHUMDPBZ and LDOYJKHYDW
 The cities KVCHUMDPBZ and LDOYJKHYDW are not connected.
 The distance between the cities BDEVXFYMXR and QMPZGEBUEO is 12
-The cities BDEVXFYMXR and QMPZGEBUEO are connected.
+The cities BDEVXFYMXR and QMPZGEBUEO are not connected.
 No edge exists between the cities PXJPQZOXWH and TOHYNTPFQI
 The cities PXJPQZOXWH and TOHYNTPFQI are not connected.
 No edge exists between the cities OSWYMAOXSI and NNDTYWSQSG
-The cities OSWYMAOXSI and NNDTYWSQSG are connected.
+The cities OSWYMAOXSI and NNDTYWSQSG are not connected.
 No edge exists between the cities LDOYJKHYDW and TOHYNTPFQI
-The cities LDOYJKHYDW and TOHYNTPFQI are connected.
+The cities LDOYJKHYDW and TOHYNTPFQI are not connected.
 No edge exists between the cities XIYTTSJLJY and PXJPQZOXWH
-The cities XIYTTSJLJY and PXJPQZOXWH are connected.
+The cities XIYTTSJLJY and PXJPQZOXWH are not connected.
 The distance between the cities GMYZKCNMHM and ACUQVRUVEP is 680
-The cities GMYZKCNMHM and ACUQVRUVEP are connected.
+The cities GMYZKCNMHM and ACUQVRUVEP are not connected.
 The distance between the cities NNGPSYCEFU and BZVJLJHMQR is 680
-The cities NNGPSYCEFU and BZVJLJHMQR are connected.
+The cities NNGPSYCEFU and BZVJLJHMQR are not connected.
 No edge exists between the cities LJHHCZQAOQ and BLSNHZYYJQ
-The cities LJHHCZQAOQ and BLSNHZYYJQ are connected.
+The cities LJHHCZQAOQ and BLSNHZYYJQ are not connected.
 No edge exists between the cities BZVJLJHMQR and KFORLGQYNF
-The cities BZVJLJHMQR and KFORLGQYNF are connected.
+The cities BZVJLJHMQR and KFORLGQYNF are not connected.
 No edge exists between the cities GACDWTIYJR and ZKDEUSXDYW
-The cities GACDWTIYJR and ZKDEUSXDYW are connected.
+The cities GACDWTIYJR and ZKDEUSXDYW are not connected.
 No edge exists between the cities BTYWWHCUOB and GPXHTAZITE
-The cities BTYWWHCUOB and GPXHTAZITE are connected.
+The cities BTYWWHCUOB and GPXHTAZITE are not connected.
 No edge exists between the cities CHZHZGUDCL and PLWWUFMRYE
 The cities CHZHZGUDCL and PLWWUFMRYE are connected.
 No edge exists between the cities DMYRYRBKKQ and VIEGYVQBGS
-The cities DMYRYRBKKQ and VIEGYVQBGS are connected.
+The cities DMYRYRBKKQ and VIEGYVQBGS are not connected.
 The distance between the cities GACDWTIYJR and QHBHKDZVHU is 687
-The cities GACDWTIYJR and QHBHKDZVHU are connected.
+The cities GACDWTIYJR and QHBHKDZVHU are not connected.
 No edge exists between the cities VRFCAEWWUE and HBNNCYQVHI
 The cities VRFCAEWWUE and HBNNCYQVHI are not connected.
 The distance between the cities LRPEPDUMJW and EAWXGNERED is 825
-The cities LRPEPDUMJW and EAWXGNERED are connected.
+The cities LRPEPDUMJW and EAWXGNERED are not connected.
 No edge exists between the cities EAWXGNERED and OWSTZHMWZL
-The cities EAWXGNERED and OWSTZHMWZL are connected.
+The cities EAWXGNERED and OWSTZHMWZL are not connected.
 No edge exists between the cities OSWYMAOXSI and FKWCGGVVJT
 The cities OSWYMAOXSI and FKWCGGVVJT are not connected.
 No edge exists between the cities QVRITICNRQ and XBKBTPGUXY
-The cities QVRITICNRQ and XBKBTPGUXY are connected.
+The cities QVRITICNRQ and XBKBTPGUXY are not connected.
 No edge exists between the cities RBBGXPNQMH and KDHIJELYNQ
-The cities RBBGXPNQMH and KDHIJELYNQ are connected.
+The cities RBBGXPNQMH and KDHIJELYNQ are not connected.
 No edge exists between the cities GACDWTIYJR and JNRLGLUBGB
-The cities GACDWTIYJR and JNRLGLUBGB are connected.
+The cities GACDWTIYJR and JNRLGLUBGB are not connected.
 No edge exists between the cities NGDOJOMWAL and LRPEPDUMJW
-The cities NGDOJOMWAL and LRPEPDUMJW are connected.
+The cities NGDOJOMWAL and LRPEPDUMJW are not connected.
 No edge exists between the cities UAKYDLGGNF and YBRSVCCNHT
 The cities UAKYDLGGNF and YBRSVCCNHT are not connected.
 No edge exists between the cities KNMEUNVWFL and TFPLRYLPSO
-The cities KNMEUNVWFL and TFPLRYLPSO are connected.
+The cities KNMEUNVWFL and TFPLRYLPSO are not connected.
 No edge exists between the cities OAXIDDKIBR and QLWZPHASRE
-The cities OAXIDDKIBR and QLWZPHASRE are connected.
+The cities OAXIDDKIBR and QLWZPHASRE are not connected.
 No edge exists between the cities BZZDSCMDGW and SGBRGOLFJJ
-The cities BZZDSCMDGW and SGBRGOLFJJ are connected.
+The cities BZZDSCMDGW and SGBRGOLFJJ are not connected.
 No edge exists between the cities XBKBTPGUXY and SIWIHHTGGV
-The cities XBKBTPGUXY and SIWIHHTGGV are connected.
+The cities XBKBTPGUXY and SIWIHHTGGV are not connected.
 No edge exists between the cities GMYZKCNMHM and PXJPQZOXWH
-The cities GMYZKCNMHM and PXJPQZOXWH are connected.
+The cities GMYZKCNMHM and PXJPQZOXWH are not connected.
 No edge exists between the cities QSPCBCZLPT and ORXYIVQSOV
 The cities QSPCBCZLPT and ORXYIVQSOV are connected.
 No edge exists between the cities UAKYDLGGNF and NNGPSYCEFU
-The cities UAKYDLGGNF and NNGPSYCEFU are connected.
+The cities UAKYDLGGNF and NNGPSYCEFU are not connected.
 No edge exists between the cities DLCQJVHBCG and OAXIDDKIBR
-The cities DLCQJVHBCG and OAXIDDKIBR are connected.
+The cities DLCQJVHBCG and OAXIDDKIBR are not connected.
 No edge exists between the cities DKFBGQMKMA and QVRITICNRQ
 The cities DKFBGQMKMA and QVRITICNRQ are connected.
 No edge exists between the cities ZKDEUSXDYW and MUQWXIRLCO
-The cities ZKDEUSXDYW and MUQWXIRLCO are connected.
+The cities ZKDEUSXDYW and MUQWXIRLCO are not connected.
 The distance between the cities WXLLHUWNMB and NGDOJOMWAL is 611
-The cities WXLLHUWNMB and NGDOJOMWAL are connected.
+The cities WXLLHUWNMB and NGDOJOMWAL are not connected.
 No edge exists between the cities KFORLGQYNF and KQYTVQKMGY
 The cities KFORLGQYNF and KQYTVQKMGY are not connected.
 No edge exists between the cities DLCQJVHBCG and LGUJVAHJIW
-The cities DLCQJVHBCG and LGUJVAHJIW are connected.
+The cities DLCQJVHBCG and LGUJVAHJIW are not connected.
 No edge exists between the cities OIVJBSATBQ and RSMTGOROUX
-The cities OIVJBSATBQ and RSMTGOROUX are connected.
+The cities OIVJBSATBQ and RSMTGOROUX are not connected.
 No edge exists between the cities EOFGUAXWOJ and ACUQVRUVEP
-The cities EOFGUAXWOJ and ACUQVRUVEP are connected.
+The cities EOFGUAXWOJ and ACUQVRUVEP are not connected.
 No edge exists between the cities EZDALDBNCJ and VMHZZZNDRX
-The cities EZDALDBNCJ and VMHZZZNDRX are connected.
+The cities EZDALDBNCJ and VMHZZZNDRX are not connected.
 No edge exists between the cities KQYTVQKMGY and QNVYXJSBPS
-The cities KQYTVQKMGY and QNVYXJSBPS are connected.
+The cities KQYTVQKMGY and QNVYXJSBPS are not connected.
 No edge exists between the cities KNMEUNVWFL and BDEVXFYMXR
-The cities KNMEUNVWFL and BDEVXFYMXR are connected.
+The cities KNMEUNVWFL and BDEVXFYMXR are not connected.
 No edge exists between the cities IQQGEZKKHE and OKMUPXOLEL
 The cities IQQGEZKKHE and OKMUPXOLEL are not connected.
 No edge exists between the cities WXLLHUWNMB and GQNZKWRZSK
 The cities WXLLHUWNMB and GQNZKWRZSK are connected.
 No edge exists between the cities JJHMKPWAWI and BZZDSCMDGW
-The cities JJHMKPWAWI and BZZDSCMDGW are connected.
+The cities JJHMKPWAWI and BZZDSCMDGW are not connected.
 No edge exists between the cities XIYTTSJLJY and BVMELBXEPY
-The cities XIYTTSJLJY and BVMELBXEPY are connected.
+The cities XIYTTSJLJY and BVMELBXEPY are not connected.
 The distance between the cities QSPCBCZLPT and DKFBGQMKMA is 839
-The cities QSPCBCZLPT and DKFBGQMKMA are connected.
+The cities QSPCBCZLPT and DKFBGQMKMA are not connected.
 The distance between the cities BTYWWHCUOB and FKWCGGVVJT is 4
-The cities BTYWWHCUOB and FKWCGGVVJT are connected.
+The cities BTYWWHCUOB and FKWCGGVVJT are not connected.
 No edge exists between the cities GQNZKWRZSK and WXLLHUWNMB
-The cities GQNZKWRZSK and WXLLHUWNMB are connected.
+The cities GQNZKWRZSK and WXLLHUWNMB are not connected.
 No edge exists between the cities EAWXGNERED and VRMVCAUMWK
-The cities EAWXGNERED and VRMVCAUMWK are connected.
+The cities EAWXGNERED and VRMVCAUMWK are not connected.
 The distance between the cities VMHZZZNDRX and VRMVCAUMWK is 100
-The cities VMHZZZNDRX and VRMVCAUMWK are connected.
+The cities VMHZZZNDRX and VRMVCAUMWK are not connected.
 No edge exists between the cities JJHMKPWAWI and NNGPSYCEFU
-The cities JJHMKPWAWI and NNGPSYCEFU are connected.
+The cities JJHMKPWAWI and NNGPSYCEFU are not connected.
 No edge exists between the cities MUQWXIRLCO and QXCEECNVFB
-The cities MUQWXIRLCO and QXCEECNVFB are connected.
+The cities MUQWXIRLCO and QXCEECNVFB are not connected.
 The distance between the cities TFPLRYLPSO and ASNIFVVIQU is 600
-The cities TFPLRYLPSO and ASNIFVVIQU are connected.
+The cities TFPLRYLPSO and ASNIFVVIQU are not connected.
 No edge exists between the cities QSPCBCZLPT and ORXYIVQSOV
 The cities QSPCBCZLPT and ORXYIVQSOV are connected.
 No edge exists between the cities FRTOKGYQTA and EZDALDBNCJ
-The cities FRTOKGYQTA and EZDALDBNCJ are connected.
+The cities FRTOKGYQTA and EZDALDBNCJ are not connected.
 No edge exists between the cities MCZSRROUFE and BVMELBXEPY
-The cities MCZSRROUFE and BVMELBXEPY are connected.
+The cities MCZSRROUFE and BVMELBXEPY are not connected.
 The distance between the cities TFPLRYLPSO and WEPECMMUGX is 224
-The cities TFPLRYLPSO and WEPECMMUGX are connected.
+The cities TFPLRYLPSO and WEPECMMUGX are not connected.
 The distance between the cities EAWXGNERED and RSMTGOROUX is 813
-The cities EAWXGNERED and RSMTGOROUX are connected.
+The cities EAWXGNERED and RSMTGOROUX are not connected.
 The distance between the cities QSPCBCZLPT and SOQLCETRQO is 921
-The cities QSPCBCZLPT and SOQLCETRQO are connected.
+The cities QSPCBCZLPT and SOQLCETRQO are not connected.
 No edge exists between the cities NPPNAHGENQ and GQNZKWRZSK
-The cities NPPNAHGENQ and GQNZKWRZSK are connected.
+The cities NPPNAHGENQ and GQNZKWRZSK are not connected.
 No edge exists between the cities MKQZEQTYLD and JJHMKPWAWI
 The cities MKQZEQTYLD and JJHMKPWAWI are connected.
 No edge exists between the cities RBGKLOQXWK and NNDTYWSQSG
-The cities RBGKLOQXWK and NNDTYWSQSG are connected.
+The cities RBGKLOQXWK and NNDTYWSQSG are not connected.
 No edge exists between the cities LGUJVAHJIW and VRMVCAUMWK
 The cities LGUJVAHJIW and VRMVCAUMWK are not connected.
 No edge exists between the cities GMYZKCNMHM and PFHPTPMGPZ
-The cities GMYZKCNMHM and PFHPTPMGPZ are connected.
+The cities GMYZKCNMHM and PFHPTPMGPZ are not connected.
 No edge exists between the cities QMPZGEBUEO and IQQGEZKKHE
 The cities QMPZGEBUEO and IQQGEZKKHE are not connected.
 No edge exists between the cities GPXHTAZITE and GQNZKWRZSK
-The cities GPXHTAZITE and GQNZKWRZSK are connected.
+The cities GPXHTAZITE and GQNZKWRZSK are not connected.
 No edge exists between the cities BDEVXFYMXR and OKMUPXOLEL
 The cities BDEVXFYMXR and OKMUPXOLEL are connected.
 The distance between the cities SKAFGQFLOJ and GACDWTIYJR is 495
-The cities SKAFGQFLOJ and GACDWTIYJR are connected.
+The cities SKAFGQFLOJ and GACDWTIYJR are not connected.
 No edge exists between the cities DWGAYPLDOC and XIYTTSJLJY
-The cities DWGAYPLDOC and XIYTTSJLJY are connected.
+The cities DWGAYPLDOC and XIYTTSJLJY are not connected.
 The distance between the cities LKBTTPKGAL and JJHMKPWAWI is 61
-The cities LKBTTPKGAL and JJHMKPWAWI are connected.
+The cities LKBTTPKGAL and JJHMKPWAWI are not connected.
 No edge exists between the cities VVYIZAVXLN and RXHBBEJKBI
-The cities VVYIZAVXLN and RXHBBEJKBI are connected.
+The cities VVYIZAVXLN and RXHBBEJKBI are not connected.
 No edge exists between the cities HMEBYSUOMG and GPXHTAZITE
-The cities HMEBYSUOMG and GPXHTAZITE are connected.
+The cities HMEBYSUOMG and GPXHTAZITE are not connected.
 No edge exists between the cities QMPZGEBUEO and MKQZEQTYLD
 The cities QMPZGEBUEO and MKQZEQTYLD are not connected.
 No edge exists between the cities IQQGEZKKHE and SECYLKVISX
 The cities IQQGEZKKHE and SECYLKVISX are not connected.
 No edge exists between the cities JQBZZQUZYP and YGVBEKNOBY
-The cities JQBZZQUZYP and YGVBEKNOBY are connected.
+The cities JQBZZQUZYP and YGVBEKNOBY are not connected.
 No edge exists between the cities QVRITICNRQ and JQBZZQUZYP
-The cities QVRITICNRQ and JQBZZQUZYP are connected.
+The cities QVRITICNRQ and JQBZZQUZYP are not connected.
 No edge exists between the cities SHEKDXKTWP and NNDTYWSQSG
-The cities SHEKDXKTWP and NNDTYWSQSG are connected.
+The cities SHEKDXKTWP and NNDTYWSQSG are not connected.
 No edge exists between the cities MKQZEQTYLD and DMYRYRBKKQ
 The cities MKQZEQTYLD and DMYRYRBKKQ are connected.
 No edge exists between the cities DLCQJVHBCG and PFHPTPMGPZ
 The cities DLCQJVHBCG and PFHPTPMGPZ are connected.
 No edge exists between the cities GPXHTAZITE and VMNASMCXXF
-The cities GPXHTAZITE and VMNASMCXXF are connected.
+The cities GPXHTAZITE and VMNASMCXXF are not connected.
 No edge exists between the cities GACDWTIYJR and VMNASMCXXF
-The cities GACDWTIYJR and VMNASMCXXF are connected.
+The cities GACDWTIYJR and VMNASMCXXF are not connected.
 The distance between the cities MDFMKVEWWB and BZVJLJHMQR is 464
-The cities MDFMKVEWWB and BZVJLJHMQR are connected.
+The cities MDFMKVEWWB and BZVJLJHMQR are not connected.
 The distance between the cities PFHPTPMGPZ and DKFBGQMKMA is 908
-The cities PFHPTPMGPZ and DKFBGQMKMA are connected.
+The cities PFHPTPMGPZ and DKFBGQMKMA are not connected.
 No edge exists between the cities SHEKDXKTWP and IQPXTOBZKF
 The cities SHEKDXKTWP and IQPXTOBZKF are not connected.
 No edge exists between the cities BLSNHZYYJQ and TEOUGEDKBC
-The cities BLSNHZYYJQ and TEOUGEDKBC are connected.
+The cities BLSNHZYYJQ and TEOUGEDKBC are not connected.
 No edge exists between the cities MCZSRROUFE and VRFCAEWWUE
 The cities MCZSRROUFE and VRFCAEWWUE are not connected.
 No edge exists between the cities OSWYMAOXSI and SHEKDXKTWP
-The cities OSWYMAOXSI and SHEKDXKTWP are connected.
+The cities OSWYMAOXSI and SHEKDXKTWP are not connected.
 No edge exists between the cities EIACGTMSXT and HMEBYSUOMG
 The cities EIACGTMSXT and HMEBYSUOMG are not connected.
 No edge exists between the cities MKQZEQTYLD and CHZHZGUDCL
-The cities MKQZEQTYLD and CHZHZGUDCL are connected.
+The cities MKQZEQTYLD and CHZHZGUDCL are not connected.
 No edge exists between the cities CBJRBAAQFV and JQBZZQUZYP
 The cities CBJRBAAQFV and JQBZZQUZYP are not connected.
 No edge exists between the cities MKQZEQTYLD and WEPECMMUGX
 The cities MKQZEQTYLD and WEPECMMUGX are connected.
 No edge exists between the cities HMEBYSUOMG and FDNQTXQLDI
-The cities HMEBYSUOMG and FDNQTXQLDI are connected.
+The cities HMEBYSUOMG and FDNQTXQLDI are not connected.
 No edge exists between the cities FRTOKGYQTA and VRFCAEWWUE
-The cities FRTOKGYQTA and VRFCAEWWUE are connected.
+The cities FRTOKGYQTA and VRFCAEWWUE are not connected.
 The distance between the cities PLAPISWMQT and IWRLCYWTCH is 601
-The cities PLAPISWMQT and IWRLCYWTCH are connected.
+The cities PLAPISWMQT and IWRLCYWTCH are not connected.
 No edge exists between the cities IGHNYLQEDT and NNGPSYCEFU
 The cities IGHNYLQEDT and NNGPSYCEFU are not connected.
 No edge exists between the cities LJHHCZQAOQ and JQBZZQUZYP
 The cities LJHHCZQAOQ and JQBZZQUZYP are connected.
 The distance between the cities WEPECMMUGX and ANQRKUEGIB is 766
-The cities WEPECMMUGX and ANQRKUEGIB are connected.
+The cities WEPECMMUGX and ANQRKUEGIB are not connected.
 No edge exists between the cities ANQRKUEGIB and PGLQMDSALV
-The cities ANQRKUEGIB and PGLQMDSALV are connected.
+The cities ANQRKUEGIB and PGLQMDSALV are not connected.
 The distance between the cities DWGAYPLDOC and NGDOJOMWAL is 50
-The cities DWGAYPLDOC and NGDOJOMWAL are connected.
+The cities DWGAYPLDOC and NGDOJOMWAL are not connected.
 The distance between the cities BEVSOWUDIY and OIVJBSATBQ is 441
-The cities BEVSOWUDIY and OIVJBSATBQ are connected.
+The cities BEVSOWUDIY and OIVJBSATBQ are not connected.
 No edge exists between the cities YGVBEKNOBY and QSPCBCZLPT
-The cities YGVBEKNOBY and QSPCBCZLPT are connected.
+The cities YGVBEKNOBY and QSPCBCZLPT are not connected.
 The distance between the cities OSWYMAOXSI and TOHYNTPFQI is 557
-The cities OSWYMAOXSI and TOHYNTPFQI are connected.
+The cities OSWYMAOXSI and TOHYNTPFQI are not connected.
 The distance between the cities UAKYDLGGNF and OIVJBSATBQ is 371
-The cities UAKYDLGGNF and OIVJBSATBQ are connected.
+The cities UAKYDLGGNF and OIVJBSATBQ are not connected.
 No edge exists between the cities GQNZKWRZSK and NNGPSYCEFU
-The cities GQNZKWRZSK and NNGPSYCEFU are connected.
+The cities GQNZKWRZSK and NNGPSYCEFU are not connected.
 No edge exists between the cities ZKDEUSXDYW and DIGKPAPMTO
-The cities ZKDEUSXDYW and DIGKPAPMTO are connected.
+The cities ZKDEUSXDYW and DIGKPAPMTO are not connected.
 No edge exists between the cities WXLLHUWNMB and LGUJVAHJIW
 The cities WXLLHUWNMB and LGUJVAHJIW are not connected.
 No edge exists between the cities TEOUGEDKBC and LRPEPDUMJW
 The cities TEOUGEDKBC and LRPEPDUMJW are connected.
 No edge exists between the cities MDFMKVEWWB and DKFBGQMKMA
-The cities MDFMKVEWWB and DKFBGQMKMA are connected.
+The cities MDFMKVEWWB and DKFBGQMKMA are not connected.
 No edge exists between the cities SOQLCETRQO and RXHBBEJKBI
-The cities SOQLCETRQO and RXHBBEJKBI are connected.
+The cities SOQLCETRQO and RXHBBEJKBI are not connected.
 No edge exists between the cities QVRITICNRQ and TOHYNTPFQI
-The cities QVRITICNRQ and TOHYNTPFQI are connected.
+The cities QVRITICNRQ and TOHYNTPFQI are not connected.
 No edge exists between the cities UAKYDLGGNF and KVCHUMDPBZ
-The cities UAKYDLGGNF and KVCHUMDPBZ are connected.
+The cities UAKYDLGGNF and KVCHUMDPBZ are not connected.
 No edge exists between the cities OAXIDDKIBR and RBBGXPNQMH
 The cities OAXIDDKIBR and RBBGXPNQMH are connected.
 The distance between the cities LIBKVLRVCS and PLAPISWMQT is 286
-The cities LIBKVLRVCS and PLAPISWMQT are connected.
+The cities LIBKVLRVCS and PLAPISWMQT are not connected.
 No edge exists between the cities KVCHUMDPBZ and SKAFGQFLOJ
 The cities KVCHUMDPBZ and SKAFGQFLOJ are not connected.
 No edge exists between the cities SHEKDXKTWP and MCZSRROUFE
-The cities SHEKDXKTWP and MCZSRROUFE are connected.
+The cities SHEKDXKTWP and MCZSRROUFE are not connected.
 No edge exists between the cities BLSNHZYYJQ and VVYJPGMQOA
-The cities BLSNHZYYJQ and VVYJPGMQOA are connected.
+The cities BLSNHZYYJQ and VVYJPGMQOA are not connected.
 No edge exists between the cities QNVYXJSBPS and BZZDSCMDGW
-The cities QNVYXJSBPS and BZZDSCMDGW are connected.
+The cities QNVYXJSBPS and BZZDSCMDGW are not connected.
 No edge exists between the cities EAWXGNERED and KNMEUNVWFL
-The cities EAWXGNERED and KNMEUNVWFL are connected.
+The cities EAWXGNERED and KNMEUNVWFL are not connected.
 No edge exists between the cities QMPZGEBUEO and IUQJDTQQQF
 The cities QMPZGEBUEO and IUQJDTQQQF are not connected.
 The distance between the cities CHZHZGUDCL and PFHPTPMGPZ is 701
-The cities CHZHZGUDCL and PFHPTPMGPZ are connected.
+The cities CHZHZGUDCL and PFHPTPMGPZ are not connected.
 No edge exists between the cities EIACGTMSXT and YBRSVCCNHT
 The cities EIACGTMSXT and YBRSVCCNHT are not connected.
 No edge exists between the cities SKAFGQFLOJ and FKWCGGVVJT
 The cities SKAFGQFLOJ and FKWCGGVVJT are not connected.
 No edge exists between the cities NNDTYWSQSG and QNVYXJSBPS
-The cities NNDTYWSQSG and QNVYXJSBPS are connected.
+The cities NNDTYWSQSG and QNVYXJSBPS are not connected.
 No edge exists between the cities VVYIZAVXLN and PLAPISWMQT
-The cities VVYIZAVXLN and PLAPISWMQT are connected.
+The cities VVYIZAVXLN and PLAPISWMQT are not connected.
 No edge exists between the cities IUQJDTQQQF and JJHMKPWAWI
 The cities IUQJDTQQQF and JJHMKPWAWI are connected.
 The distance between the cities VXWCNLHPKD and LDOYJKHYDW is 604
-The cities VXWCNLHPKD and LDOYJKHYDW are connected.
+The cities VXWCNLHPKD and LDOYJKHYDW are not connected.
 No edge exists between the cities RXHBBEJKBI and XYSHLRPWOR
 The cities RXHBBEJKBI and XYSHLRPWOR are not connected.
 The distance between the cities GQNZKWRZSK and LKBTTPKGAL is 43
-The cities GQNZKWRZSK and LKBTTPKGAL are connected.
+The cities GQNZKWRZSK and LKBTTPKGAL are not connected.
 No edge exists between the cities SKAFGQFLOJ and IGHNYLQEDT
-The cities SKAFGQFLOJ and IGHNYLQEDT are connected.
+The cities SKAFGQFLOJ and IGHNYLQEDT are not connected.
 No edge exists between the cities IWRLCYWTCH and CBJRBAAQFV
-The cities IWRLCYWTCH and CBJRBAAQFV are connected.
+The cities IWRLCYWTCH and CBJRBAAQFV are not connected.
 No edge exists between the cities CHZHZGUDCL and RIACTLWTHA
-The cities CHZHZGUDCL and RIACTLWTHA are connected.
+The cities CHZHZGUDCL and RIACTLWTHA are not connected.
 No edge exists between the cities DMYRYRBKKQ and UOACQZZSJC
-The cities DMYRYRBKKQ and UOACQZZSJC are connected.
+The cities DMYRYRBKKQ and UOACQZZSJC are not connected.
 No edge exists between the cities TEOUGEDKBC and QLWZPHASRE
 The cities TEOUGEDKBC and QLWZPHASRE are connected.
 No edge exists between the cities VMNASMCXXF and VRFCAEWWUE
 The cities VMNASMCXXF and VRFCAEWWUE are not connected.
 No edge exists between the cities VMNASMCXXF and PLAPISWMQT
-The cities VMNASMCXXF and PLAPISWMQT are connected.
+The cities VMNASMCXXF and PLAPISWMQT are not connected.
 No edge exists between the cities MCZSRROUFE and KNMEUNVWFL
 The cities MCZSRROUFE and KNMEUNVWFL are not connected.
 No edge exists between the cities OIVJBSATBQ and LRPEPDUMJW
 The cities OIVJBSATBQ and LRPEPDUMJW are not connected.
 The distance between the cities TFPLRYLPSO and SECYLKVISX is 532
-The cities TFPLRYLPSO and SECYLKVISX are connected.
+The cities TFPLRYLPSO and SECYLKVISX are not connected.
 No edge exists between the cities HBNNCYQVHI and CBJRBAAQFV
 The cities HBNNCYQVHI and CBJRBAAQFV are connected.
 No edge exists between the cities MNDKVUZWZL and BZVJLJHMQR
-The cities MNDKVUZWZL and BZVJLJHMQR are connected.
+The cities MNDKVUZWZL and BZVJLJHMQR are not connected.
 No edge exists between the cities LRPEPDUMJW and NGDOJOMWAL
-The cities LRPEPDUMJW and NGDOJOMWAL are connected.
+The cities LRPEPDUMJW and NGDOJOMWAL are not connected.
 No edge exists between the cities DKFBGQMKMA and XBKBTPGUXY
-The cities DKFBGQMKMA and XBKBTPGUXY are connected.
+The cities DKFBGQMKMA and XBKBTPGUXY are not connected.
 No edge exists between the cities SOQLCETRQO and RBGKLOQXWK
-The cities SOQLCETRQO and RBGKLOQXWK are connected.
+The cities SOQLCETRQO and RBGKLOQXWK are not connected.
 The distance between the cities VVYIZAVXLN and UOACQZZSJC is 923
-The cities VVYIZAVXLN and UOACQZZSJC are connected.
+The cities VVYIZAVXLN and UOACQZZSJC are not connected.
 No edge exists between the cities KFORLGQYNF and JNRLGLUBGB
-The cities KFORLGQYNF and JNRLGLUBGB are connected.
+The cities KFORLGQYNF and JNRLGLUBGB are not connected.
 No edge exists between the cities IGHNYLQEDT and ZKDEUSXDYW
 The cities IGHNYLQEDT and ZKDEUSXDYW are not connected.
 No edge exists between the cities XYSHLRPWOR and OWSTZHMWZL
-The cities XYSHLRPWOR and OWSTZHMWZL are connected.
+The cities XYSHLRPWOR and OWSTZHMWZL are not connected.
 No edge exists between the cities RXHBBEJKBI and LGUJVAHJIW
 The cities RXHBBEJKBI and LGUJVAHJIW are not connected.
 No edge exists between the cities DKFBGQMKMA and NPPNAHGENQ
-The cities DKFBGQMKMA and NPPNAHGENQ are connected.
+The cities DKFBGQMKMA and NPPNAHGENQ are not connected.
 No edge exists between the cities MDFMKVEWWB and MUQWXIRLCO
-The cities MDFMKVEWWB and MUQWXIRLCO are connected.
+The cities MDFMKVEWWB and MUQWXIRLCO are not connected.
 The distance between the cities DIGKPAPMTO and IGHNYLQEDT is 265
 The cities DIGKPAPMTO and IGHNYLQEDT are connected.
 No edge exists between the cities JJHMKPWAWI and RIACTLWTHA
-The cities JJHMKPWAWI and RIACTLWTHA are connected.
+The cities JJHMKPWAWI and RIACTLWTHA are not connected.
 No edge exists between the cities WXLLHUWNMB and WEPECMMUGX
-The cities WXLLHUWNMB and WEPECMMUGX are connected.
+The cities WXLLHUWNMB and WEPECMMUGX are not connected.
 No edge exists between the cities EIACGTMSXT and UOACQZZSJC
 The cities EIACGTMSXT and UOACQZZSJC are not connected.
 No edge exists between the cities MSIZISKWQV and QHBHKDZVHU
-The cities MSIZISKWQV and QHBHKDZVHU are connected.
+The cities MSIZISKWQV and QHBHKDZVHU are not connected.
 No edge exists between the cities SKAFGQFLOJ and WOQDBNPLFM
-The cities SKAFGQFLOJ and WOQDBNPLFM are connected.
+The cities SKAFGQFLOJ and WOQDBNPLFM are not connected.
 No edge exists between the cities FRTOKGYQTA and FKWCGGVVJT
-The cities FRTOKGYQTA and FKWCGGVVJT are connected.
+The cities FRTOKGYQTA and FKWCGGVVJT are not connected.
 The distance between the cities DIGKPAPMTO and WOQDBNPLFM is 625
-The cities DIGKPAPMTO and WOQDBNPLFM are connected.
+The cities DIGKPAPMTO and WOQDBNPLFM are not connected.
 The distance between the cities KDHIJELYNQ and HBNNCYQVHI is 119
-The cities KDHIJELYNQ and HBNNCYQVHI are connected.
+The cities KDHIJELYNQ and HBNNCYQVHI are not connected.
 No edge exists between the cities XIYTTSJLJY and RSMTGOROUX
 The cities XIYTTSJLJY and RSMTGOROUX are not connected.
 No edge exists between the cities FDNQTXQLDI and VRMVCAUMWK
-The cities FDNQTXQLDI and VRMVCAUMWK are connected.
+The cities FDNQTXQLDI and VRMVCAUMWK are not connected.
 No edge exists between the cities VRFCAEWWUE and PFHPTPMGPZ
 The cities VRFCAEWWUE and PFHPTPMGPZ are not connected.
 No edge exists between the cities GACDWTIYJR and HMEBYSUOMG
-The cities GACDWTIYJR and HMEBYSUOMG are connected.
+The cities GACDWTIYJR and HMEBYSUOMG are not connected.
 No edge exists between the cities DKFBGQMKMA and RBGKLOQXWK
 The cities DKFBGQMKMA and RBGKLOQXWK are connected.
 No edge exists between the cities TOHYNTPFQI and QNVYXJSBPS
-The cities TOHYNTPFQI and QNVYXJSBPS are connected.
+The cities TOHYNTPFQI and QNVYXJSBPS are not connected.
 No edge exists between the cities MDFMKVEWWB and LGUJVAHJIW
-The cities MDFMKVEWWB and LGUJVAHJIW are connected.
+The cities MDFMKVEWWB and LGUJVAHJIW are not connected.
 No edge exists between the cities RIACTLWTHA and QLWZPHASRE
-The cities RIACTLWTHA and QLWZPHASRE are connected.
+The cities RIACTLWTHA and QLWZPHASRE are not connected.
 The distance between the cities KVCHUMDPBZ and RBBGXPNQMH is 992
-The cities KVCHUMDPBZ and RBBGXPNQMH are connected.
+The cities KVCHUMDPBZ and RBBGXPNQMH are not connected.
 No edge exists between the cities IWRLCYWTCH and VRMVCAUMWK
-The cities IWRLCYWTCH and VRMVCAUMWK are connected.
+The cities IWRLCYWTCH and VRMVCAUMWK are not connected.
 No edge exists between the cities CHZHZGUDCL and TEOUGEDKBC
-The cities CHZHZGUDCL and TEOUGEDKBC are connected.
+The cities CHZHZGUDCL and TEOUGEDKBC are not connected.
 The distance between the cities VMNASMCXXF and KDHIJELYNQ is 349
-The cities VMNASMCXXF and KDHIJELYNQ are connected.
+The cities VMNASMCXXF and KDHIJELYNQ are not connected.
 No edge exists between the cities LDOYJKHYDW and GPXHTAZITE
-The cities LDOYJKHYDW and GPXHTAZITE are connected.
+The cities LDOYJKHYDW and GPXHTAZITE are not connected.
 The distance between the cities XBKBTPGUXY and IUQJDTQQQF is 499
-The cities XBKBTPGUXY and IUQJDTQQQF are connected.
+The cities XBKBTPGUXY and IUQJDTQQQF are not connected.
 The distance between the cities MSIZISKWQV and CBJRBAAQFV is 721
-The cities MSIZISKWQV and CBJRBAAQFV are connected.
+The cities MSIZISKWQV and CBJRBAAQFV are not connected.
 No edge exists between the cities BZVJLJHMQR and GMYZKCNMHM
-The cities BZVJLJHMQR and GMYZKCNMHM are connected.
+The cities BZVJLJHMQR and GMYZKCNMHM are not connected.
 No edge exists between the cities OIVJBSATBQ and IUQJDTQQQF
-The cities OIVJBSATBQ and IUQJDTQQQF are connected.
+The cities OIVJBSATBQ and IUQJDTQQQF are not connected.
 No edge exists between the cities IWRLCYWTCH and OSWYMAOXSI
-The cities IWRLCYWTCH and OSWYMAOXSI are connected.
+The cities IWRLCYWTCH and OSWYMAOXSI are not connected.
 No edge exists between the cities LIBKVLRVCS and RIACTLWTHA
-The cities LIBKVLRVCS and RIACTLWTHA are connected.
+The cities LIBKVLRVCS and RIACTLWTHA are not connected.
 No edge exists between the cities OKMUPXOLEL and UAKYDLGGNF
-The cities OKMUPXOLEL and UAKYDLGGNF are connected.
+The cities OKMUPXOLEL and UAKYDLGGNF are not connected.
 No edge exists between the cities SOQLCETRQO and WDBVYIAYMZ
-The cities SOQLCETRQO and WDBVYIAYMZ are connected.
+The cities SOQLCETRQO and WDBVYIAYMZ are not connected.
 No edge exists between the cities XIYTTSJLJY and RBBGXPNQMH
-The cities XIYTTSJLJY and RBBGXPNQMH are connected.
+The cities XIYTTSJLJY and RBBGXPNQMH are not connected.
 The distance between the cities MUQWXIRLCO and TOHYNTPFQI is 592
-The cities MUQWXIRLCO and TOHYNTPFQI are connected.
+The cities MUQWXIRLCO and TOHYNTPFQI are not connected.
 No edge exists between the cities FRTOKGYQTA and MCZSRROUFE
 The cities FRTOKGYQTA and MCZSRROUFE are connected.
 No edge exists between the cities OIVJBSATBQ and ASNIFVVIQU
 The cities OIVJBSATBQ and ASNIFVVIQU are not connected.
 No edge exists between the cities LGUJVAHJIW and OWSTZHMWZL
-The cities LGUJVAHJIW and OWSTZHMWZL are connected.
+The cities LGUJVAHJIW and OWSTZHMWZL are not connected.
 No edge exists between the cities QVRITICNRQ and KFORLGQYNF
 The cities QVRITICNRQ and KFORLGQYNF are not connected.
 The distance between the cities IQPXTOBZKF and BVMELBXEPY is 684
-The cities IQPXTOBZKF and BVMELBXEPY are connected.
+The cities IQPXTOBZKF and BVMELBXEPY are not connected.
 No edge exists between the cities CHZHZGUDCL and QNVYXJSBPS
-The cities CHZHZGUDCL and QNVYXJSBPS are connected.
+The cities CHZHZGUDCL and QNVYXJSBPS are not connected.
 The distance between the cities WEPECMMUGX and VMHZZZNDRX is 245
-The cities WEPECMMUGX and VMHZZZNDRX are connected.
+The cities WEPECMMUGX and VMHZZZNDRX are not connected.
 No edge exists between the cities LIBKVLRVCS and QHBHKDZVHU
-The cities LIBKVLRVCS and QHBHKDZVHU are connected.
+The cities LIBKVLRVCS and QHBHKDZVHU are not connected.
 No edge exists between the cities WOQDBNPLFM and RBGKLOQXWK
-The cities WOQDBNPLFM and RBGKLOQXWK are connected.
+The cities WOQDBNPLFM and RBGKLOQXWK are not connected.
 No edge exists between the cities OTYZERVHPJ and CBJRBAAQFV
-The cities OTYZERVHPJ and CBJRBAAQFV are connected.
+The cities OTYZERVHPJ and CBJRBAAQFV are not connected.
 No edge exists between the cities QNVYXJSBPS and VIEGYVQBGS
 The cities QNVYXJSBPS and VIEGYVQBGS are not connected.
 The distance between the cities RXHBBEJKBI and MCZSRROUFE is 492
-The cities RXHBBEJKBI and MCZSRROUFE are connected.
+The cities RXHBBEJKBI and MCZSRROUFE are not connected.
 No edge exists between the cities SOQLCETRQO and RBBGXPNQMH
-The cities SOQLCETRQO and RBBGXPNQMH are connected.
+The cities SOQLCETRQO and RBBGXPNQMH are not connected.
 No edge exists between the cities EIACGTMSXT and OTYZERVHPJ
 The cities EIACGTMSXT and OTYZERVHPJ are not connected.
 No edge exists between the cities LDOYJKHYDW and PGLQMDSALV
 The cities LDOYJKHYDW and PGLQMDSALV are not connected.
 The distance between the cities EOFGUAXWOJ and BTYWWHCUOB is 334
-The cities EOFGUAXWOJ and BTYWWHCUOB are connected.
+The cities EOFGUAXWOJ and BTYWWHCUOB are not connected.
 No edge exists between the cities IUQJDTQQQF and OSWYMAOXSI
-The cities IUQJDTQQQF and OSWYMAOXSI are connected.
+The cities IUQJDTQQQF and OSWYMAOXSI are not connected.
 No edge exists between the cities VXWCNLHPKD and RSMTGOROUX
-The cities VXWCNLHPKD and RSMTGOROUX are connected.
+The cities VXWCNLHPKD and RSMTGOROUX are not connected.
 No edge exists between the cities IQQGEZKKHE and BEVSOWUDIY
 The cities IQQGEZKKHE and BEVSOWUDIY are not connected.
 No edge exists between the cities DKFBGQMKMA and LDOYJKHYDW
 The cities DKFBGQMKMA and LDOYJKHYDW are connected.
 The distance between the cities KFORLGQYNF and UOACQZZSJC is 482
-The cities KFORLGQYNF and UOACQZZSJC are connected.
+The cities KFORLGQYNF and UOACQZZSJC are not connected.
 The distance between the cities SIWIHHTGGV and RXHBBEJKBI is 284
-The cities SIWIHHTGGV and RXHBBEJKBI are connected.
+The cities SIWIHHTGGV and RXHBBEJKBI are not connected.
 The distance between the cities CMEDWESAZB and EIACGTMSXT is 105
-The cities CMEDWESAZB and EIACGTMSXT are connected.
+The cities CMEDWESAZB and EIACGTMSXT are not connected.
 The distance between the cities YGVBEKNOBY and VXWCNLHPKD is 232
-The cities YGVBEKNOBY and VXWCNLHPKD are connected.
+The cities YGVBEKNOBY and VXWCNLHPKD are not connected.
 No edge exists between the cities NGDOJOMWAL and YBRSVCCNHT
-The cities NGDOJOMWAL and YBRSVCCNHT are connected.
+The cities NGDOJOMWAL and YBRSVCCNHT are not connected.
 No edge exists between the cities FDNQTXQLDI and DKFBGQMKMA
-The cities FDNQTXQLDI and DKFBGQMKMA are connected.
+The cities FDNQTXQLDI and DKFBGQMKMA are not connected.
 No edge exists between the cities ANQRKUEGIB and IQPXTOBZKF
 The cities ANQRKUEGIB and IQPXTOBZKF are not connected.
 No edge exists between the cities LRPEPDUMJW and MSIZISKWQV
@@ -6016,57 +6016,57 @@ The cities LRPEPDUMJW and MSIZISKWQV are connected.
 No edge exists between the cities PFHPTPMGPZ and JNRLGLUBGB
 The cities PFHPTPMGPZ and JNRLGLUBGB are connected.
 The distance between the cities QHBHKDZVHU and KQYTVQKMGY is 5
-The cities QHBHKDZVHU and KQYTVQKMGY are connected.
+The cities QHBHKDZVHU and KQYTVQKMGY are not connected.
 The distance between the cities ZKDEUSXDYW and DKFBGQMKMA is 425
-The cities ZKDEUSXDYW and DKFBGQMKMA are connected.
+The cities ZKDEUSXDYW and DKFBGQMKMA are not connected.
 The distance between the cities YGVBEKNOBY and DIGKPAPMTO is 676
-The cities YGVBEKNOBY and DIGKPAPMTO are connected.
+The cities YGVBEKNOBY and DIGKPAPMTO are not connected.
 No edge exists between the cities MUQWXIRLCO and JJHMKPWAWI
-The cities MUQWXIRLCO and JJHMKPWAWI are connected.
+The cities MUQWXIRLCO and JJHMKPWAWI are not connected.
 No edge exists between the cities GPXHTAZITE and OWSTZHMWZL
-The cities GPXHTAZITE and OWSTZHMWZL are connected.
+The cities GPXHTAZITE and OWSTZHMWZL are not connected.
 The distance between the cities NNDTYWSQSG and LKBTTPKGAL is 577
-The cities NNDTYWSQSG and LKBTTPKGAL are connected.
+The cities NNDTYWSQSG and LKBTTPKGAL are not connected.
 No edge exists between the cities MCZSRROUFE and RBBGXPNQMH
 The cities MCZSRROUFE and RBBGXPNQMH are not connected.
 The distance between the cities RIACTLWTHA and MSIZISKWQV is 625
-The cities RIACTLWTHA and MSIZISKWQV are connected.
+The cities RIACTLWTHA and MSIZISKWQV are not connected.
 The distance between the cities DKFBGQMKMA and ZKDEUSXDYW is 425
-The cities DKFBGQMKMA and ZKDEUSXDYW are connected.
+The cities DKFBGQMKMA and ZKDEUSXDYW are not connected.
 No edge exists between the cities WXLLHUWNMB and OTYZERVHPJ
-The cities WXLLHUWNMB and OTYZERVHPJ are connected.
+The cities WXLLHUWNMB and OTYZERVHPJ are not connected.
 No edge exists between the cities RIACTLWTHA and RSMTGOROUX
 The cities RIACTLWTHA and RSMTGOROUX are not connected.
 No edge exists between the cities CHZHZGUDCL and SECYLKVISX
 The cities CHZHZGUDCL and SECYLKVISX are connected.
 No edge exists between the cities KQYTVQKMGY and GACDWTIYJR
-The cities KQYTVQKMGY and GACDWTIYJR are connected.
+The cities KQYTVQKMGY and GACDWTIYJR are not connected.
 No edge exists between the cities MNDKVUZWZL and OSWYMAOXSI
-The cities MNDKVUZWZL and OSWYMAOXSI are connected.
+The cities MNDKVUZWZL and OSWYMAOXSI are not connected.
 The distance between the cities VMNASMCXXF and JNRLGLUBGB is 352
-The cities VMNASMCXXF and JNRLGLUBGB are connected.
+The cities VMNASMCXXF and JNRLGLUBGB are not connected.
 No edge exists between the cities QNVYXJSBPS and QSPCBCZLPT
-The cities QNVYXJSBPS and QSPCBCZLPT are connected.
+The cities QNVYXJSBPS and QSPCBCZLPT are not connected.
 No edge exists between the cities KNMEUNVWFL and NPPNAHGENQ
-The cities KNMEUNVWFL and NPPNAHGENQ are connected.
+The cities KNMEUNVWFL and NPPNAHGENQ are not connected.
 The distance between the cities KNMEUNVWFL and DIGKPAPMTO is 150
-The cities KNMEUNVWFL and DIGKPAPMTO are connected.
+The cities KNMEUNVWFL and DIGKPAPMTO are not connected.
 No edge exists between the cities GPXHTAZITE and EAWXGNERED
-The cities GPXHTAZITE and EAWXGNERED are connected.
+The cities GPXHTAZITE and EAWXGNERED are not connected.
 No edge exists between the cities OIVJBSATBQ and OSWYMAOXSI
-The cities OIVJBSATBQ and OSWYMAOXSI are connected.
+The cities OIVJBSATBQ and OSWYMAOXSI are not connected.
 No edge exists between the cities XYSHLRPWOR and VXWCNLHPKD
-The cities XYSHLRPWOR and VXWCNLHPKD are connected.
+The cities XYSHLRPWOR and VXWCNLHPKD are not connected.
 No edge exists between the cities DIGKPAPMTO and VXWCNLHPKD
-The cities DIGKPAPMTO and VXWCNLHPKD are connected.
+The cities DIGKPAPMTO and VXWCNLHPKD are not connected.
 No edge exists between the cities TFPLRYLPSO and BDEVXFYMXR
 The cities TFPLRYLPSO and BDEVXFYMXR are not connected.
 No edge exists between the cities YBRSVCCNHT and SOQLCETRQO
-The cities YBRSVCCNHT and SOQLCETRQO are connected.
+The cities YBRSVCCNHT and SOQLCETRQO are not connected.
 The distance between the cities DKFBGQMKMA and VVYJPGMQOA is 812
-The cities DKFBGQMKMA and VVYJPGMQOA are connected.
+The cities DKFBGQMKMA and VVYJPGMQOA are not connected.
 The distance between the cities EZDALDBNCJ and OWSTZHMWZL is 355
-The cities EZDALDBNCJ and OWSTZHMWZL are connected.
+The cities EZDALDBNCJ and OWSTZHMWZL are not connected.
 No edge exists between the cities BDEVXFYMXR and PLWWUFMRYE
 The cities BDEVXFYMXR and PLWWUFMRYE are connected.
 No edge exists between the cities YGVBEKNOBY and IUQJDTQQQF
@@ -6074,15 +6074,15 @@ The cities YGVBEKNOBY and IUQJDTQQQF are connected.
 No edge exists between the cities WDBVYIAYMZ and EIACGTMSXT
 The cities WDBVYIAYMZ and EIACGTMSXT are not connected.
 No edge exists between the cities BDEVXFYMXR and QVRITICNRQ
-The cities BDEVXFYMXR and QVRITICNRQ are connected.
+The cities BDEVXFYMXR and QVRITICNRQ are not connected.
 No edge exists between the cities NGDOJOMWAL and IQPXTOBZKF
-The cities NGDOJOMWAL and IQPXTOBZKF are connected.
+The cities NGDOJOMWAL and IQPXTOBZKF are not connected.
 The distance between the cities JJHMKPWAWI and LKBTTPKGAL is 61
-The cities JJHMKPWAWI and LKBTTPKGAL are connected.
+The cities JJHMKPWAWI and LKBTTPKGAL are not connected.
 No edge exists between the cities OKMUPXOLEL and LGUJVAHJIW
 The cities OKMUPXOLEL and LGUJVAHJIW are not connected.
 No edge exists between the cities LRPEPDUMJW and NGDOJOMWAL
-The cities LRPEPDUMJW and NGDOJOMWAL are connected.
+The cities LRPEPDUMJW and NGDOJOMWAL are not connected.
 No edge exists between the cities CBJRBAAQFV and IUQJDTQQQF
 The cities CBJRBAAQFV and IUQJDTQQQF are not connected.
 No edge exists between the cities RXHBBEJKBI and RBBGXPNQMH
@@ -6090,229 +6090,229 @@ The cities RXHBBEJKBI and RBBGXPNQMH are not connected.
 No edge exists between the cities ACUQVRUVEP and FDNQTXQLDI
 The cities ACUQVRUVEP and FDNQTXQLDI are not connected.
 The distance between the cities NPPNAHGENQ and BEVSOWUDIY is 550
-The cities NPPNAHGENQ and BEVSOWUDIY are connected.
+The cities NPPNAHGENQ and BEVSOWUDIY are not connected.
 The distance between the cities IWRLCYWTCH and GQNZKWRZSK is 561
-The cities IWRLCYWTCH and GQNZKWRZSK are connected.
+The cities IWRLCYWTCH and GQNZKWRZSK are not connected.
 No edge exists between the cities VXWCNLHPKD and BEVSOWUDIY
-The cities VXWCNLHPKD and BEVSOWUDIY are connected.
+The cities VXWCNLHPKD and BEVSOWUDIY are not connected.
 No edge exists between the cities HMEBYSUOMG and JJHMKPWAWI
-The cities HMEBYSUOMG and JJHMKPWAWI are connected.
+The cities HMEBYSUOMG and JJHMKPWAWI are not connected.
 The distance between the cities LDOYJKHYDW and KNMEUNVWFL is 90
-The cities LDOYJKHYDW and KNMEUNVWFL are connected.
+The cities LDOYJKHYDW and KNMEUNVWFL are not connected.
 The distance between the cities MNDKVUZWZL and QXCEECNVFB is 248
-The cities MNDKVUZWZL and QXCEECNVFB are connected.
+The cities MNDKVUZWZL and QXCEECNVFB are not connected.
 No edge exists between the cities EOFGUAXWOJ and SOQLCETRQO
-The cities EOFGUAXWOJ and SOQLCETRQO are connected.
+The cities EOFGUAXWOJ and SOQLCETRQO are not connected.
 No edge exists between the cities WOQDBNPLFM and MKQZEQTYLD
-The cities WOQDBNPLFM and MKQZEQTYLD are connected.
+The cities WOQDBNPLFM and MKQZEQTYLD are not connected.
 No edge exists between the cities GMYZKCNMHM and XBKBTPGUXY
-The cities GMYZKCNMHM and XBKBTPGUXY are connected.
+The cities GMYZKCNMHM and XBKBTPGUXY are not connected.
 No edge exists between the cities LGUJVAHJIW and IQPXTOBZKF
 The cities LGUJVAHJIW and IQPXTOBZKF are not connected.
 No edge exists between the cities SECYLKVISX and IUQJDTQQQF
-The cities SECYLKVISX and IUQJDTQQQF are connected.
+The cities SECYLKVISX and IUQJDTQQQF are not connected.
 No edge exists between the cities PGLQMDSALV and QLWZPHASRE
-The cities PGLQMDSALV and QLWZPHASRE are connected.
+The cities PGLQMDSALV and QLWZPHASRE are not connected.
 No edge exists between the cities BEVSOWUDIY and BLSNHZYYJQ
 The cities BEVSOWUDIY and BLSNHZYYJQ are not connected.
 No edge exists between the cities KDHIJELYNQ and QNVYXJSBPS
-The cities KDHIJELYNQ and QNVYXJSBPS are connected.
+The cities KDHIJELYNQ and QNVYXJSBPS are not connected.
 No edge exists between the cities IWRLCYWTCH and VVYIZAVXLN
-The cities IWRLCYWTCH and VVYIZAVXLN are connected.
+The cities IWRLCYWTCH and VVYIZAVXLN are not connected.
 No edge exists between the cities QVRITICNRQ and EZDALDBNCJ
-The cities QVRITICNRQ and EZDALDBNCJ are connected.
+The cities QVRITICNRQ and EZDALDBNCJ are not connected.
 No edge exists between the cities OKMUPXOLEL and JJHMKPWAWI
-The cities OKMUPXOLEL and JJHMKPWAWI are connected.
+The cities OKMUPXOLEL and JJHMKPWAWI are not connected.
 No edge exists between the cities WOQDBNPLFM and SOQLCETRQO
-The cities WOQDBNPLFM and SOQLCETRQO are connected.
+The cities WOQDBNPLFM and SOQLCETRQO are not connected.
 The distance between the cities RBBGXPNQMH and LKBTTPKGAL is 458
-The cities RBBGXPNQMH and LKBTTPKGAL are connected.
+The cities RBBGXPNQMH and LKBTTPKGAL are not connected.
 The distance between the cities CBJRBAAQFV and LDOYJKHYDW is 169
-The cities CBJRBAAQFV and LDOYJKHYDW are connected.
+The cities CBJRBAAQFV and LDOYJKHYDW are not connected.
 The distance between the cities ANQRKUEGIB and HBNNCYQVHI is 257
-The cities ANQRKUEGIB and HBNNCYQVHI are connected.
+The cities ANQRKUEGIB and HBNNCYQVHI are not connected.
 No edge exists between the cities GACDWTIYJR and VIEGYVQBGS
-The cities GACDWTIYJR and VIEGYVQBGS are connected.
+The cities GACDWTIYJR and VIEGYVQBGS are not connected.
 The distance between the cities HBNNCYQVHI and DLCQJVHBCG is 678
-The cities HBNNCYQVHI and DLCQJVHBCG are connected.
+The cities HBNNCYQVHI and DLCQJVHBCG are not connected.
 No edge exists between the cities DIGKPAPMTO and GMYZKCNMHM
-The cities DIGKPAPMTO and GMYZKCNMHM are connected.
+The cities DIGKPAPMTO and GMYZKCNMHM are not connected.
 No edge exists between the cities MSIZISKWQV and MUQWXIRLCO
-The cities MSIZISKWQV and MUQWXIRLCO are connected.
+The cities MSIZISKWQV and MUQWXIRLCO are not connected.
 No edge exists between the cities OSWYMAOXSI and OAXIDDKIBR
-The cities OSWYMAOXSI and OAXIDDKIBR are connected.
+The cities OSWYMAOXSI and OAXIDDKIBR are not connected.
 The distance between the cities SGBRGOLFJJ and LJHHCZQAOQ is 667
-The cities SGBRGOLFJJ and LJHHCZQAOQ are connected.
+The cities SGBRGOLFJJ and LJHHCZQAOQ are not connected.
 No edge exists between the cities ACUQVRUVEP and ZKDEUSXDYW
 The cities ACUQVRUVEP and ZKDEUSXDYW are not connected.
 The distance between the cities DWGAYPLDOC and NNDTYWSQSG is 691
-The cities DWGAYPLDOC and NNDTYWSQSG are connected.
+The cities DWGAYPLDOC and NNDTYWSQSG are not connected.
 No edge exists between the cities FRTOKGYQTA and IWRLCYWTCH
-The cities FRTOKGYQTA and IWRLCYWTCH are connected.
+The cities FRTOKGYQTA and IWRLCYWTCH are not connected.
 No edge exists between the cities ZKDEUSXDYW and SIWIHHTGGV
-The cities ZKDEUSXDYW and SIWIHHTGGV are connected.
+The cities ZKDEUSXDYW and SIWIHHTGGV are not connected.
 No edge exists between the cities QMPZGEBUEO and UOACQZZSJC
-The cities QMPZGEBUEO and UOACQZZSJC are connected.
+The cities QMPZGEBUEO and UOACQZZSJC are not connected.
 No edge exists between the cities LRPEPDUMJW and LGUJVAHJIW
 The cities LRPEPDUMJW and LGUJVAHJIW are not connected.
 No edge exists between the cities QXCEECNVFB and LJHHCZQAOQ
-The cities QXCEECNVFB and LJHHCZQAOQ are connected.
+The cities QXCEECNVFB and LJHHCZQAOQ are not connected.
 The distance between the cities WOQDBNPLFM and TOHYNTPFQI is 217
-The cities WOQDBNPLFM and TOHYNTPFQI are connected.
+The cities WOQDBNPLFM and TOHYNTPFQI are not connected.
 No edge exists between the cities KNMEUNVWFL and QXCEECNVFB
-The cities KNMEUNVWFL and QXCEECNVFB are connected.
+The cities KNMEUNVWFL and QXCEECNVFB are not connected.
 No edge exists between the cities DLCQJVHBCG and EIACGTMSXT
-The cities DLCQJVHBCG and EIACGTMSXT are connected.
+The cities DLCQJVHBCG and EIACGTMSXT are not connected.
 No edge exists between the cities QLWZPHASRE and NPPNAHGENQ
 The cities QLWZPHASRE and NPPNAHGENQ are connected.
 No edge exists between the cities RBGKLOQXWK and OIVJBSATBQ
-The cities RBGKLOQXWK and OIVJBSATBQ are connected.
+The cities RBGKLOQXWK and OIVJBSATBQ are not connected.
 No edge exists between the cities IQQGEZKKHE and BEVSOWUDIY
 The cities IQQGEZKKHE and BEVSOWUDIY are not connected.
 No edge exists between the cities EIACGTMSXT and YGVBEKNOBY
 The cities EIACGTMSXT and YGVBEKNOBY are not connected.
 No edge exists between the cities QXCEECNVFB and RSMTGOROUX
-The cities QXCEECNVFB and RSMTGOROUX are connected.
+The cities QXCEECNVFB and RSMTGOROUX are not connected.
 The distance between the cities UOACQZZSJC and VVYIZAVXLN is 923
-The cities UOACQZZSJC and VVYIZAVXLN are connected.
+The cities UOACQZZSJC and VVYIZAVXLN are not connected.
 The distance between the cities VRFCAEWWUE and BDEVXFYMXR is 945
-The cities VRFCAEWWUE and BDEVXFYMXR are connected.
+The cities VRFCAEWWUE and BDEVXFYMXR are not connected.
 The distance between the cities WOQDBNPLFM and MSIZISKWQV is 429
-The cities WOQDBNPLFM and MSIZISKWQV are connected.
+The cities WOQDBNPLFM and MSIZISKWQV are not connected.
 No edge exists between the cities VMNASMCXXF and QLWZPHASRE
-The cities VMNASMCXXF and QLWZPHASRE are connected.
+The cities VMNASMCXXF and QLWZPHASRE are not connected.
 No edge exists between the cities PLWWUFMRYE and EOFGUAXWOJ
-The cities PLWWUFMRYE and EOFGUAXWOJ are connected.
+The cities PLWWUFMRYE and EOFGUAXWOJ are not connected.
 No edge exists between the cities ANQRKUEGIB and JQBZZQUZYP
-The cities ANQRKUEGIB and JQBZZQUZYP are connected.
+The cities ANQRKUEGIB and JQBZZQUZYP are not connected.
 No edge exists between the cities OAXIDDKIBR and OTYZERVHPJ
 The cities OAXIDDKIBR and OTYZERVHPJ are connected.
 No edge exists between the cities CMEDWESAZB and LJHHCZQAOQ
 The cities CMEDWESAZB and LJHHCZQAOQ are connected.
 No edge exists between the cities EOFGUAXWOJ and SOQLCETRQO
-The cities EOFGUAXWOJ and SOQLCETRQO are connected.
+The cities EOFGUAXWOJ and SOQLCETRQO are not connected.
 No edge exists between the cities LGUJVAHJIW and JQBZZQUZYP
-The cities LGUJVAHJIW and JQBZZQUZYP are connected.
+The cities LGUJVAHJIW and JQBZZQUZYP are not connected.
 No edge exists between the cities ORXYIVQSOV and GPXHTAZITE
-The cities ORXYIVQSOV and GPXHTAZITE are connected.
+The cities ORXYIVQSOV and GPXHTAZITE are not connected.
 The distance between the cities BZZDSCMDGW and UAKYDLGGNF is 957
-The cities BZZDSCMDGW and UAKYDLGGNF are connected.
+The cities BZZDSCMDGW and UAKYDLGGNF are not connected.
 No edge exists between the cities GQNZKWRZSK and MCZSRROUFE
-The cities GQNZKWRZSK and MCZSRROUFE are connected.
+The cities GQNZKWRZSK and MCZSRROUFE are not connected.
 No edge exists between the cities DLCQJVHBCG and MSIZISKWQV
-The cities DLCQJVHBCG and MSIZISKWQV are connected.
+The cities DLCQJVHBCG and MSIZISKWQV are not connected.
 No edge exists between the cities VRFCAEWWUE and TEOUGEDKBC
 The cities VRFCAEWWUE and TEOUGEDKBC are not connected.
 No edge exists between the cities LGUJVAHJIW and FRTOKGYQTA
 The cities LGUJVAHJIW and FRTOKGYQTA are not connected.
 No edge exists between the cities KQYTVQKMGY and PLAPISWMQT
-The cities KQYTVQKMGY and PLAPISWMQT are connected.
+The cities KQYTVQKMGY and PLAPISWMQT are not connected.
 The distance between the cities YBRSVCCNHT and OTYZERVHPJ is 457
-The cities YBRSVCCNHT and OTYZERVHPJ are connected.
+The cities YBRSVCCNHT and OTYZERVHPJ are not connected.
 The distance between the cities VXWCNLHPKD and JNRLGLUBGB is 352
-The cities VXWCNLHPKD and JNRLGLUBGB are connected.
+The cities VXWCNLHPKD and JNRLGLUBGB are not connected.
 No edge exists between the cities QNVYXJSBPS and IWRLCYWTCH
 The cities QNVYXJSBPS and IWRLCYWTCH are not connected.
 No edge exists between the cities VXWCNLHPKD and XBKBTPGUXY
-The cities VXWCNLHPKD and XBKBTPGUXY are connected.
+The cities VXWCNLHPKD and XBKBTPGUXY are not connected.
 No edge exists between the cities EOFGUAXWOJ and MNDKVUZWZL
-The cities EOFGUAXWOJ and MNDKVUZWZL are connected.
+The cities EOFGUAXWOJ and MNDKVUZWZL are not connected.
 No edge exists between the cities KVCHUMDPBZ and OTYZERVHPJ
 The cities KVCHUMDPBZ and OTYZERVHPJ are not connected.
 No edge exists between the cities MSIZISKWQV and PXJPQZOXWH
-The cities MSIZISKWQV and PXJPQZOXWH are connected.
+The cities MSIZISKWQV and PXJPQZOXWH are not connected.
 The distance between the cities ANQRKUEGIB and EAWXGNERED is 342
-The cities ANQRKUEGIB and EAWXGNERED are connected.
+The cities ANQRKUEGIB and EAWXGNERED are not connected.
 No edge exists between the cities PLAPISWMQT and EIACGTMSXT
-The cities PLAPISWMQT and EIACGTMSXT are connected.
+The cities PLAPISWMQT and EIACGTMSXT are not connected.
 No edge exists between the cities DKFBGQMKMA and BDEVXFYMXR
 The cities DKFBGQMKMA and BDEVXFYMXR are connected.
 No edge exists between the cities PFHPTPMGPZ and MCZSRROUFE
-The cities PFHPTPMGPZ and MCZSRROUFE are connected.
+The cities PFHPTPMGPZ and MCZSRROUFE are not connected.
 No edge exists between the cities QVRITICNRQ and MCZSRROUFE
-The cities QVRITICNRQ and MCZSRROUFE are connected.
+The cities QVRITICNRQ and MCZSRROUFE are not connected.
 No edge exists between the cities IQPXTOBZKF and NGDOJOMWAL
-The cities IQPXTOBZKF and NGDOJOMWAL are connected.
+The cities IQPXTOBZKF and NGDOJOMWAL are not connected.
 No edge exists between the cities PLWWUFMRYE and NCTOSUYUMM
 The cities PLWWUFMRYE and NCTOSUYUMM are not connected.
 No edge exists between the cities MKQZEQTYLD and LIBKVLRVCS
-The cities MKQZEQTYLD and LIBKVLRVCS are connected.
+The cities MKQZEQTYLD and LIBKVLRVCS are not connected.
 No edge exists between the cities SIWIHHTGGV and MSIZISKWQV
-The cities SIWIHHTGGV and MSIZISKWQV are connected.
+The cities SIWIHHTGGV and MSIZISKWQV are not connected.
 No edge exists between the cities DWGAYPLDOC and OAXIDDKIBR
 The cities DWGAYPLDOC and OAXIDDKIBR are connected.
 No edge exists between the cities YGVBEKNOBY and LJHHCZQAOQ
-The cities YGVBEKNOBY and LJHHCZQAOQ are connected.
+The cities YGVBEKNOBY and LJHHCZQAOQ are not connected.
 The distance between the cities VXWCNLHPKD and BLSNHZYYJQ is 699
-The cities VXWCNLHPKD and BLSNHZYYJQ are connected.
+The cities VXWCNLHPKD and BLSNHZYYJQ are not connected.
 The distance between the cities QVRITICNRQ and OIVJBSATBQ is 696
-The cities QVRITICNRQ and OIVJBSATBQ are connected.
+The cities QVRITICNRQ and OIVJBSATBQ are not connected.
 The distance between the cities MKQZEQTYLD and PGLQMDSALV is 124
-The cities MKQZEQTYLD and PGLQMDSALV are connected.
+The cities MKQZEQTYLD and PGLQMDSALV are not connected.
 No edge exists between the cities BTYWWHCUOB and ANQRKUEGIB
-The cities BTYWWHCUOB and ANQRKUEGIB are connected.
+The cities BTYWWHCUOB and ANQRKUEGIB are not connected.
 No edge exists between the cities XBKBTPGUXY and OKMUPXOLEL
-The cities XBKBTPGUXY and OKMUPXOLEL are connected.
+The cities XBKBTPGUXY and OKMUPXOLEL are not connected.
 The distance between the cities JJHMKPWAWI and WDBVYIAYMZ is 532
-The cities JJHMKPWAWI and WDBVYIAYMZ are connected.
+The cities JJHMKPWAWI and WDBVYIAYMZ are not connected.
 No edge exists between the cities LKBTTPKGAL and VXWCNLHPKD
 The cities LKBTTPKGAL and VXWCNLHPKD are not connected.
 No edge exists between the cities QLWZPHASRE and KDHIJELYNQ
-The cities QLWZPHASRE and KDHIJELYNQ are connected.
+The cities QLWZPHASRE and KDHIJELYNQ are not connected.
 No edge exists between the cities DIGKPAPMTO and BZZDSCMDGW
-The cities DIGKPAPMTO and BZZDSCMDGW are connected.
+The cities DIGKPAPMTO and BZZDSCMDGW are not connected.
 No edge exists between the cities WXLLHUWNMB and IUQJDTQQQF
-The cities WXLLHUWNMB and IUQJDTQQQF are connected.
+The cities WXLLHUWNMB and IUQJDTQQQF are not connected.
 The distance between the cities CHZHZGUDCL and DIGKPAPMTO is 715
-The cities CHZHZGUDCL and DIGKPAPMTO are connected.
+The cities CHZHZGUDCL and DIGKPAPMTO are not connected.
 The distance between the cities IWRLCYWTCH and DIGKPAPMTO is 266
-The cities IWRLCYWTCH and DIGKPAPMTO are connected.
+The cities IWRLCYWTCH and DIGKPAPMTO are not connected.
 No edge exists between the cities WDBVYIAYMZ and XIYTTSJLJY
 The cities WDBVYIAYMZ and XIYTTSJLJY are not connected.
 No edge exists between the cities ORXYIVQSOV and XIYTTSJLJY
-The cities ORXYIVQSOV and XIYTTSJLJY are connected.
+The cities ORXYIVQSOV and XIYTTSJLJY are not connected.
 No edge exists between the cities LKBTTPKGAL and HBNNCYQVHI
 The cities LKBTTPKGAL and HBNNCYQVHI are not connected.
 No edge exists between the cities MSIZISKWQV and XYSHLRPWOR
 The cities MSIZISKWQV and XYSHLRPWOR are connected.
 No edge exists between the cities TOHYNTPFQI and OWSTZHMWZL
-The cities TOHYNTPFQI and OWSTZHMWZL are connected.
+The cities TOHYNTPFQI and OWSTZHMWZL are not connected.
 No edge exists between the cities IWRLCYWTCH and SGBRGOLFJJ
-The cities IWRLCYWTCH and SGBRGOLFJJ are connected.
+The cities IWRLCYWTCH and SGBRGOLFJJ are not connected.
 No edge exists between the cities DIGKPAPMTO and FDNQTXQLDI
 The cities DIGKPAPMTO and FDNQTXQLDI are connected.
 No edge exists between the cities BZVJLJHMQR and ACUQVRUVEP
-The cities BZVJLJHMQR and ACUQVRUVEP are connected.
+The cities BZVJLJHMQR and ACUQVRUVEP are not connected.
 No edge exists between the cities SGBRGOLFJJ and KVCHUMDPBZ
-The cities SGBRGOLFJJ and KVCHUMDPBZ are connected.
+The cities SGBRGOLFJJ and KVCHUMDPBZ are not connected.
 No edge exists between the cities CBJRBAAQFV and SIWIHHTGGV
 The cities CBJRBAAQFV and SIWIHHTGGV are not connected.
 The distance between the cities GPXHTAZITE and XBKBTPGUXY is 218
-The cities GPXHTAZITE and XBKBTPGUXY are connected.
+The cities GPXHTAZITE and XBKBTPGUXY are not connected.
 The distance between the cities YGVBEKNOBY and VMHZZZNDRX is 388
-The cities YGVBEKNOBY and VMHZZZNDRX are connected.
+The cities YGVBEKNOBY and VMHZZZNDRX are not connected.
 No edge exists between the cities QNVYXJSBPS and NGDOJOMWAL
-The cities QNVYXJSBPS and NGDOJOMWAL are connected.
+The cities QNVYXJSBPS and NGDOJOMWAL are not connected.
 No edge exists between the cities CBJRBAAQFV and PLWWUFMRYE
 The cities CBJRBAAQFV and PLWWUFMRYE are not connected.
 No edge exists between the cities BZVJLJHMQR and VVYIZAVXLN
 The cities BZVJLJHMQR and VVYIZAVXLN are connected.
 The distance between the cities RIACTLWTHA and OWSTZHMWZL is 862
-The cities RIACTLWTHA and OWSTZHMWZL are connected.
+The cities RIACTLWTHA and OWSTZHMWZL are not connected.
 The distance between the cities SIWIHHTGGV and BTYWWHCUOB is 921
-The cities SIWIHHTGGV and BTYWWHCUOB are connected.
+The cities SIWIHHTGGV and BTYWWHCUOB are not connected.
 No edge exists between the cities GMYZKCNMHM and QVRITICNRQ
-The cities GMYZKCNMHM and QVRITICNRQ are connected.
+The cities GMYZKCNMHM and QVRITICNRQ are not connected.
 The distance between the cities KNMEUNVWFL and RBGKLOQXWK is 84
-The cities KNMEUNVWFL and RBGKLOQXWK are connected.
+The cities KNMEUNVWFL and RBGKLOQXWK are not connected.
 The distance between the cities IQQGEZKKHE and PFHPTPMGPZ is 397
-The cities IQQGEZKKHE and PFHPTPMGPZ are connected.
+The cities IQQGEZKKHE and PFHPTPMGPZ are not connected.
 No edge exists between the cities NNGPSYCEFU and PXJPQZOXWH
-The cities NNGPSYCEFU and PXJPQZOXWH are connected.
+The cities NNGPSYCEFU and PXJPQZOXWH are not connected.
 No edge exists between the cities JJHMKPWAWI and KFORLGQYNF
-The cities JJHMKPWAWI and KFORLGQYNF are connected.
+The cities JJHMKPWAWI and KFORLGQYNF are not connected.
 The distance between the cities OAXIDDKIBR and PXJPQZOXWH is 888
-The cities OAXIDDKIBR and PXJPQZOXWH are connected.
+The cities OAXIDDKIBR and PXJPQZOXWH are not connected.
 No edge exists between the cities QHBHKDZVHU and GMYZKCNMHM
 The cities QHBHKDZVHU and GMYZKCNMHM are not connected.
 No edge exists between the cities RXHBBEJKBI and DMYRYRBKKQ
@@ -6322,115 +6322,115 @@ The cities LKBTTPKGAL and MDFMKVEWWB are not connected.
 No edge exists between the cities HBNNCYQVHI and BZVJLJHMQR
 The cities HBNNCYQVHI and BZVJLJHMQR are connected.
 No edge exists between the cities QVRITICNRQ and XBKBTPGUXY
-The cities QVRITICNRQ and XBKBTPGUXY are connected.
+The cities QVRITICNRQ and XBKBTPGUXY are not connected.
 No edge exists between the cities XBKBTPGUXY and WEPECMMUGX
-The cities XBKBTPGUXY and WEPECMMUGX are connected.
+The cities XBKBTPGUXY and WEPECMMUGX are not connected.
 No edge exists between the cities SOQLCETRQO and KQYTVQKMGY
 The cities SOQLCETRQO and KQYTVQKMGY are not connected.
 No edge exists between the cities EZDALDBNCJ and ANQRKUEGIB
-The cities EZDALDBNCJ and ANQRKUEGIB are connected.
+The cities EZDALDBNCJ and ANQRKUEGIB are not connected.
 No edge exists between the cities SOQLCETRQO and NGDOJOMWAL
-The cities SOQLCETRQO and NGDOJOMWAL are connected.
+The cities SOQLCETRQO and NGDOJOMWAL are not connected.
 No edge exists between the cities BVMELBXEPY and JNRLGLUBGB
-The cities BVMELBXEPY and JNRLGLUBGB are connected.
+The cities BVMELBXEPY and JNRLGLUBGB are not connected.
 The distance between the cities VMNASMCXXF and ORXYIVQSOV is 152
-The cities VMNASMCXXF and ORXYIVQSOV are connected.
+The cities VMNASMCXXF and ORXYIVQSOV are not connected.
 No edge exists between the cities TOHYNTPFQI and QHBHKDZVHU
 The cities TOHYNTPFQI and QHBHKDZVHU are connected.
 No edge exists between the cities PLWWUFMRYE and VRFCAEWWUE
-The cities PLWWUFMRYE and VRFCAEWWUE are connected.
+The cities PLWWUFMRYE and VRFCAEWWUE are not connected.
 No edge exists between the cities QSPCBCZLPT and WOQDBNPLFM
-The cities QSPCBCZLPT and WOQDBNPLFM are connected.
+The cities QSPCBCZLPT and WOQDBNPLFM are not connected.
 No edge exists between the cities NPPNAHGENQ and IWRLCYWTCH
-The cities NPPNAHGENQ and IWRLCYWTCH are connected.
+The cities NPPNAHGENQ and IWRLCYWTCH are not connected.
 No edge exists between the cities KDHIJELYNQ and SGBRGOLFJJ
-The cities KDHIJELYNQ and SGBRGOLFJJ are connected.
+The cities KDHIJELYNQ and SGBRGOLFJJ are not connected.
 No edge exists between the cities OKMUPXOLEL and VVYJPGMQOA
 The cities OKMUPXOLEL and VVYJPGMQOA are not connected.
 The distance between the cities TOHYNTPFQI and SECYLKVISX is 283
-The cities TOHYNTPFQI and SECYLKVISX are connected.
+The cities TOHYNTPFQI and SECYLKVISX are not connected.
 No edge exists between the cities YGVBEKNOBY and RSMTGOROUX
-The cities YGVBEKNOBY and RSMTGOROUX are connected.
+The cities YGVBEKNOBY and RSMTGOROUX are not connected.
 The distance between the cities WDBVYIAYMZ and TOHYNTPFQI is 760
-The cities WDBVYIAYMZ and TOHYNTPFQI are connected.
+The cities WDBVYIAYMZ and TOHYNTPFQI are not connected.
 The distance between the cities KQYTVQKMGY and VMHZZZNDRX is 915
-The cities KQYTVQKMGY and VMHZZZNDRX are connected.
+The cities KQYTVQKMGY and VMHZZZNDRX are not connected.
 The distance between the cities BVMELBXEPY and PXJPQZOXWH is 90
-The cities BVMELBXEPY and PXJPQZOXWH are connected.
+The cities BVMELBXEPY and PXJPQZOXWH are not connected.
 No edge exists between the cities SHEKDXKTWP and OTYZERVHPJ
-The cities SHEKDXKTWP and OTYZERVHPJ are connected.
+The cities SHEKDXKTWP and OTYZERVHPJ are not connected.
 No edge exists between the cities VVYJPGMQOA and BDEVXFYMXR
-The cities VVYJPGMQOA and BDEVXFYMXR are connected.
+The cities VVYJPGMQOA and BDEVXFYMXR are not connected.
 No edge exists between the cities EIACGTMSXT and IWRLCYWTCH
 The cities EIACGTMSXT and IWRLCYWTCH are not connected.
 No edge exists between the cities QMPZGEBUEO and KNMEUNVWFL
 The cities QMPZGEBUEO and KNMEUNVWFL are not connected.
 No edge exists between the cities OAXIDDKIBR and BVMELBXEPY
-The cities OAXIDDKIBR and BVMELBXEPY are connected.
+The cities OAXIDDKIBR and BVMELBXEPY are not connected.
 No edge exists between the cities PXJPQZOXWH and JNRLGLUBGB
 The cities PXJPQZOXWH and JNRLGLUBGB are not connected.
 No edge exists between the cities SKAFGQFLOJ and QMPZGEBUEO
-The cities SKAFGQFLOJ and QMPZGEBUEO are connected.
+The cities SKAFGQFLOJ and QMPZGEBUEO are not connected.
 No edge exists between the cities KVCHUMDPBZ and KQYTVQKMGY
 The cities KVCHUMDPBZ and KQYTVQKMGY are not connected.
 No edge exists between the cities GPXHTAZITE and IUQJDTQQQF
-The cities GPXHTAZITE and IUQJDTQQQF are connected.
+The cities GPXHTAZITE and IUQJDTQQQF are not connected.
 No edge exists between the cities RIACTLWTHA and LJHHCZQAOQ
-The cities RIACTLWTHA and LJHHCZQAOQ are connected.
+The cities RIACTLWTHA and LJHHCZQAOQ are not connected.
 No edge exists between the cities GACDWTIYJR and NCTOSUYUMM
-The cities GACDWTIYJR and NCTOSUYUMM are connected.
+The cities GACDWTIYJR and NCTOSUYUMM are not connected.
 No edge exists between the cities TOHYNTPFQI and IQQGEZKKHE
 The cities TOHYNTPFQI and IQQGEZKKHE are connected.
 No edge exists between the cities TEOUGEDKBC and LRPEPDUMJW
 The cities TEOUGEDKBC and LRPEPDUMJW are connected.
 No edge exists between the cities IUQJDTQQQF and LJHHCZQAOQ
-The cities IUQJDTQQQF and LJHHCZQAOQ are connected.
+The cities IUQJDTQQQF and LJHHCZQAOQ are not connected.
 No edge exists between the cities UAKYDLGGNF and NCTOSUYUMM
-The cities UAKYDLGGNF and NCTOSUYUMM are connected.
+The cities UAKYDLGGNF and NCTOSUYUMM are not connected.
 No edge exists between the cities RIACTLWTHA and OTYZERVHPJ
-The cities RIACTLWTHA and OTYZERVHPJ are connected.
+The cities RIACTLWTHA and OTYZERVHPJ are not connected.
 The distance between the cities RBBGXPNQMH and UAKYDLGGNF is 214
-The cities RBBGXPNQMH and UAKYDLGGNF are connected.
+The cities RBBGXPNQMH and UAKYDLGGNF are not connected.
 The distance between the cities XBKBTPGUXY and LRPEPDUMJW is 614
 The cities XBKBTPGUXY and LRPEPDUMJW are connected.
 No edge exists between the cities JNRLGLUBGB and WXLLHUWNMB
-The cities JNRLGLUBGB and WXLLHUWNMB are connected.
+The cities JNRLGLUBGB and WXLLHUWNMB are not connected.
 No edge exists between the cities QNVYXJSBPS and EZDALDBNCJ
-The cities QNVYXJSBPS and EZDALDBNCJ are connected.
+The cities QNVYXJSBPS and EZDALDBNCJ are not connected.
 No edge exists between the cities PFHPTPMGPZ and KQYTVQKMGY
-The cities PFHPTPMGPZ and KQYTVQKMGY are connected.
+The cities PFHPTPMGPZ and KQYTVQKMGY are not connected.
 No edge exists between the cities SIWIHHTGGV and YGVBEKNOBY
-The cities SIWIHHTGGV and YGVBEKNOBY are connected.
+The cities SIWIHHTGGV and YGVBEKNOBY are not connected.
 No edge exists between the cities OTYZERVHPJ and ZKDEUSXDYW
-The cities OTYZERVHPJ and ZKDEUSXDYW are connected.
+The cities OTYZERVHPJ and ZKDEUSXDYW are not connected.
 The distance between the cities TFPLRYLPSO and RSMTGOROUX is 987
-The cities TFPLRYLPSO and RSMTGOROUX are connected.
+The cities TFPLRYLPSO and RSMTGOROUX are not connected.
 No edge exists between the cities RBGKLOQXWK and LRPEPDUMJW
-The cities RBGKLOQXWK and LRPEPDUMJW are connected.
+The cities RBGKLOQXWK and LRPEPDUMJW are not connected.
 The distance between the cities BVMELBXEPY and RXHBBEJKBI is 445
-The cities BVMELBXEPY and RXHBBEJKBI are connected.
+The cities BVMELBXEPY and RXHBBEJKBI are not connected.
 No edge exists between the cities QVRITICNRQ and MCZSRROUFE
-The cities QVRITICNRQ and MCZSRROUFE are connected.
+The cities QVRITICNRQ and MCZSRROUFE are not connected.
 No edge exists between the cities MKQZEQTYLD and ORXYIVQSOV
-The cities MKQZEQTYLD and ORXYIVQSOV are connected.
+The cities MKQZEQTYLD and ORXYIVQSOV are not connected.
 The distance between the cities RBGKLOQXWK and CMEDWESAZB is 735
-The cities RBGKLOQXWK and CMEDWESAZB are connected.
+The cities RBGKLOQXWK and CMEDWESAZB are not connected.
 No edge exists between the cities BTYWWHCUOB and HBNNCYQVHI
-The cities BTYWWHCUOB and HBNNCYQVHI are connected.
+The cities BTYWWHCUOB and HBNNCYQVHI are not connected.
 No edge exists between the cities LRPEPDUMJW and KQYTVQKMGY
 The cities LRPEPDUMJW and KQYTVQKMGY are not connected.
 No edge exists between the cities UAKYDLGGNF and IQQGEZKKHE
-The cities UAKYDLGGNF and IQQGEZKKHE are connected.
+The cities UAKYDLGGNF and IQQGEZKKHE are not connected.
 No edge exists between the cities EZDALDBNCJ and KNMEUNVWFL
 The cities EZDALDBNCJ and KNMEUNVWFL are not connected.
 No edge exists between the cities BZVJLJHMQR and BDEVXFYMXR
 The cities BZVJLJHMQR and BDEVXFYMXR are connected.
 The distance between the cities BVMELBXEPY and NCTOSUYUMM is 796
-The cities BVMELBXEPY and NCTOSUYUMM are connected.
+The cities BVMELBXEPY and NCTOSUYUMM are not connected.
 No edge exists between the cities NGDOJOMWAL and FKWCGGVVJT
 The cities NGDOJOMWAL and FKWCGGVVJT are not connected.
 No edge exists between the cities NNGPSYCEFU and GQNZKWRZSK
-The cities NNGPSYCEFU and GQNZKWRZSK are connected.
+The cities NNGPSYCEFU and GQNZKWRZSK are not connected.
 No edge exists between the cities VMNASMCXXF and OKMUPXOLEL
 The cities VMNASMCXXF and OKMUPXOLEL are connected.
 No edge exists between the cities DWGAYPLDOC and RIACTLWTHA
@@ -6438,71 +6438,71 @@ The cities DWGAYPLDOC and RIACTLWTHA are connected.
 No edge exists between the cities EIACGTMSXT and GQNZKWRZSK
 The cities EIACGTMSXT and GQNZKWRZSK are not connected.
 No edge exists between the cities PFHPTPMGPZ and LKBTTPKGAL
-The cities PFHPTPMGPZ and LKBTTPKGAL are connected.
+The cities PFHPTPMGPZ and LKBTTPKGAL are not connected.
 The distance between the cities PFHPTPMGPZ and VIEGYVQBGS is 750
-The cities PFHPTPMGPZ and VIEGYVQBGS are connected.
+The cities PFHPTPMGPZ and VIEGYVQBGS are not connected.
 No edge exists between the cities PLAPISWMQT and ACUQVRUVEP
-The cities PLAPISWMQT and ACUQVRUVEP are connected.
+The cities PLAPISWMQT and ACUQVRUVEP are not connected.
 No edge exists between the cities XBKBTPGUXY and JNRLGLUBGB
-The cities XBKBTPGUXY and JNRLGLUBGB are connected.
+The cities XBKBTPGUXY and JNRLGLUBGB are not connected.
 The distance between the cities QHBHKDZVHU and KQYTVQKMGY is 5
-The cities QHBHKDZVHU and KQYTVQKMGY are connected.
+The cities QHBHKDZVHU and KQYTVQKMGY are not connected.
 No edge exists between the cities VRFCAEWWUE and PFHPTPMGPZ
 The cities VRFCAEWWUE and PFHPTPMGPZ are not connected.
 No edge exists between the cities QSPCBCZLPT and ZKDEUSXDYW
-The cities QSPCBCZLPT and ZKDEUSXDYW are connected.
+The cities QSPCBCZLPT and ZKDEUSXDYW are not connected.
 No edge exists between the cities BLSNHZYYJQ and RXHBBEJKBI
-The cities BLSNHZYYJQ and RXHBBEJKBI are connected.
+The cities BLSNHZYYJQ and RXHBBEJKBI are not connected.
 The distance between the cities EAWXGNERED and PLAPISWMQT is 805
-The cities EAWXGNERED and PLAPISWMQT are connected.
+The cities EAWXGNERED and PLAPISWMQT are not connected.
 No edge exists between the cities PFHPTPMGPZ and EOFGUAXWOJ
-The cities PFHPTPMGPZ and EOFGUAXWOJ are connected.
+The cities PFHPTPMGPZ and EOFGUAXWOJ are not connected.
 The distance between the cities QMPZGEBUEO and CHZHZGUDCL is 537
-The cities QMPZGEBUEO and CHZHZGUDCL are connected.
+The cities QMPZGEBUEO and CHZHZGUDCL are not connected.
 No edge exists between the cities YGVBEKNOBY and XYSHLRPWOR
-The cities YGVBEKNOBY and XYSHLRPWOR are connected.
+The cities YGVBEKNOBY and XYSHLRPWOR are not connected.
 No edge exists between the cities BZVJLJHMQR and SGBRGOLFJJ
 The cities BZVJLJHMQR and SGBRGOLFJJ are connected.
 No edge exists between the cities OIVJBSATBQ and QXCEECNVFB
 The cities OIVJBSATBQ and QXCEECNVFB are not connected.
 No edge exists between the cities WEPECMMUGX and NCTOSUYUMM
-The cities WEPECMMUGX and NCTOSUYUMM are connected.
+The cities WEPECMMUGX and NCTOSUYUMM are not connected.
 The distance between the cities CMEDWESAZB and PGLQMDSALV is 166
-The cities CMEDWESAZB and PGLQMDSALV are connected.
+The cities CMEDWESAZB and PGLQMDSALV are not connected.
 The distance between the cities MKQZEQTYLD and YGVBEKNOBY is 417
-The cities MKQZEQTYLD and YGVBEKNOBY are connected.
+The cities MKQZEQTYLD and YGVBEKNOBY are not connected.
 No edge exists between the cities MNDKVUZWZL and MDFMKVEWWB
-The cities MNDKVUZWZL and MDFMKVEWWB are connected.
+The cities MNDKVUZWZL and MDFMKVEWWB are not connected.
 No edge exists between the cities MKQZEQTYLD and HBNNCYQVHI
-The cities MKQZEQTYLD and HBNNCYQVHI are connected.
+The cities MKQZEQTYLD and HBNNCYQVHI are not connected.
 No edge exists between the cities EOFGUAXWOJ and QHBHKDZVHU
 The cities EOFGUAXWOJ and QHBHKDZVHU are connected.
 The distance between the cities GQNZKWRZSK and FRTOKGYQTA is 657
-The cities GQNZKWRZSK and FRTOKGYQTA are connected.
+The cities GQNZKWRZSK and FRTOKGYQTA are not connected.
 No edge exists between the cities MDFMKVEWWB and KDHIJELYNQ
-The cities MDFMKVEWWB and KDHIJELYNQ are connected.
+The cities MDFMKVEWWB and KDHIJELYNQ are not connected.
 No edge exists between the cities HMEBYSUOMG and BLSNHZYYJQ
-The cities HMEBYSUOMG and BLSNHZYYJQ are connected.
+The cities HMEBYSUOMG and BLSNHZYYJQ are not connected.
 No edge exists between the cities QHBHKDZVHU and NGDOJOMWAL
 The cities QHBHKDZVHU and NGDOJOMWAL are not connected.
 No edge exists between the cities GQNZKWRZSK and MDFMKVEWWB
-The cities GQNZKWRZSK and MDFMKVEWWB are connected.
+The cities GQNZKWRZSK and MDFMKVEWWB are not connected.
 The distance between the cities UOACQZZSJC and PGLQMDSALV is 230
-The cities UOACQZZSJC and PGLQMDSALV are connected.
+The cities UOACQZZSJC and PGLQMDSALV are not connected.
 No edge exists between the cities GQNZKWRZSK and SECYLKVISX
 The cities GQNZKWRZSK and SECYLKVISX are connected.
 No edge exists between the cities OSWYMAOXSI and OAXIDDKIBR
-The cities OSWYMAOXSI and OAXIDDKIBR are connected.
+The cities OSWYMAOXSI and OAXIDDKIBR are not connected.
 No edge exists between the cities ASNIFVVIQU and QHBHKDZVHU
-The cities ASNIFVVIQU and QHBHKDZVHU are connected.
+The cities ASNIFVVIQU and QHBHKDZVHU are not connected.
 No edge exists between the cities WOQDBNPLFM and HBNNCYQVHI
 The cities WOQDBNPLFM and HBNNCYQVHI are connected.
 No edge exists between the cities KFORLGQYNF and VXWCNLHPKD
-The cities KFORLGQYNF and VXWCNLHPKD are connected.
+The cities KFORLGQYNF and VXWCNLHPKD are not connected.
 No edge exists between the cities BTYWWHCUOB and XIYTTSJLJY
 The cities BTYWWHCUOB and XIYTTSJLJY are connected.
 No edge exists between the cities JJHMKPWAWI and ASNIFVVIQU
-The cities JJHMKPWAWI and ASNIFVVIQU are connected.
+The cities JJHMKPWAWI and ASNIFVVIQU are not connected.
 No edge exists between the cities KFORLGQYNF and JJHMKPWAWI
 The cities KFORLGQYNF and JJHMKPWAWI are not connected.
 No edge exists between the cities VIEGYVQBGS and VMHZZZNDRX
@@ -6510,67 +6510,67 @@ The cities VIEGYVQBGS and VMHZZZNDRX are not connected.
 No edge exists between the cities SHEKDXKTWP and CBJRBAAQFV
 The cities SHEKDXKTWP and CBJRBAAQFV are not connected.
 The distance between the cities NNGPSYCEFU and PLAPISWMQT is 363
-The cities NNGPSYCEFU and PLAPISWMQT are connected.
+The cities NNGPSYCEFU and PLAPISWMQT are not connected.
 No edge exists between the cities HBNNCYQVHI and PFWLJAUZVO
-The cities HBNNCYQVHI and PFWLJAUZVO are connected.
+The cities HBNNCYQVHI and PFWLJAUZVO are not connected.
 The distance between the cities BLSNHZYYJQ and EOFGUAXWOJ is 24
-The cities BLSNHZYYJQ and EOFGUAXWOJ are connected.
+The cities BLSNHZYYJQ and EOFGUAXWOJ are not connected.
 The distance between the cities LGUJVAHJIW and PXJPQZOXWH is 980
-The cities LGUJVAHJIW and PXJPQZOXWH are connected.
+The cities LGUJVAHJIW and PXJPQZOXWH are not connected.
 No edge exists between the cities EOFGUAXWOJ and SHEKDXKTWP
 The cities EOFGUAXWOJ and SHEKDXKTWP are connected.
 No edge exists between the cities MNDKVUZWZL and HMEBYSUOMG
-The cities MNDKVUZWZL and HMEBYSUOMG are connected.
+The cities MNDKVUZWZL and HMEBYSUOMG are not connected.
 No edge exists between the cities NGDOJOMWAL and VVYIZAVXLN
 The cities NGDOJOMWAL and VVYIZAVXLN are not connected.
 No edge exists between the cities XBKBTPGUXY and ASNIFVVIQU
-The cities XBKBTPGUXY and ASNIFVVIQU are connected.
+The cities XBKBTPGUXY and ASNIFVVIQU are not connected.
 The distance between the cities IUQJDTQQQF and MSIZISKWQV is 43
-The cities IUQJDTQQQF and MSIZISKWQV are connected.
+The cities IUQJDTQQQF and MSIZISKWQV are not connected.
 The distance between the cities CMEDWESAZB and ANQRKUEGIB is 731
-The cities CMEDWESAZB and ANQRKUEGIB are connected.
+The cities CMEDWESAZB and ANQRKUEGIB are not connected.
 No edge exists between the cities NNGPSYCEFU and VVYJPGMQOA
-The cities NNGPSYCEFU and VVYJPGMQOA are connected.
+The cities NNGPSYCEFU and VVYJPGMQOA are not connected.
 The distance between the cities WDBVYIAYMZ and ACUQVRUVEP is 949
-The cities WDBVYIAYMZ and ACUQVRUVEP are connected.
+The cities WDBVYIAYMZ and ACUQVRUVEP are not connected.
 The distance between the cities IQPXTOBZKF and NCTOSUYUMM is 108
-The cities IQPXTOBZKF and NCTOSUYUMM are connected.
+The cities IQPXTOBZKF and NCTOSUYUMM are not connected.
 No edge exists between the cities FKWCGGVVJT and HMEBYSUOMG
-The cities FKWCGGVVJT and HMEBYSUOMG are connected.
+The cities FKWCGGVVJT and HMEBYSUOMG are not connected.
 No edge exists between the cities ORXYIVQSOV and GACDWTIYJR
-The cities ORXYIVQSOV and GACDWTIYJR are connected.
+The cities ORXYIVQSOV and GACDWTIYJR are not connected.
 No edge exists between the cities HMEBYSUOMG and DLCQJVHBCG
 The cities HMEBYSUOMG and DLCQJVHBCG are connected.
 No edge exists between the cities SIWIHHTGGV and EAWXGNERED
-The cities SIWIHHTGGV and EAWXGNERED are connected.
+The cities SIWIHHTGGV and EAWXGNERED are not connected.
 No edge exists between the cities BLSNHZYYJQ and QNVYXJSBPS
 The cities BLSNHZYYJQ and QNVYXJSBPS are not connected.
 No edge exists between the cities LIBKVLRVCS and NCTOSUYUMM
-The cities LIBKVLRVCS and NCTOSUYUMM are connected.
+The cities LIBKVLRVCS and NCTOSUYUMM are not connected.
 No edge exists between the cities SKAFGQFLOJ and FDNQTXQLDI
-The cities SKAFGQFLOJ and FDNQTXQLDI are connected.
+The cities SKAFGQFLOJ and FDNQTXQLDI are not connected.
 No edge exists between the cities BEVSOWUDIY and OAXIDDKIBR
 The cities BEVSOWUDIY and OAXIDDKIBR are not connected.
 No edge exists between the cities EOFGUAXWOJ and OWSTZHMWZL
 The cities EOFGUAXWOJ and OWSTZHMWZL are connected.
 No edge exists between the cities IWRLCYWTCH and CBJRBAAQFV
-The cities IWRLCYWTCH and CBJRBAAQFV are connected.
+The cities IWRLCYWTCH and CBJRBAAQFV are not connected.
 No edge exists between the cities GACDWTIYJR and FDNQTXQLDI
-The cities GACDWTIYJR and FDNQTXQLDI are connected.
+The cities GACDWTIYJR and FDNQTXQLDI are not connected.
 No edge exists between the cities UOACQZZSJC and JNRLGLUBGB
-The cities UOACQZZSJC and JNRLGLUBGB are connected.
+The cities UOACQZZSJC and JNRLGLUBGB are not connected.
 No edge exists between the cities TFPLRYLPSO and BZZDSCMDGW
 The cities TFPLRYLPSO and BZZDSCMDGW are not connected.
 No edge exists between the cities MNDKVUZWZL and MKQZEQTYLD
-The cities MNDKVUZWZL and MKQZEQTYLD are connected.
+The cities MNDKVUZWZL and MKQZEQTYLD are not connected.
 No edge exists between the cities SIWIHHTGGV and PFHPTPMGPZ
-The cities SIWIHHTGGV and PFHPTPMGPZ are connected.
+The cities SIWIHHTGGV and PFHPTPMGPZ are not connected.
 No edge exists between the cities KQYTVQKMGY and GMYZKCNMHM
-The cities KQYTVQKMGY and GMYZKCNMHM are connected.
+The cities KQYTVQKMGY and GMYZKCNMHM are not connected.
 No edge exists between the cities EIACGTMSXT and VMNASMCXXF
 The cities EIACGTMSXT and VMNASMCXXF are not connected.
 No edge exists between the cities ORXYIVQSOV and RXHBBEJKBI
-The cities ORXYIVQSOV and RXHBBEJKBI are connected.
+The cities ORXYIVQSOV and RXHBBEJKBI are not connected.
 No edge exists between the cities CBJRBAAQFV and IQQGEZKKHE
 The cities CBJRBAAQFV and IQQGEZKKHE are not connected.
 No edge exists between the cities EIACGTMSXT and WXLLHUWNMB
@@ -6580,17 +6580,17 @@ The cities VXWCNLHPKD and RXHBBEJKBI are connected.
 No edge exists between the cities KVCHUMDPBZ and MKQZEQTYLD
 The cities KVCHUMDPBZ and MKQZEQTYLD are not connected.
 The distance between the cities SHEKDXKTWP and QMPZGEBUEO is 639
-The cities SHEKDXKTWP and QMPZGEBUEO are connected.
+The cities SHEKDXKTWP and QMPZGEBUEO are not connected.
 No edge exists between the cities IQPXTOBZKF and QHBHKDZVHU
 The cities IQPXTOBZKF and QHBHKDZVHU are not connected.
 No edge exists between the cities SIWIHHTGGV and MUQWXIRLCO
-The cities SIWIHHTGGV and MUQWXIRLCO are connected.
+The cities SIWIHHTGGV and MUQWXIRLCO are not connected.
 No edge exists between the cities DMYRYRBKKQ and RSMTGOROUX
 The cities DMYRYRBKKQ and RSMTGOROUX are connected.
 No edge exists between the cities WDBVYIAYMZ and VRFCAEWWUE
-The cities WDBVYIAYMZ and VRFCAEWWUE are connected.
+The cities WDBVYIAYMZ and VRFCAEWWUE are not connected.
 No edge exists between the cities UAKYDLGGNF and MDFMKVEWWB
-The cities UAKYDLGGNF and MDFMKVEWWB are connected.
+The cities UAKYDLGGNF and MDFMKVEWWB are not connected.
 No edge exists between the cities PLAPISWMQT and TEOUGEDKBC
 The cities PLAPISWMQT and TEOUGEDKBC are not connected.
 No edge exists between the cities ANQRKUEGIB and SIWIHHTGGV
@@ -6598,115 +6598,115 @@ The cities ANQRKUEGIB and SIWIHHTGGV are connected.
 No edge exists between the cities LGUJVAHJIW and GACDWTIYJR
 The cities LGUJVAHJIW and GACDWTIYJR are not connected.
 No edge exists between the cities RIACTLWTHA and UAKYDLGGNF
-The cities RIACTLWTHA and UAKYDLGGNF are connected.
+The cities RIACTLWTHA and UAKYDLGGNF are not connected.
 No edge exists between the cities MKQZEQTYLD and CHZHZGUDCL
-The cities MKQZEQTYLD and CHZHZGUDCL are connected.
+The cities MKQZEQTYLD and CHZHZGUDCL are not connected.
 No edge exists between the cities IWRLCYWTCH and PFHPTPMGPZ
-The cities IWRLCYWTCH and PFHPTPMGPZ are connected.
+The cities IWRLCYWTCH and PFHPTPMGPZ are not connected.
 No edge exists between the cities ZKDEUSXDYW and SGBRGOLFJJ
-The cities ZKDEUSXDYW and SGBRGOLFJJ are connected.
+The cities ZKDEUSXDYW and SGBRGOLFJJ are not connected.
 No edge exists between the cities IQQGEZKKHE and VVYJPGMQOA
 The cities IQQGEZKKHE and VVYJPGMQOA are not connected.
 The distance between the cities VXWCNLHPKD and HMEBYSUOMG is 730
-The cities VXWCNLHPKD and HMEBYSUOMG are connected.
+The cities VXWCNLHPKD and HMEBYSUOMG are not connected.
 The distance between the cities RIACTLWTHA and RBBGXPNQMH is 948
-The cities RIACTLWTHA and RBBGXPNQMH are connected.
+The cities RIACTLWTHA and RBBGXPNQMH are not connected.
 No edge exists between the cities TFPLRYLPSO and DWGAYPLDOC
 The cities TFPLRYLPSO and DWGAYPLDOC are not connected.
 No edge exists between the cities MCZSRROUFE and GQNZKWRZSK
 The cities MCZSRROUFE and GQNZKWRZSK are not connected.
 The distance between the cities OSWYMAOXSI and IGHNYLQEDT is 964
-The cities OSWYMAOXSI and IGHNYLQEDT are connected.
+The cities OSWYMAOXSI and IGHNYLQEDT are not connected.
 The distance between the cities FKWCGGVVJT and PLWWUFMRYE is 231
-The cities FKWCGGVVJT and PLWWUFMRYE are connected.
+The cities FKWCGGVVJT and PLWWUFMRYE are not connected.
 The distance between the cities MKQZEQTYLD and GACDWTIYJR is 571
-The cities MKQZEQTYLD and GACDWTIYJR are connected.
+The cities MKQZEQTYLD and GACDWTIYJR are not connected.
 No edge exists between the cities PLWWUFMRYE and MDFMKVEWWB
-The cities PLWWUFMRYE and MDFMKVEWWB are connected.
+The cities PLWWUFMRYE and MDFMKVEWWB are not connected.
 No edge exists between the cities MCZSRROUFE and KFORLGQYNF
 The cities MCZSRROUFE and KFORLGQYNF are not connected.
 No edge exists between the cities XYSHLRPWOR and GMYZKCNMHM
-The cities XYSHLRPWOR and GMYZKCNMHM are connected.
+The cities XYSHLRPWOR and GMYZKCNMHM are not connected.
 No edge exists between the cities LGUJVAHJIW and MDFMKVEWWB
-The cities LGUJVAHJIW and MDFMKVEWWB are connected.
+The cities LGUJVAHJIW and MDFMKVEWWB are not connected.
 No edge exists between the cities BZVJLJHMQR and BZZDSCMDGW
-The cities BZVJLJHMQR and BZZDSCMDGW are connected.
+The cities BZVJLJHMQR and BZZDSCMDGW are not connected.
 No edge exists between the cities ACUQVRUVEP and FDNQTXQLDI
 The cities ACUQVRUVEP and FDNQTXQLDI are not connected.
 The distance between the cities XYSHLRPWOR and CMEDWESAZB is 90
-The cities XYSHLRPWOR and CMEDWESAZB are connected.
+The cities XYSHLRPWOR and CMEDWESAZB are not connected.
 No edge exists between the cities PGLQMDSALV and BLSNHZYYJQ
 The cities PGLQMDSALV and BLSNHZYYJQ are not connected.
 The distance between the cities ZKDEUSXDYW and LKBTTPKGAL is 624
-The cities ZKDEUSXDYW and LKBTTPKGAL are connected.
+The cities ZKDEUSXDYW and LKBTTPKGAL are not connected.
 No edge exists between the cities KQYTVQKMGY and KVCHUMDPBZ
-The cities KQYTVQKMGY and KVCHUMDPBZ are connected.
+The cities KQYTVQKMGY and KVCHUMDPBZ are not connected.
 No edge exists between the cities CBJRBAAQFV and PFWLJAUZVO
 The cities CBJRBAAQFV and PFWLJAUZVO are not connected.
 The distance between the cities UAKYDLGGNF and RBBGXPNQMH is 214
-The cities UAKYDLGGNF and RBBGXPNQMH are connected.
+The cities UAKYDLGGNF and RBBGXPNQMH are not connected.
 No edge exists between the cities SKAFGQFLOJ and MCZSRROUFE
-The cities SKAFGQFLOJ and MCZSRROUFE are connected.
+The cities SKAFGQFLOJ and MCZSRROUFE are not connected.
 No edge exists between the cities FRTOKGYQTA and UAKYDLGGNF
-The cities FRTOKGYQTA and UAKYDLGGNF are connected.
+The cities FRTOKGYQTA and UAKYDLGGNF are not connected.
 No edge exists between the cities OIVJBSATBQ and FRTOKGYQTA
-The cities OIVJBSATBQ and FRTOKGYQTA are connected.
+The cities OIVJBSATBQ and FRTOKGYQTA are not connected.
 No edge exists between the cities EZDALDBNCJ and LIBKVLRVCS
-The cities EZDALDBNCJ and LIBKVLRVCS are connected.
+The cities EZDALDBNCJ and LIBKVLRVCS are not connected.
 The distance between the cities KDHIJELYNQ and WXLLHUWNMB is 97
-The cities KDHIJELYNQ and WXLLHUWNMB are connected.
+The cities KDHIJELYNQ and WXLLHUWNMB are not connected.
 No edge exists between the cities WXLLHUWNMB and ANQRKUEGIB
-The cities WXLLHUWNMB and ANQRKUEGIB are connected.
+The cities WXLLHUWNMB and ANQRKUEGIB are not connected.
 No edge exists between the cities NGDOJOMWAL and SHEKDXKTWP
-The cities NGDOJOMWAL and SHEKDXKTWP are connected.
+The cities NGDOJOMWAL and SHEKDXKTWP are not connected.
 No edge exists between the cities IGHNYLQEDT and NNDTYWSQSG
 The cities IGHNYLQEDT and NNDTYWSQSG are not connected.
 The distance between the cities MDFMKVEWWB and SOQLCETRQO is 288
-The cities MDFMKVEWWB and SOQLCETRQO are connected.
+The cities MDFMKVEWWB and SOQLCETRQO are not connected.
 No edge exists between the cities CMEDWESAZB and DKFBGQMKMA
-The cities CMEDWESAZB and DKFBGQMKMA are connected.
+The cities CMEDWESAZB and DKFBGQMKMA are not connected.
 No edge exists between the cities SHEKDXKTWP and PLWWUFMRYE
-The cities SHEKDXKTWP and PLWWUFMRYE are connected.
+The cities SHEKDXKTWP and PLWWUFMRYE are not connected.
 No edge exists between the cities LDOYJKHYDW and WDBVYIAYMZ
-The cities LDOYJKHYDW and WDBVYIAYMZ are connected.
+The cities LDOYJKHYDW and WDBVYIAYMZ are not connected.
 No edge exists between the cities JNRLGLUBGB and VIEGYVQBGS
-The cities JNRLGLUBGB and VIEGYVQBGS are connected.
+The cities JNRLGLUBGB and VIEGYVQBGS are not connected.
 No edge exists between the cities TFPLRYLPSO and HBNNCYQVHI
 The cities TFPLRYLPSO and HBNNCYQVHI are not connected.
 The distance between the cities EAWXGNERED and CBJRBAAQFV is 421
-The cities EAWXGNERED and CBJRBAAQFV are connected.
+The cities EAWXGNERED and CBJRBAAQFV are not connected.
 No edge exists between the cities SECYLKVISX and EZDALDBNCJ
 The cities SECYLKVISX and EZDALDBNCJ are connected.
 The distance between the cities RBBGXPNQMH and NCTOSUYUMM is 996
-The cities RBBGXPNQMH and NCTOSUYUMM are connected.
+The cities RBBGXPNQMH and NCTOSUYUMM are not connected.
 The distance between the cities ASNIFVVIQU and QSPCBCZLPT is 86
-The cities ASNIFVVIQU and QSPCBCZLPT are connected.
+The cities ASNIFVVIQU and QSPCBCZLPT are not connected.
 No edge exists between the cities XIYTTSJLJY and BVMELBXEPY
-The cities XIYTTSJLJY and BVMELBXEPY are connected.
+The cities XIYTTSJLJY and BVMELBXEPY are not connected.
 The distance between the cities MUQWXIRLCO and IUQJDTQQQF is 973
-The cities MUQWXIRLCO and IUQJDTQQQF are connected.
+The cities MUQWXIRLCO and IUQJDTQQQF are not connected.
 No edge exists between the cities CBJRBAAQFV and FKWCGGVVJT
-The cities CBJRBAAQFV and FKWCGGVVJT are connected.
+The cities CBJRBAAQFV and FKWCGGVVJT are not connected.
 No edge exists between the cities BVMELBXEPY and SIWIHHTGGV
-The cities BVMELBXEPY and SIWIHHTGGV are connected.
+The cities BVMELBXEPY and SIWIHHTGGV are not connected.
 No edge exists between the cities LKBTTPKGAL and YGVBEKNOBY
 The cities LKBTTPKGAL and YGVBEKNOBY are not connected.
 No edge exists between the cities OAXIDDKIBR and FKWCGGVVJT
-The cities OAXIDDKIBR and FKWCGGVVJT are connected.
+The cities OAXIDDKIBR and FKWCGGVVJT are not connected.
 The distance between the cities IGHNYLQEDT and QSPCBCZLPT is 388
-The cities IGHNYLQEDT and QSPCBCZLPT are connected.
+The cities IGHNYLQEDT and QSPCBCZLPT are not connected.
 No edge exists between the cities VVYIZAVXLN and ANQRKUEGIB
-The cities VVYIZAVXLN and ANQRKUEGIB are connected.
+The cities VVYIZAVXLN and ANQRKUEGIB are not connected.
 The distance between the cities QLWZPHASRE and GMYZKCNMHM is 996
-The cities QLWZPHASRE and GMYZKCNMHM are connected.
+The cities QLWZPHASRE and GMYZKCNMHM are not connected.
 No edge exists between the cities LGUJVAHJIW and MKQZEQTYLD
 The cities LGUJVAHJIW and MKQZEQTYLD are not connected.
 No edge exists between the cities PGLQMDSALV and MCZSRROUFE
 The cities PGLQMDSALV and MCZSRROUFE are not connected.
 No edge exists between the cities ANQRKUEGIB and NNDTYWSQSG
-The cities ANQRKUEGIB and NNDTYWSQSG are connected.
+The cities ANQRKUEGIB and NNDTYWSQSG are not connected.
 No edge exists between the cities MNDKVUZWZL and DLCQJVHBCG
-The cities MNDKVUZWZL and DLCQJVHBCG are connected.
+The cities MNDKVUZWZL and DLCQJVHBCG are not connected.
 No edge exists between the cities OTYZERVHPJ and FDNQTXQLDI
 The cities OTYZERVHPJ and FDNQTXQLDI are connected.
 No edge exists between the cities OSWYMAOXSI and KQYTVQKMGY
@@ -6714,205 +6714,205 @@ The cities OSWYMAOXSI and KQYTVQKMGY are not connected.
 No edge exists between the cities GMYZKCNMHM and EZDALDBNCJ
 The cities GMYZKCNMHM and EZDALDBNCJ are connected.
 No edge exists between the cities UOACQZZSJC and TOHYNTPFQI
-The cities UOACQZZSJC and TOHYNTPFQI are connected.
+The cities UOACQZZSJC and TOHYNTPFQI are not connected.
 No edge exists between the cities LGUJVAHJIW and EAWXGNERED
 The cities LGUJVAHJIW and EAWXGNERED are not connected.
 No edge exists between the cities SECYLKVISX and OSWYMAOXSI
-The cities SECYLKVISX and OSWYMAOXSI are connected.
+The cities SECYLKVISX and OSWYMAOXSI are not connected.
 No edge exists between the cities ORXYIVQSOV and QSPCBCZLPT
-The cities ORXYIVQSOV and QSPCBCZLPT are connected.
+The cities ORXYIVQSOV and QSPCBCZLPT are not connected.
 The distance between the cities TOHYNTPFQI and RBBGXPNQMH is 763
-The cities TOHYNTPFQI and RBBGXPNQMH are connected.
+The cities TOHYNTPFQI and RBBGXPNQMH are not connected.
 No edge exists between the cities BLSNHZYYJQ and RSMTGOROUX
-The cities BLSNHZYYJQ and RSMTGOROUX are connected.
+The cities BLSNHZYYJQ and RSMTGOROUX are not connected.
 No edge exists between the cities LIBKVLRVCS and EOFGUAXWOJ
-The cities LIBKVLRVCS and EOFGUAXWOJ are connected.
+The cities LIBKVLRVCS and EOFGUAXWOJ are not connected.
 No edge exists between the cities VMNASMCXXF and BZZDSCMDGW
-The cities VMNASMCXXF and BZZDSCMDGW are connected.
+The cities VMNASMCXXF and BZZDSCMDGW are not connected.
 No edge exists between the cities HBNNCYQVHI and XIYTTSJLJY
-The cities HBNNCYQVHI and XIYTTSJLJY are connected.
+The cities HBNNCYQVHI and XIYTTSJLJY are not connected.
 No edge exists between the cities BZZDSCMDGW and SGBRGOLFJJ
-The cities BZZDSCMDGW and SGBRGOLFJJ are connected.
+The cities BZZDSCMDGW and SGBRGOLFJJ are not connected.
 No edge exists between the cities ASNIFVVIQU and JJHMKPWAWI
-The cities ASNIFVVIQU and JJHMKPWAWI are connected.
+The cities ASNIFVVIQU and JJHMKPWAWI are not connected.
 No edge exists between the cities LJHHCZQAOQ and QSPCBCZLPT
-The cities LJHHCZQAOQ and QSPCBCZLPT are connected.
+The cities LJHHCZQAOQ and QSPCBCZLPT are not connected.
 No edge exists between the cities PLWWUFMRYE and QLWZPHASRE
-The cities PLWWUFMRYE and QLWZPHASRE are connected.
+The cities PLWWUFMRYE and QLWZPHASRE are not connected.
 No edge exists between the cities CBJRBAAQFV and DWGAYPLDOC
 The cities CBJRBAAQFV and DWGAYPLDOC are not connected.
 No edge exists between the cities TOHYNTPFQI and BVMELBXEPY
-The cities TOHYNTPFQI and BVMELBXEPY are connected.
+The cities TOHYNTPFQI and BVMELBXEPY are not connected.
 No edge exists between the cities JJHMKPWAWI and BEVSOWUDIY
-The cities JJHMKPWAWI and BEVSOWUDIY are connected.
+The cities JJHMKPWAWI and BEVSOWUDIY are not connected.
 No edge exists between the cities JJHMKPWAWI and GPXHTAZITE
 The cities JJHMKPWAWI and GPXHTAZITE are connected.
 No edge exists between the cities CMEDWESAZB and JNRLGLUBGB
-The cities CMEDWESAZB and JNRLGLUBGB are connected.
+The cities CMEDWESAZB and JNRLGLUBGB are not connected.
 No edge exists between the cities NCTOSUYUMM and MKQZEQTYLD
 The cities NCTOSUYUMM and MKQZEQTYLD are connected.
 No edge exists between the cities BZZDSCMDGW and BVMELBXEPY
 The cities BZZDSCMDGW and BVMELBXEPY are not connected.
 No edge exists between the cities VXWCNLHPKD and TOHYNTPFQI
-The cities VXWCNLHPKD and TOHYNTPFQI are connected.
+The cities VXWCNLHPKD and TOHYNTPFQI are not connected.
 The distance between the cities CHZHZGUDCL and PFHPTPMGPZ is 701
-The cities CHZHZGUDCL and PFHPTPMGPZ are connected.
+The cities CHZHZGUDCL and PFHPTPMGPZ are not connected.
 No edge exists between the cities GQNZKWRZSK and PLAPISWMQT
-The cities GQNZKWRZSK and PLAPISWMQT are connected.
+The cities GQNZKWRZSK and PLAPISWMQT are not connected.
 No edge exists between the cities SKAFGQFLOJ and BLSNHZYYJQ
-The cities SKAFGQFLOJ and BLSNHZYYJQ are connected.
+The cities SKAFGQFLOJ and BLSNHZYYJQ are not connected.
 No edge exists between the cities KFORLGQYNF and XBKBTPGUXY
-The cities KFORLGQYNF and XBKBTPGUXY are connected.
+The cities KFORLGQYNF and XBKBTPGUXY are not connected.
 The distance between the cities LIBKVLRVCS and VRFCAEWWUE is 404
-The cities LIBKVLRVCS and VRFCAEWWUE are connected.
+The cities LIBKVLRVCS and VRFCAEWWUE are not connected.
 No edge exists between the cities HMEBYSUOMG and SHEKDXKTWP
-The cities HMEBYSUOMG and SHEKDXKTWP are connected.
+The cities HMEBYSUOMG and SHEKDXKTWP are not connected.
 No edge exists between the cities NNGPSYCEFU and DLCQJVHBCG
-The cities NNGPSYCEFU and DLCQJVHBCG are connected.
+The cities NNGPSYCEFU and DLCQJVHBCG are not connected.
 No edge exists between the cities EIACGTMSXT and PXJPQZOXWH
 The cities EIACGTMSXT and PXJPQZOXWH are not connected.
 No edge exists between the cities EAWXGNERED and DIGKPAPMTO
 The cities EAWXGNERED and DIGKPAPMTO are connected.
 No edge exists between the cities GQNZKWRZSK and SOQLCETRQO
-The cities GQNZKWRZSK and SOQLCETRQO are connected.
+The cities GQNZKWRZSK and SOQLCETRQO are not connected.
 No edge exists between the cities MKQZEQTYLD and SGBRGOLFJJ
-The cities MKQZEQTYLD and SGBRGOLFJJ are connected.
+The cities MKQZEQTYLD and SGBRGOLFJJ are not connected.
 No edge exists between the cities EOFGUAXWOJ and CMEDWESAZB
-The cities EOFGUAXWOJ and CMEDWESAZB are connected.
+The cities EOFGUAXWOJ and CMEDWESAZB are not connected.
 The distance between the cities MUQWXIRLCO and KFORLGQYNF is 392
-The cities MUQWXIRLCO and KFORLGQYNF are connected.
+The cities MUQWXIRLCO and KFORLGQYNF are not connected.
 The distance between the cities QNVYXJSBPS and JQBZZQUZYP is 847
-The cities QNVYXJSBPS and JQBZZQUZYP are connected.
+The cities QNVYXJSBPS and JQBZZQUZYP are not connected.
 No edge exists between the cities SECYLKVISX and MDFMKVEWWB
-The cities SECYLKVISX and MDFMKVEWWB are connected.
+The cities SECYLKVISX and MDFMKVEWWB are not connected.
 The distance between the cities FKWCGGVVJT and PLWWUFMRYE is 231
-The cities FKWCGGVVJT and PLWWUFMRYE are connected.
+The cities FKWCGGVVJT and PLWWUFMRYE are not connected.
 No edge exists between the cities CBJRBAAQFV and JJHMKPWAWI
 The cities CBJRBAAQFV and JJHMKPWAWI are not connected.
 The distance between the cities RBGKLOQXWK and HMEBYSUOMG is 555
-The cities RBGKLOQXWK and HMEBYSUOMG are connected.
+The cities RBGKLOQXWK and HMEBYSUOMG are not connected.
 No edge exists between the cities RSMTGOROUX and BVMELBXEPY
-The cities RSMTGOROUX and BVMELBXEPY are connected.
+The cities RSMTGOROUX and BVMELBXEPY are not connected.
 No edge exists between the cities QSPCBCZLPT and MSIZISKWQV
-The cities QSPCBCZLPT and MSIZISKWQV are connected.
+The cities QSPCBCZLPT and MSIZISKWQV are not connected.
 No edge exists between the cities QNVYXJSBPS and ZKDEUSXDYW
-The cities QNVYXJSBPS and ZKDEUSXDYW are connected.
+The cities QNVYXJSBPS and ZKDEUSXDYW are not connected.
 No edge exists between the cities BLSNHZYYJQ and KVCHUMDPBZ
-The cities BLSNHZYYJQ and KVCHUMDPBZ are connected.
+The cities BLSNHZYYJQ and KVCHUMDPBZ are not connected.
 No edge exists between the cities HMEBYSUOMG and OKMUPXOLEL
-The cities HMEBYSUOMG and OKMUPXOLEL are connected.
+The cities HMEBYSUOMG and OKMUPXOLEL are not connected.
 No edge exists between the cities MSIZISKWQV and MKQZEQTYLD
-The cities MSIZISKWQV and MKQZEQTYLD are connected.
+The cities MSIZISKWQV and MKQZEQTYLD are not connected.
 No edge exists between the cities OWSTZHMWZL and VMNASMCXXF
 The cities OWSTZHMWZL and VMNASMCXXF are connected.
 The distance between the cities JQBZZQUZYP and OWSTZHMWZL is 698
-The cities JQBZZQUZYP and OWSTZHMWZL are connected.
+The cities JQBZZQUZYP and OWSTZHMWZL are not connected.
 No edge exists between the cities ACUQVRUVEP and QXCEECNVFB
 The cities ACUQVRUVEP and QXCEECNVFB are not connected.
 No edge exists between the cities OSWYMAOXSI and IUQJDTQQQF
-The cities OSWYMAOXSI and IUQJDTQQQF are connected.
+The cities OSWYMAOXSI and IUQJDTQQQF are not connected.
 No edge exists between the cities BZZDSCMDGW and GACDWTIYJR
-The cities BZZDSCMDGW and GACDWTIYJR are connected.
+The cities BZZDSCMDGW and GACDWTIYJR are not connected.
 No edge exists between the cities FDNQTXQLDI and EZDALDBNCJ
-The cities FDNQTXQLDI and EZDALDBNCJ are connected.
+The cities FDNQTXQLDI and EZDALDBNCJ are not connected.
 No edge exists between the cities GQNZKWRZSK and HMEBYSUOMG
-The cities GQNZKWRZSK and HMEBYSUOMG are connected.
+The cities GQNZKWRZSK and HMEBYSUOMG are not connected.
 No edge exists between the cities MSIZISKWQV and DLCQJVHBCG
-The cities MSIZISKWQV and DLCQJVHBCG are connected.
+The cities MSIZISKWQV and DLCQJVHBCG are not connected.
 No edge exists between the cities ANQRKUEGIB and OTYZERVHPJ
-The cities ANQRKUEGIB and OTYZERVHPJ are connected.
+The cities ANQRKUEGIB and OTYZERVHPJ are not connected.
 No edge exists between the cities RBBGXPNQMH and VMHZZZNDRX
-The cities RBBGXPNQMH and VMHZZZNDRX are connected.
+The cities RBBGXPNQMH and VMHZZZNDRX are not connected.
 No edge exists between the cities KFORLGQYNF and HMEBYSUOMG
-The cities KFORLGQYNF and HMEBYSUOMG are connected.
+The cities KFORLGQYNF and HMEBYSUOMG are not connected.
 No edge exists between the cities BZZDSCMDGW and SOQLCETRQO
-The cities BZZDSCMDGW and SOQLCETRQO are connected.
+The cities BZZDSCMDGW and SOQLCETRQO are not connected.
 No edge exists between the cities YBRSVCCNHT and TOHYNTPFQI
-The cities YBRSVCCNHT and TOHYNTPFQI are connected.
+The cities YBRSVCCNHT and TOHYNTPFQI are not connected.
 No edge exists between the cities OWSTZHMWZL and PLWWUFMRYE
-The cities OWSTZHMWZL and PLWWUFMRYE are connected.
+The cities OWSTZHMWZL and PLWWUFMRYE are not connected.
 The distance between the cities WDBVYIAYMZ and FRTOKGYQTA is 25
-The cities WDBVYIAYMZ and FRTOKGYQTA are connected.
+The cities WDBVYIAYMZ and FRTOKGYQTA are not connected.
 No edge exists between the cities XIYTTSJLJY and BEVSOWUDIY
-The cities XIYTTSJLJY and BEVSOWUDIY are connected.
+The cities XIYTTSJLJY and BEVSOWUDIY are not connected.
 No edge exists between the cities SKAFGQFLOJ and QLWZPHASRE
-The cities SKAFGQFLOJ and QLWZPHASRE are connected.
+The cities SKAFGQFLOJ and QLWZPHASRE are not connected.
 No edge exists between the cities OKMUPXOLEL and QHBHKDZVHU
-The cities OKMUPXOLEL and QHBHKDZVHU are connected.
+The cities OKMUPXOLEL and QHBHKDZVHU are not connected.
 The distance between the cities JQBZZQUZYP and PFHPTPMGPZ is 514
-The cities JQBZZQUZYP and PFHPTPMGPZ are connected.
+The cities JQBZZQUZYP and PFHPTPMGPZ are not connected.
 No edge exists between the cities ZKDEUSXDYW and TOHYNTPFQI
-The cities ZKDEUSXDYW and TOHYNTPFQI are connected.
+The cities ZKDEUSXDYW and TOHYNTPFQI are not connected.
 No edge exists between the cities OKMUPXOLEL and LGUJVAHJIW
 The cities OKMUPXOLEL and LGUJVAHJIW are not connected.
 No edge exists between the cities KQYTVQKMGY and LIBKVLRVCS
-The cities KQYTVQKMGY and LIBKVLRVCS are connected.
+The cities KQYTVQKMGY and LIBKVLRVCS are not connected.
 No edge exists between the cities ASNIFVVIQU and BVMELBXEPY
-The cities ASNIFVVIQU and BVMELBXEPY are connected.
+The cities ASNIFVVIQU and BVMELBXEPY are not connected.
 No edge exists between the cities RBBGXPNQMH and RXHBBEJKBI
-The cities RBBGXPNQMH and RXHBBEJKBI are connected.
+The cities RBBGXPNQMH and RXHBBEJKBI are not connected.
 No edge exists between the cities WXLLHUWNMB and LIBKVLRVCS
-The cities WXLLHUWNMB and LIBKVLRVCS are connected.
+The cities WXLLHUWNMB and LIBKVLRVCS are not connected.
 No edge exists between the cities WXLLHUWNMB and LDOYJKHYDW
-The cities WXLLHUWNMB and LDOYJKHYDW are connected.
+The cities WXLLHUWNMB and LDOYJKHYDW are not connected.
 No edge exists between the cities JJHMKPWAWI and YGVBEKNOBY
-The cities JJHMKPWAWI and YGVBEKNOBY are connected.
+The cities JJHMKPWAWI and YGVBEKNOBY are not connected.
 No edge exists between the cities PGLQMDSALV and MNDKVUZWZL
-The cities PGLQMDSALV and MNDKVUZWZL are connected.
+The cities PGLQMDSALV and MNDKVUZWZL are not connected.
 The distance between the cities ORXYIVQSOV and MSIZISKWQV is 897
-The cities ORXYIVQSOV and MSIZISKWQV are connected.
+The cities ORXYIVQSOV and MSIZISKWQV are not connected.
 No edge exists between the cities MCZSRROUFE and QSPCBCZLPT
 The cities MCZSRROUFE and QSPCBCZLPT are not connected.
 No edge exists between the cities YGVBEKNOBY and DWGAYPLDOC
 The cities YGVBEKNOBY and DWGAYPLDOC are connected.
 No edge exists between the cities BVMELBXEPY and GQNZKWRZSK
-The cities BVMELBXEPY and GQNZKWRZSK are connected.
+The cities BVMELBXEPY and GQNZKWRZSK are not connected.
 No edge exists between the cities QLWZPHASRE and MCZSRROUFE
 The cities QLWZPHASRE and MCZSRROUFE are connected.
 No edge exists between the cities DLCQJVHBCG and IUQJDTQQQF
-The cities DLCQJVHBCG and IUQJDTQQQF are connected.
+The cities DLCQJVHBCG and IUQJDTQQQF are not connected.
 No edge exists between the cities BZVJLJHMQR and LGUJVAHJIW
 The cities BZVJLJHMQR and LGUJVAHJIW are connected.
 The distance between the cities RSMTGOROUX and HMEBYSUOMG is 548
-The cities RSMTGOROUX and HMEBYSUOMG are connected.
+The cities RSMTGOROUX and HMEBYSUOMG are not connected.
 No edge exists between the cities YBRSVCCNHT and LRPEPDUMJW
 The cities YBRSVCCNHT and LRPEPDUMJW are not connected.
 No edge exists between the cities IUQJDTQQQF and CMEDWESAZB
-The cities IUQJDTQQQF and CMEDWESAZB are connected.
+The cities IUQJDTQQQF and CMEDWESAZB are not connected.
 The distance between the cities RIACTLWTHA and XYSHLRPWOR is 981
-The cities RIACTLWTHA and XYSHLRPWOR are connected.
+The cities RIACTLWTHA and XYSHLRPWOR are not connected.
 No edge exists between the cities SIWIHHTGGV and BDEVXFYMXR
-The cities SIWIHHTGGV and BDEVXFYMXR are connected.
+The cities SIWIHHTGGV and BDEVXFYMXR are not connected.
 No edge exists between the cities OWSTZHMWZL and QMPZGEBUEO
-The cities OWSTZHMWZL and QMPZGEBUEO are connected.
+The cities OWSTZHMWZL and QMPZGEBUEO are not connected.
 No edge exists between the cities KQYTVQKMGY and MNDKVUZWZL
-The cities KQYTVQKMGY and MNDKVUZWZL are connected.
+The cities KQYTVQKMGY and MNDKVUZWZL are not connected.
 The distance between the cities VRFCAEWWUE and DWGAYPLDOC is 993
-The cities VRFCAEWWUE and DWGAYPLDOC are connected.
+The cities VRFCAEWWUE and DWGAYPLDOC are not connected.
 No edge exists between the cities SHEKDXKTWP and MSIZISKWQV
-The cities SHEKDXKTWP and MSIZISKWQV are connected.
+The cities SHEKDXKTWP and MSIZISKWQV are not connected.
 The distance between the cities IQQGEZKKHE and LJHHCZQAOQ is 563
-The cities IQQGEZKKHE and LJHHCZQAOQ are connected.
+The cities IQQGEZKKHE and LJHHCZQAOQ are not connected.
 No edge exists between the cities VRFCAEWWUE and RBGKLOQXWK
 The cities VRFCAEWWUE and RBGKLOQXWK are not connected.
 No edge exists between the cities FRTOKGYQTA and QNVYXJSBPS
-The cities FRTOKGYQTA and QNVYXJSBPS are connected.
+The cities FRTOKGYQTA and QNVYXJSBPS are not connected.
 No edge exists between the cities VIEGYVQBGS and LDOYJKHYDW
-The cities VIEGYVQBGS and LDOYJKHYDW are connected.
+The cities VIEGYVQBGS and LDOYJKHYDW are not connected.
 No edge exists between the cities EZDALDBNCJ and QHBHKDZVHU
-The cities EZDALDBNCJ and QHBHKDZVHU are connected.
+The cities EZDALDBNCJ and QHBHKDZVHU are not connected.
 The distance between the cities GPXHTAZITE and MUQWXIRLCO is 276
-The cities GPXHTAZITE and MUQWXIRLCO are connected.
+The cities GPXHTAZITE and MUQWXIRLCO are not connected.
 No edge exists between the cities LIBKVLRVCS and LJHHCZQAOQ
-The cities LIBKVLRVCS and LJHHCZQAOQ are connected.
+The cities LIBKVLRVCS and LJHHCZQAOQ are not connected.
 No edge exists between the cities VIEGYVQBGS and KFORLGQYNF
-The cities VIEGYVQBGS and KFORLGQYNF are connected.
+The cities VIEGYVQBGS and KFORLGQYNF are not connected.
 No edge exists between the cities RSMTGOROUX and LRPEPDUMJW
 The cities RSMTGOROUX and LRPEPDUMJW are connected.
 No edge exists between the cities SIWIHHTGGV and GQNZKWRZSK
-The cities SIWIHHTGGV and GQNZKWRZSK are connected.
+The cities SIWIHHTGGV and GQNZKWRZSK are not connected.
 No edge exists between the cities NGDOJOMWAL and JNRLGLUBGB
-The cities NGDOJOMWAL and JNRLGLUBGB are connected.
+The cities NGDOJOMWAL and JNRLGLUBGB are not connected.
 No edge exists between the cities RSMTGOROUX and QLWZPHASRE
 The cities RSMTGOROUX and QLWZPHASRE are connected.
 No edge exists between the cities QVRITICNRQ and IQPXTOBZKF
@@ -6920,72 +6920,72 @@ The cities QVRITICNRQ and IQPXTOBZKF are connected.
 No edge exists between the cities QHBHKDZVHU and VMHZZZNDRX
 The cities QHBHKDZVHU and VMHZZZNDRX are not connected.
 No edge exists between the cities XYSHLRPWOR and EZDALDBNCJ
-The cities XYSHLRPWOR and EZDALDBNCJ are connected.
+The cities XYSHLRPWOR and EZDALDBNCJ are not connected.
 No edge exists between the cities BZZDSCMDGW and MSIZISKWQV
-The cities BZZDSCMDGW and MSIZISKWQV are connected.
+The cities BZZDSCMDGW and MSIZISKWQV are not connected.
 No edge exists between the cities FRTOKGYQTA and SHEKDXKTWP
-The cities FRTOKGYQTA and SHEKDXKTWP are connected.
+The cities FRTOKGYQTA and SHEKDXKTWP are not connected.
 No edge exists between the cities ZKDEUSXDYW and GQNZKWRZSK
 The cities ZKDEUSXDYW and GQNZKWRZSK are connected.
 No edge exists between the cities SKAFGQFLOJ and CHZHZGUDCL
-The cities SKAFGQFLOJ and CHZHZGUDCL are connected.
+The cities SKAFGQFLOJ and CHZHZGUDCL are not connected.
 The distance between the cities ZKDEUSXDYW and MDFMKVEWWB is 780
-The cities ZKDEUSXDYW and MDFMKVEWWB are connected.
+The cities ZKDEUSXDYW and MDFMKVEWWB are not connected.
 The distance between the cities TFPLRYLPSO and OKMUPXOLEL is 853
-The cities TFPLRYLPSO and OKMUPXOLEL are connected.
+The cities TFPLRYLPSO and OKMUPXOLEL are not connected.
 No edge exists between the cities BEVSOWUDIY and VRFCAEWWUE
 The cities BEVSOWUDIY and VRFCAEWWUE are not connected.
 No edge exists between the cities BVMELBXEPY and SIWIHHTGGV
-The cities BVMELBXEPY and SIWIHHTGGV are connected.
+The cities BVMELBXEPY and SIWIHHTGGV are not connected.
 No edge exists between the cities NPPNAHGENQ and ACUQVRUVEP
-The cities NPPNAHGENQ and ACUQVRUVEP are connected.
+The cities NPPNAHGENQ and ACUQVRUVEP are not connected.
 The distance between the cities NGDOJOMWAL and VIEGYVQBGS is 371
-The cities NGDOJOMWAL and VIEGYVQBGS are connected.
+The cities NGDOJOMWAL and VIEGYVQBGS are not connected.
 The distance between the cities BTYWWHCUOB and TFPLRYLPSO is 153
-The cities BTYWWHCUOB and TFPLRYLPSO are connected.
+The cities BTYWWHCUOB and TFPLRYLPSO are not connected.
 No edge exists between the cities KVCHUMDPBZ and EIACGTMSXT
 The cities KVCHUMDPBZ and EIACGTMSXT are not connected.
 No edge exists between the cities NCTOSUYUMM and EZDALDBNCJ
-The cities NCTOSUYUMM and EZDALDBNCJ are connected.
+The cities NCTOSUYUMM and EZDALDBNCJ are not connected.
 No edge exists between the cities MDFMKVEWWB and PLWWUFMRYE
-The cities MDFMKVEWWB and PLWWUFMRYE are connected.
+The cities MDFMKVEWWB and PLWWUFMRYE are not connected.
 The distance between the cities BEVSOWUDIY and DKFBGQMKMA is 979
-The cities BEVSOWUDIY and DKFBGQMKMA are connected.
+The cities BEVSOWUDIY and DKFBGQMKMA are not connected.
 No edge exists between the cities MSIZISKWQV and PGLQMDSALV
-The cities MSIZISKWQV and PGLQMDSALV are connected.
+The cities MSIZISKWQV and PGLQMDSALV are not connected.
 No edge exists between the cities TFPLRYLPSO and QXCEECNVFB
 The cities TFPLRYLPSO and QXCEECNVFB are not connected.
 No edge exists between the cities UAKYDLGGNF and HBNNCYQVHI
-The cities UAKYDLGGNF and HBNNCYQVHI are connected.
+The cities UAKYDLGGNF and HBNNCYQVHI are not connected.
 The distance between the cities SKAFGQFLOJ and QVRITICNRQ is 318
-The cities SKAFGQFLOJ and QVRITICNRQ are connected.
+The cities SKAFGQFLOJ and QVRITICNRQ are not connected.
 The distance between the cities BDEVXFYMXR and RSMTGOROUX is 869
-The cities BDEVXFYMXR and RSMTGOROUX are connected.
+The cities BDEVXFYMXR and RSMTGOROUX are not connected.
 No edge exists between the cities XIYTTSJLJY and IWRLCYWTCH
-The cities XIYTTSJLJY and IWRLCYWTCH are connected.
+The cities XIYTTSJLJY and IWRLCYWTCH are not connected.
 No edge exists between the cities QLWZPHASRE and IGHNYLQEDT
-The cities QLWZPHASRE and IGHNYLQEDT are connected.
+The cities QLWZPHASRE and IGHNYLQEDT are not connected.
 The distance between the cities PFWLJAUZVO and LKBTTPKGAL is 394
-The cities PFWLJAUZVO and LKBTTPKGAL are connected.
+The cities PFWLJAUZVO and LKBTTPKGAL are not connected.
 The distance between the cities SECYLKVISX and VRFCAEWWUE is 784
 The cities SECYLKVISX and VRFCAEWWUE are connected.
 No edge exists between the cities BZZDSCMDGW and MSIZISKWQV
-The cities BZZDSCMDGW and MSIZISKWQV are connected.
+The cities BZZDSCMDGW and MSIZISKWQV are not connected.
 No edge exists between the cities KNMEUNVWFL and RSMTGOROUX
-The cities KNMEUNVWFL and RSMTGOROUX are connected.
+The cities KNMEUNVWFL and RSMTGOROUX are not connected.
 No edge exists between the cities UAKYDLGGNF and JNRLGLUBGB
-The cities UAKYDLGGNF and JNRLGLUBGB are connected.
+The cities UAKYDLGGNF and JNRLGLUBGB are not connected.
 No edge exists between the cities QVRITICNRQ and DWGAYPLDOC
-The cities QVRITICNRQ and DWGAYPLDOC are connected.
+The cities QVRITICNRQ and DWGAYPLDOC are not connected.
 The distance between the cities BDEVXFYMXR and KFORLGQYNF is 950
-The cities BDEVXFYMXR and KFORLGQYNF are connected.
+The cities BDEVXFYMXR and KFORLGQYNF are not connected.
 The distance between the cities SOQLCETRQO and RIACTLWTHA is 613
-The cities SOQLCETRQO and RIACTLWTHA are connected.
+The cities SOQLCETRQO and RIACTLWTHA are not connected.
 No edge exists between the cities BLSNHZYYJQ and KNMEUNVWFL
-The cities BLSNHZYYJQ and KNMEUNVWFL are connected.
+The cities BLSNHZYYJQ and KNMEUNVWFL are not connected.
 The distance between the cities YBRSVCCNHT and OTYZERVHPJ is 457
-The cities YBRSVCCNHT and OTYZERVHPJ are connected.
+The cities YBRSVCCNHT and OTYZERVHPJ are not connected.
 BFS path: 
-0	73	15	109	90	8	23	54	95	6	94	108	77	104	22	70	45	12	58	1	19	80	52	2	34	44	86	98	50	42	66	75	36	112	17	46	35	65	28	96	82	63	16	89	25	59	100	78	32	9	61	87	20	21	49	97	93	81	69	114	105	10	24	27	18	76	85	103	64	4	83	5	26	47	41	13	74	67	55	38	111	107	56	62	11	37	88	79	57	102	92	91	39	84	60	71	106	29	53	3	99	48	33	31	68	30	113	40	110	43	51	14	72	7	
+0	12	17	87	64	4	88	79	68	30	113	40	110	43	51	14	72	7	
 DFS path: 
-0	2	52	80	19	1	58	12	45	70	22	104	77	108	94	6	95	54	23	8	90	109	15	73	39	64	5	87	33	99	111	112	88	17	40	74	25	49	83	93	47	103	41	106	100	13	79	71	46	27	62	75	81	98	16	69	72	20	18	85	32	57	24	67	11	51	105	92	96	4	63	60	101	61	48	114	10	42	53	38	3	34	113	97	14	44	29	102	56	110	78	30	84	55	9	89	86	28	76	66	7	91	65	21	31	35	107	82	59	43	37	36	68	50	26	
+0	73	41	8	47	33	98	11	4	62	29	55	89	94	44	57	22	110	23	65	24	40	105	66	36	103	86	90	21	42	109	104	92	114	51	69	50	99	56	60	102	63	9	68	108	45	93	101	3	77	5	79	16	84	88	10	113	39	2	61	97	111	78	107	15	17	59	71	100	80	52	49	83	64	26	74	31	27	1	28	75	54	38	7	25	85	14	48	70	37	30	13	76	34	12	112	20	96	58	81	91	18	32	106	82	43	19	72	67	6	87	95	53	35	46	
